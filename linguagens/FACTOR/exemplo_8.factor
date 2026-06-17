@@ -1,1 +1,1 @@
-"factor" >upper print
+// Sintaxe para string em FACTOR

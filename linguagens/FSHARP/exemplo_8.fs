@@ -1,2 +1,1 @@
-let s = "F# Language"
-printfn "%s" (s.ToUpper())
+// Sintaxe para string em FSHARP

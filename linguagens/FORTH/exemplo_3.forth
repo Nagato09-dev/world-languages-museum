@@ -1,1 +1,1 @@
-5 x ! x @ 0 > IF ." Positivo" ELSE ." Negativo" THEN
+X @ 10 > IF ." Maior" ELSE ." Menor" THEN

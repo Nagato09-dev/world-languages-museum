@@ -1,1 +1,1 @@
-let mult a b = a * b
+printfn "Olá, Mundo!"

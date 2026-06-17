@@ -1,1 +1,1 @@
-10 1 DO i . -1 +LOOP
+: HELLO ." Olá, Mundo!" ; HELLO

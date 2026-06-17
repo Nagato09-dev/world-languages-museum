@@ -1,1 +1,1 @@
-def check (x: i32) = if x > 0 then "Positivo" else "Negativo"
+// Sintaxe para if em FUTHARK

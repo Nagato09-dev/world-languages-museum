@@ -1,1 +1,1 @@
-." Nagato09-dev"
+: HELLO ." Olá, Mundo!" ; HELLO

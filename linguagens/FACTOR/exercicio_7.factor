@@ -1,1 +1,1 @@
-[ ] [ ] cleanup
+"Olá, Mundo!" print

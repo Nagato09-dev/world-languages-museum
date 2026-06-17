@@ -1,1 +1,3 @@
-real :: f = 3.14
+program hello
+  print *, "Olá, Mundo!"
+end program hello

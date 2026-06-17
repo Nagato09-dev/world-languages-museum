@@ -1,1 +1,1 @@
-reverse
+"Olá, Mundo!" print

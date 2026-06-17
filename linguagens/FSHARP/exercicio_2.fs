@@ -1,2 +1,1 @@
-let f = 3.14
-printfn "%f" f
+printfn "Olá, Mundo!"

@@ -1,1 +1,1 @@
-SORT
+// Sintaxe para sort em FORTH

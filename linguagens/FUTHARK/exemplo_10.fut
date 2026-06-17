@@ -1,1 +1,1 @@
-def s = sort [3, 1, 4]
+// Sintaxe para sort em FUTHARK

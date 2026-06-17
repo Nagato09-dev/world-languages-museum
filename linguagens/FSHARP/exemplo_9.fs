@@ -1,1 +1,1 @@
-printfn "%f" (sqrt 16.0)
+// Sintaxe para math em FSHARP

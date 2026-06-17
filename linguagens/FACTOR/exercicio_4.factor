@@ -1,1 +1,1 @@
-10 [ 1 + . ] backward-each-integer
+"Olá, Mundo!" print

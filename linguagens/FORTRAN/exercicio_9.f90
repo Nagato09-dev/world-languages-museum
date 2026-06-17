@@ -1,1 +1,3 @@
-area = 3.14 * r * r
+program hello
+  print *, "Olá, Mundo!"
+end program hello

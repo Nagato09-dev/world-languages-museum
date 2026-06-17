@@ -1,1 +1,1 @@
-: mult ( a b -- c ) * ;
+"Olá, Mundo!" print

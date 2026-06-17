@@ -1,1 +1,1 @@
-UPPERCASE
+// Sintaxe para string em FORTH

@@ -1,1 +1,1 @@
-16 sqrt .
+// Sintaxe para math em FACTOR

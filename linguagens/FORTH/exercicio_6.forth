@@ -1,1 +1,1 @@
-lista 3 ,
+: HELLO ." Olá, Mundo!" ; HELLO

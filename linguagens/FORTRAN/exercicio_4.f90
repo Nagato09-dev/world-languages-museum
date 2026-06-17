@@ -1,3 +1,3 @@
-do i = 10, 1, -1
-  print *, i
-end do
+program hello
+  print *, "Olá, Mundo!"
+end program hello

@@ -1,1 +1,1 @@
-3.14 r @ r @ * *
+: HELLO ." Olá, Mundo!" ; HELLO

@@ -1,1 +1,3 @@
-if (mod(n, 2) == 0) print *, "Par"
+program hello
+  print *, "Olá, Mundo!"
+end program hello

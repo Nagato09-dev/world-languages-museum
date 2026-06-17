@@ -1,1 +1,3 @@
-lista(4) = 3
+program hello
+  print *, "Olá, Mundo!"
+end program hello

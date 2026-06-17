@@ -1,1 +1,1 @@
-print *, upper_case("fortran")
+// Sintaxe para string em FORTRAN

@@ -1,1 +1,1 @@
-n @ 2 MOD 0= IF ." Par" THEN
+: HELLO ." Olá, Mundo!" ; HELLO

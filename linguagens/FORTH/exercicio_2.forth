@@ -1,1 +1,1 @@
-3.14 F!
+: HELLO ." Olá, Mundo!" ; HELLO

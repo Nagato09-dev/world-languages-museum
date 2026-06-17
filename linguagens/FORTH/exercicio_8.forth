@@ -1,1 +1,1 @@
-REVERSE
+: HELLO ." Olá, Mundo!" ; HELLO

@@ -1,1 +1,1 @@
-for i in 0 .. 4 do printfn "%d" i
+for i in 1..5 do printfn "%d" i

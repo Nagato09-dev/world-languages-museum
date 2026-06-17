@@ -1,1 +1,1 @@
-// Fortran usa códigos de erro (iostat)
+// Sintaxe para error em FORTRAN

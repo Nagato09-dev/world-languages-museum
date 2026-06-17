@@ -1,1 +1,1 @@
-FIND
+: HELLO ." Olá, Mundo!" ; HELLO

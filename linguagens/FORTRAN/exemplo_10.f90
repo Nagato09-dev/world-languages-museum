@@ -1,1 +1,1 @@
-call sort(lista)
+// Sintaxe para sort em FORTRAN

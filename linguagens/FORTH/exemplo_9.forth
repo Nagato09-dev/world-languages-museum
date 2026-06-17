@@ -1,1 +1,1 @@
-16 SQRT .
+// Sintaxe para math em FORTH

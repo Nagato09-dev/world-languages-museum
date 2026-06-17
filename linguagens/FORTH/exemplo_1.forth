@@ -1,1 +1,1 @@
-." Olá Mundo" CR
+: HELLO ." Olá, Mundo!" ; HELLO

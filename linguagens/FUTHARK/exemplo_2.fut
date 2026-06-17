@@ -1,1 +1,1 @@
-def main(idade: i32) (nome: []u8) = (nome, idade)
+let x = 42

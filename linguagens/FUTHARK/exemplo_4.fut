@@ -1,1 +1,1 @@
-def main = map (\i -> i) (iota 5)
+// Sintaxe para loop em FUTHARK

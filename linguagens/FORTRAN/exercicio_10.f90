@@ -1,1 +1,3 @@
-any(lista == 2)
+program hello
+  print *, "Olá, Mundo!"
+end program hello

@@ -1,1 +1,2 @@
-def has2 (xs: []i32) = any (==2) xs
+-- Futhark é para computação paralela, sem print direto em kernels
+let main (x: i32) : i32 = x + 1

@@ -1,1 +1,1 @@
-: soma + ; 5 3 soma .
+// Sintaxe para func em FORTH

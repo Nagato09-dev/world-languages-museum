@@ -1,1 +1,1 @@
-[ "Erro" throw ] [ . ] recover
+// Sintaxe para error em FACTOR

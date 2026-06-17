@@ -1,1 +1,1 @@
-for i in 10 .. -1 .. 1 do printfn "%d" i
+printfn "Olá, Mundo!"

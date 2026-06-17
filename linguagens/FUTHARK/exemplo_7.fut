@@ -1,1 +1,1 @@
--- Futhark não tem exceções
+// Sintaxe para error em FUTHARK

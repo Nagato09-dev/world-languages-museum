@@ -1,1 +1,1 @@
-: mult * ;
+: HELLO ." Olá, Mundo!" ; HELLO

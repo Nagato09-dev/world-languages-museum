@@ -1,1 +1,1 @@
-5 0 DO i . LOOP
+: LOOP-TEST 5 0 DO I . LOOP ; LOOP-TEST

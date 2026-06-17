@@ -1,3 +1,2 @@
-25 "idade" set
-"Factor" "nome" set
-"nome" get print
+42 [ x ] set
+"Factor" [ s ] set

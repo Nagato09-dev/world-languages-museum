@@ -1,3 +1,3 @@
-do i = 0, 4
+do i = 1, 5
   print *, i
 end do

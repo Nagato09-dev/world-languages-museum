@@ -1,1 +1,3 @@
-read(..., iostat=ios)
+program hello
+  print *, "Olá, Mundo!"
+end program hello

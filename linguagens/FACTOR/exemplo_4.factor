@@ -1,1 +1,1 @@
-5 [ . ] each-integer
+5 [ i . ] each-integer

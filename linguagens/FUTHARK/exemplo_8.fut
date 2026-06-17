@@ -1,1 +1,1 @@
-def up = map (\c -> ...) "futhark"
+// Sintaxe para string em FUTHARK

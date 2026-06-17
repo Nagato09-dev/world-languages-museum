@@ -1,1 +1,1 @@
-CATCH
+// Sintaxe para error em FORTH

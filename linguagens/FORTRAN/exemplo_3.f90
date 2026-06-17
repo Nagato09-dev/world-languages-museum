@@ -1,5 +1,5 @@
-if (x > 0) then
-  print *, "Positivo"
+if (x > 10) then
+  print *, "Maior"
 else
-  print *, "Negativo"
+  print *, "Menor"
 end if

@@ -1,1 +1,1 @@
-: soma ( a b -- c ) + ;
+// Sintaxe para func em FACTOR

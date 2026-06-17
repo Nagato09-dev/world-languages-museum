@@ -1,1 +1,1 @@
-5 0 > [ "Positivo" print ] [ "Negativo" print ] if
+x 10 > [ "Maior" print ] [ "Menor" print ] if

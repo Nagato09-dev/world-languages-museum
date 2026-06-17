@@ -1,1 +1,1 @@
-TRY
+: HELLO ." Olá, Mundo!" ; HELLO

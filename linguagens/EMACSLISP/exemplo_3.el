@@ -1,2 +1,1 @@
-// Exemplo 3 para EMACSLISP
-// Sintaxe autêntica
+(if (> x 0) (message "Positivo") (message "Negativo"))

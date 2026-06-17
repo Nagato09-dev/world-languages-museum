@@ -1,1 +1,1 @@
-// Exercício 5 para EMACS_LISP
+(defun mult (a b) (* a b))

@@ -1,2 +1,10 @@
-// Exemplo 2 para EIFFEL
-// Sintaxe autêntica
+class VARS
+feature
+    make
+        local
+            idade: INTEGER
+        do
+            idade := 25
+            print (idade)
+        end
+end

@@ -1,2 +1,1 @@
-// Exemplo 4 para EMACS_LISP
-// Sintaxe autêntica
+(dotimes (i 5) (print i))

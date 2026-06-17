@@ -1,2 +1,1 @@
-// Exemplo 1 para EMACSLISP
-// Sintaxe autêntica
+(message "Olá Mundo")

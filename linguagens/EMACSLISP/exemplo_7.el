@@ -1,2 +1,1 @@
-// Exemplo 7 para EMACSLISP
-// Sintaxe autêntica
+(condition-case err (error "Erro") (error (message "%s" err)))

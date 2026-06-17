@@ -1,2 +1,1 @@
-// Exemplo 9 para EMACSLISP
-// Sintaxe autêntica
+(sqrt 16.0)

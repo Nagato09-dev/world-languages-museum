@@ -1,1 +1,1 @@
-// Exercício 6 para EMACS_LISP
+(push 3 lista)

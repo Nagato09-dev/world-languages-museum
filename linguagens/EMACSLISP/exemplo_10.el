@@ -1,2 +1,1 @@
-// Exemplo 10 para EMACSLISP
-// Sintaxe autêntica
+(sort '(3 1 4 1 5) #'<)

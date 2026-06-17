@@ -1,1 +1,1 @@
-// Exercício 6 para EMACSLISP
+(push 3 lista)

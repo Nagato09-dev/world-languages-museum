@@ -1,2 +1,1 @@
-// Exemplo 3 para EIFFEL
-// Sintaxe autêntica
+if x > 0 then print ("Positivo") else print ("Negativo") end

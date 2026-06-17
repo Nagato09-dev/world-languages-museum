@@ -1,1 +1,1 @@
-// Exercício 6 para EIFFEL
+lista.force (3, 4)

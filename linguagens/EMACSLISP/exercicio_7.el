@@ -1,1 +1,1 @@
-// Exercício 7 para EMACSLISP
+(ignore-errors (/ 1 0))

@@ -1,1 +1,1 @@
-// Exercício 7 para EMACS_LISP
+(ignore-errors (/ 1 0))

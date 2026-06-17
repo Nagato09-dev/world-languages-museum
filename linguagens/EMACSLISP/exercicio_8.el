@@ -1,1 +1,1 @@
-// Exercício 8 para EMACSLISP
+(reverse "emacs")

@@ -1,1 +1,1 @@
-// Exercício 2 para EMACSLISP
+(setq f 3.14)

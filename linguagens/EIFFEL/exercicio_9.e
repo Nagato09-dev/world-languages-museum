@@ -1,1 +1,1 @@
-// Exercício 9 para EIFFEL
+3.14 * r * r

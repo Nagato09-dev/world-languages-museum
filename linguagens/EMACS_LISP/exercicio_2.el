@@ -1,1 +1,1 @@
-// Exercício 2 para EMACS_LISP
+(setq f 3.14)

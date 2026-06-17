@@ -1,1 +1,1 @@
-// Exercício 5 para EIFFEL
+mult (a, b: INTEGER): INTEGER do Result := a * b end

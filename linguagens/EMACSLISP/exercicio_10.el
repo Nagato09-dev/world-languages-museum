@@ -1,1 +1,1 @@
-// Exercício 10 para EMACSLISP
+(member 2 '(1 2 3))

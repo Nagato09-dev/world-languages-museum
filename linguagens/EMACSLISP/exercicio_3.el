@@ -1,1 +1,1 @@
-// Exercício 3 para EMACSLISP
+(if (= 0 (% n 2)) "Par" "Ímpar")

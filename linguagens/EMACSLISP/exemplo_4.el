@@ -1,2 +1,1 @@
-// Exemplo 4 para EMACSLISP
-// Sintaxe autêntica
+(dotimes (i 5) (print i))

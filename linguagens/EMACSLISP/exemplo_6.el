@@ -1,2 +1,1 @@
-// Exemplo 6 para EMACSLISP
-// Sintaxe autêntica
+(setq lista '(1 2 3))

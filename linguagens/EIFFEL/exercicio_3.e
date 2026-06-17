@@ -1,1 +1,1 @@
-// Exercício 3 para EIFFEL
+if n \\ 2 = 0 then

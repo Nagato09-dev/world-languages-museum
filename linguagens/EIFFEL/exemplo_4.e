@@ -1,2 +1,1 @@
-// Exemplo 4 para EIFFEL
-// Sintaxe autêntica
+across 1 |..| 5 as i loop print (i.item) end

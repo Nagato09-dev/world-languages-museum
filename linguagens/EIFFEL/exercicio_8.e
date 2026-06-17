@@ -1,1 +1,1 @@
-// Exercício 8 para EIFFEL
+s.mirrored

@@ -1,1 +1,1 @@
-// Exercício 10 para EIFFEL
+lista.has (2)

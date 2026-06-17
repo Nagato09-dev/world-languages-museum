@@ -1,2 +1,2 @@
-// Exemplo 5 para EMACS_LISP
-// Sintaxe autêntica
+(defun soma (a b) (+ a b))
+(message "Soma: %d" (soma 5 3))

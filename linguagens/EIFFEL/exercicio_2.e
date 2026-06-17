@@ -1,1 +1,1 @@
-// Exercício 2 para EIFFEL
+f: REAL := 3.14

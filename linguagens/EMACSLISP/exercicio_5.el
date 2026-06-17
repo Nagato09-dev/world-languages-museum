@@ -1,1 +1,1 @@
-// Exercício 5 para EMACSLISP
+(defun mult (a b) (* a b))

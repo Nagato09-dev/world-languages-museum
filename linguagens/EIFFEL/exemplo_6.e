@@ -1,2 +1,1 @@
-// Exemplo 6 para EIFFEL
-// Sintaxe autêntica
+lista: ARRAY [INTEGER]

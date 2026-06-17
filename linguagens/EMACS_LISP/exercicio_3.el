@@ -1,1 +1,1 @@
-// Exercício 3 para EMACS_LISP
+(if (= 0 (% n 2)) "Par" "Ímpar")

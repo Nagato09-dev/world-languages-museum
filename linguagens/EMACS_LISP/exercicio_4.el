@@ -1,1 +1,1 @@
-// Exercício 4 para EMACS_LISP
+(let ((i 10)) (while (>= i 1) (print i) (setq i (1- i))))

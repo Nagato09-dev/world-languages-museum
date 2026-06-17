@@ -1,1 +1,1 @@
-// Exercício 7 para EIFFEL
+check b /= 0 end

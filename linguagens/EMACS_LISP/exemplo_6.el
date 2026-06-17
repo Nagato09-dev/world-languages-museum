@@ -1,2 +1,1 @@
-// Exemplo 6 para EMACS_LISP
-// Sintaxe autêntica
+(setq lista '(1 2 3))

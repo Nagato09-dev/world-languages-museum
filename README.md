@@ -15,8 +15,8 @@ Abaixo está a lista das linguagens incluídas neste repositório:
 | **Mobile & App** | Swift, Kotlin, Java, Dart, Objective-C |
 | **Funcionais** | Haskell, Scala, Clojure, Erlang, OCaml, F#, Scheme, Lisp |
 | **Corporativas & Antigas** | C#, COBOL, Pascal, Groovy, ActionScript |
-| **Scripts & Ferramentas** | Bash, PowerShell, Lua, Perl, Tcl, R, Julia, MATLAB |
-| **Especializadas** | SQL, Solidity, Verilog, VHDL, Smalltalk, Forth, PostScript |
+| **Scripts & Ferramentas** | Bash, PowerShell, Lua, Perl, Tcl, R, Julia, MATLAB, Nix, Dockerfile |
+| **Especializadas** | SQL, Solidity, Verilog, VHDL, Smalltalk, Forth, PostScript, TeX |
 | **Esotéricas** | Brainfuck |
 
 ## 🚀 Como Explorar

@@ -1,3 +1,8 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+{# Exercício 7: Simular erro de acesso #}
+{# Jinja2 não tem try-catch. Usar condicionais para evitar acesso a chaves inexistentes. #}
+{% set dados = {"chave": "valor"} %}
+{% if "outra_chave" in dados %}
+    <p>Valor de outra_chave: {{ dados.outra_chave }}</p>
+{% else %}
+    <p>Chave 'outra_chave' não encontrada.</p>
+{% endif %}

@@ -1,13 +1,5 @@
-
-{# Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba. #}
-
+{# Exercício 10: Classificação de Números #}
 {% set numeros = [5, 2, 8, 1, 9] %}
 {% set numeros_ordenados = numeros | sort %}
-
-<p>Números originais: {{ numeros | join(', ') }}</p>
-<p>Números ordenados:</p>
-<ul>
-{% for num in numeros_ordenados %}
-    <li>{{ num }}</li>
-{% endfor %}
-</ul>
+<p>Números originais: {{ numeros | join(", ") }}</p>
+<p>Números ordenados: {{ numeros_ordenados | join(", ") }}</p>

@@ -1,2 +1,7 @@
-<!-- JINJA2 - Matemática - Operações aritméticas básicas. -->
-<div>Matemática - Operações aritméticas básicas.</div>
+{# Exemplo 9: Operação matemática (raiz quadrada ou similar) #}
+{# Jinja2 não tem função de raiz quadrada nativa, mas pode-se passar do Python. #}
+{# Assumindo que 'sqrt' é uma função passada do contexto Python #}
+{% set numero = 16 %}
+<p>Número: {{ numero }}</p>
+{# <p>Raiz quadrada: {{ sqrt(numero) }}</p> #}
+<p>Para operações matemáticas complexas, é comum pré-processar no Python e passar o resultado.</p>

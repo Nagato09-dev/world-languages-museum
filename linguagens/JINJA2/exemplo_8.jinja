@@ -1,2 +1,4 @@
-<!-- JINJA2 - Manipulação de Strings - Trabalhando com textos. -->
-<div>Manipulação de Strings - Trabalhando com textos.</div>
+{# Exemplo 8: Manipulação de string (maiúsculas) #}
+{% set texto = "jinja2 é legal" %}
+<p>Original: {{ texto }}</p>
+<p>Maiúsculas: {{ texto | upper }}</p>

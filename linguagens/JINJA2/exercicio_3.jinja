@@ -1,4 +1,7 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
-
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+{# Exercício 3: Par ou Ímpar #}
+{% set num = 7 %}
+{% if num % 2 == 0 %}
+    <p>{{ num }} é par.</p>
+{% else %}
+    <p>{{ num }} é ímpar.</p>
+{% endif %}

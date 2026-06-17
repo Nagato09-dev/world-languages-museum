@@ -1,2 +1,3 @@
-# ACTION - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+IF x > y THEN
+  PrintE("X é maior")
+FI

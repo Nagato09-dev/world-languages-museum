@@ -1,2 +1,2 @@
-# ADVPL - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+Static Function Soma(n1, n2)
+Return n1 + n2

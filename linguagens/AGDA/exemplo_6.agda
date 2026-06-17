@@ -1,4 +1,3 @@
--- AGDA - Estruturas de Dados - Listas, Vetores ou Mapas.
-main :: IO ()
-main = do
-    putStrLn "Estruturas de Dados - Listas, Vetores ou Mapas."
+data List (A : Set) : Set where
+  [] : List A
+  _::_ : A → List A → List A

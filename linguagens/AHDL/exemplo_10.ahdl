@@ -1,6 +1,3 @@
-// AHDL - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-module main;
-  initial begin
-    $display("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
-  end
-endmodule
+CASE state IS
+  WHEN 0 => next = 1;
+END CASE;

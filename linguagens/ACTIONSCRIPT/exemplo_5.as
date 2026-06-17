@@ -1,2 +1,3 @@
-// ACTIONSCRIPT - Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+function add(a:int, b:int):int {
+  return a + b;
+}

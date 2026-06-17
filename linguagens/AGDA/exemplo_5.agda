@@ -1,4 +1,3 @@
--- AGDA - Funções - Criando blocos de código reutilizáveis.
-main :: IO ()
-main = do
-    putStrLn "Funções - Criando blocos de código reutilizáveis."
+add : ℕ → ℕ → ℕ
+add zero n = n
+add (suc m) n = suc (add m n)

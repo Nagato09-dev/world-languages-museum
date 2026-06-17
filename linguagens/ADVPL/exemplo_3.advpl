@@ -1,2 +1,5 @@
-# ADVPL - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+If nVar > 5
+  Alert("Maior")
+Else
+  Alert("Menor")
+EndIf

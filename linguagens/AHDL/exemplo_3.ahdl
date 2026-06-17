@@ -1,6 +1,3 @@
-// AHDL - Controle de Fluxo - Estruturas condicionais (se/então).
-module main;
-  initial begin
-    $display("Controle de Fluxo - Estruturas condicionais (se/então).");
-  end
-endmodule
+IF d == VCC THEN
+  q = d;
+END IF;

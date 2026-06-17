@@ -1,2 +1,2 @@
-# ADVPL - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+Local nVar := 10
+Local cText := "Texto"

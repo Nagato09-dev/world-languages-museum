@@ -1,2 +1,1 @@
-// ACTIONSCRIPT - Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+var full:String = "A" + "B";

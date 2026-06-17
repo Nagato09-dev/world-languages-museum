@@ -1,2 +1,1 @@
-# ABNF - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+error = %x00 ; Reservado para erro

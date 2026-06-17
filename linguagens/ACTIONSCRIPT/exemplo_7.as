@@ -1,2 +1,5 @@
-// ACTIONSCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+try {
+  throw new Error("Erro");
+} catch (e:Error) {
+  trace(e.message);
+}

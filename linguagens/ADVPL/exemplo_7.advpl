@@ -1,2 +1,5 @@
-# ADVPL - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+TRYEXCEPTION
+  nRes := 1 / 0
+CATCHEXCEPTION
+  Alert("Erro")
+ENDEXCEPTION

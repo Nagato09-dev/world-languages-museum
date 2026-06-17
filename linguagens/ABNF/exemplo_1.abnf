@@ -1,2 +1,2 @@
-; Olá Mundo em ABNF (não é executável, apenas definição)
+; Olá Mundo em ABNF
 hello-world = %x4F.6C.E1.20.4D.75.6E.64.6F

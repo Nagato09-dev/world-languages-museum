@@ -1,2 +1,3 @@
-// ACTIONSCRIPT - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+for (var i:int = 0; i < 10; i++) {
+  trace(i);
+}

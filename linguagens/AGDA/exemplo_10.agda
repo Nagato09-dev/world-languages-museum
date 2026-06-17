@@ -1,4 +1,1 @@
--- AGDA - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-main :: IO ()
-main = do
-    putStrLn "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+record Monad (M : Set → Set) : Set1 where

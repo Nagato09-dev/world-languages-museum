@@ -1,4 +1,1 @@
--- AGDA - Controle de Fluxo - Estruturas condicionais (se/então).
-main :: IO ()
-main = do
-    putStrLn "Controle de Fluxo - Estruturas condicionais (se/então)."
+if_then_else_ : {A : Set} → Bool → A → A → A

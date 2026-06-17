@@ -1,2 +1,1 @@
-# ACTION - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+BYTE x=[10], y=[20]

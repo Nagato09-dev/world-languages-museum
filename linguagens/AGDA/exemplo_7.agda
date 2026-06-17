@@ -1,4 +1,4 @@
--- AGDA - Tratamento de Erros - Lidando com exceções e falhas.
-main :: IO ()
-main = do
-    putStrLn "Tratamento de Erros - Lidando com exceções e falhas."
+-- Agda é total, erros são tipos
+data Maybe (A : Set) : Set where
+  nothing : Maybe A
+  just : A → Maybe A

@@ -1,2 +1,1 @@
-# ABNF - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+string = 1*ALPHA

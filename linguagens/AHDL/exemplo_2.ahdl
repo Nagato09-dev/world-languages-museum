@@ -1,6 +1,2 @@
-// AHDL - Variáveis e Tipos - Como armazenar dados.
-module main;
-  initial begin
-    $display("Variáveis e Tipos - Como armazenar dados.");
-  end
-endmodule
+VARIABLE
+  q[3..0] : NODE;

@@ -1,2 +1,3 @@
-# ADVPL - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+For nI := 1 To 10
+  ConOut(nI)
+Next

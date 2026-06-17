@@ -1,2 +1,2 @@
-// ACTIONSCRIPT - Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+var x:int = 10;
+var s:String = "Olá";

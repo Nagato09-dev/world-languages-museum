@@ -1,2 +1,5 @@
-// ACTIONSCRIPT - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+if (x > 5) {
+  trace("Maior");
+} else {
+  trace("Menor");
+}

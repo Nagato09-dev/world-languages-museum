@@ -1,2 +1,1 @@
-// ACTIONSCRIPT - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+var res:Number = Math.sqrt(16);

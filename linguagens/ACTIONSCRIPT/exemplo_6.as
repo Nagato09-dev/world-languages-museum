@@ -1,2 +1,1 @@
-// ACTIONSCRIPT - Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+var list:Array = [1, 2, 3];

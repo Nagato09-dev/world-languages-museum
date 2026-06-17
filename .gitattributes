@@ -1,5 +1,0 @@
-# Marcar o script de geração como documentação para que não conte nas estatísticas de linguagem
-generate_examples.py linguist-documentation
-
-# Garantir que todos os arquivos na pasta examples sejam contados como código
-examples/* linguist-detectable=true

@@ -1,12 +1,9 @@
 # World Languages Museum 🌍💻
 
-Bem-vindo ao **World Languages Museum**! Este repositório é uma coleção abrangente de exemplos de código "Hello, World!" em mais de 100 linguagens de programação diferentes. 
+Bem-vindo ao **World Languages Museum**! Este repositório é uma coleção massiva de exemplos de código em mais de 100 linguagens de programação diferentes.
 
-O objetivo deste projeto é fornecer uma visão rápida da sintaxe e da estrutura de diversas linguagens, desde as mais fundamentais até as mais modernas e esotéricas.
-
-## 📂 Conteúdo do Museu
-
-Abaixo está a lista das linguagens incluídas neste repositório:
+## 📂 Nova Estrutura
+Agora cada linguagem possui sua própria pasta dedicada contendo múltiplos exemplos de código para melhor visualização e organização.
 
 | Categoria | Linguagens |
 | :--- | :--- |
@@ -20,23 +17,7 @@ Abaixo está a lista das linguagens incluídas neste repositório:
 | **Esotéricas** | Brainfuck, LOLCODE, Befunge |
 
 ## 🚀 Como Explorar
-
-Cada linguagem tem seu próprio arquivo na pasta `examples/`. Você pode visualizar o código diretamente no GitHub para comparar como cada linguagem lida com a tarefa simples de imprimir uma mensagem na tela.
-
-### Exemplo em Rust (`examples/rust.rs`)
-```rust
-fn main() {
-    println!("Hello, World!");
-}
-```
-
-### Exemplo em Brainfuck (`examples/brainfuck.bf`)
-```bf
-++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
-```
-
-## 🛠️ Gerador de Exemplos
-Os arquivos foram gerados automaticamente usando o script `generate_examples.py` incluído na raiz deste repositório.
+Navegue pela pasta `languages/` para encontrar a sua linguagem de interesse. Cada subpasta contém 10 arquivos de exemplo para demonstrar a sintaxe e garantir a detecção correta pelo GitHub.
 
 ## ✨ Créditos
 Criado por **Gabriel** (Nagato09-dev).

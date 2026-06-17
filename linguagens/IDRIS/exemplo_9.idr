@@ -1,4 +1,1 @@
--- IDRIS - Matemática - Operações aritméticas básicas.
-main :: IO ()
-main = do
-    putStrLn "Matemática - Operações aritméticas básicas."
+sqrt 16.0

@@ -1,2 +1,2 @@
-# IO - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+e := try("Erro" raise)
+e catch(Exception, e println)

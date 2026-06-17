@@ -1,2 +1,2 @@
-# INFORM_7 - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+To decide which number is the sum of (A - a number) and (B - a number):
+  decide on A plus B.

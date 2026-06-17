@@ -1,2 +1,3 @@
-# INFORM_7 - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+"Olá Mundo" by Nagato09-dev
+
+The World is a room. The description of the World is "Olá Mundo".

@@ -1,2 +1,1 @@
-# INFORM_7 - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+If the score is greater than 0, say "Positivo"; otherwise say "Negativo".

@@ -1,2 +1,1 @@
-# IGOR_PRO - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+sqrt(16)

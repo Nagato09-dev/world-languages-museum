@@ -1,4 +1,1 @@
--- IDRIS - Tratamento de Erros - Lidando com exceções e falhas.
-main :: IO ()
-main = do
-    putStrLn "Tratamento de Erros - Lidando com exceções e falhas."
+-- Idris usa tipos para evitar erros

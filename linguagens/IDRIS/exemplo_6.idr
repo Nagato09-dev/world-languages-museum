@@ -1,4 +1,2 @@
--- IDRIS - Estruturas de Dados - Listas, Vetores ou Mapas.
-main :: IO ()
-main = do
-    putStrLn "Estruturas de Dados - Listas, Vetores ou Mapas."
+lista : List Int
+lista = [1, 2, 3]

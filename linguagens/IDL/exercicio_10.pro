@@ -1,0 +1,1 @@
+where(lista eq 2)

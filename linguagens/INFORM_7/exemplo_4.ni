@@ -1,2 +1,2 @@
-# INFORM_7 - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+Repeat with N running from 0 to 4:
+  say "[N] ".

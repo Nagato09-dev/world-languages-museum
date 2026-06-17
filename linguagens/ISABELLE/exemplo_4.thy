@@ -1,2 +1,1 @@
-# ISABELLE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Isabelle usa recursão para loops

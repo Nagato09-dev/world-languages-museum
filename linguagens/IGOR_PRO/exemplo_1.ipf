@@ -1,2 +1,1 @@
-# IGOR_PRO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+Print "Olá Mundo"

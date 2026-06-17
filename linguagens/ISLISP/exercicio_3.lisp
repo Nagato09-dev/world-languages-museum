@@ -1,0 +1,1 @@
+(if (= 0 (mod n 2)) (print "Par"))

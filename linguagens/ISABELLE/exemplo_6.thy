@@ -1,2 +1,1 @@
-# ISABELLE - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+definition "lista = [1, 2, 3]"

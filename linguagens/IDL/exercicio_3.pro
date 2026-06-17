@@ -1,0 +1,1 @@
+if n mod 2 eq 0 then print, "Par"

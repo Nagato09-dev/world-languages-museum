@@ -1,0 +1,1 @@
+// Ink não tem try-catch

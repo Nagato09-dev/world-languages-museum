@@ -1,2 +1,1 @@
-# ISABELLE - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+definition soma :: "nat \<Rightarrow> nat \<Rightarrow> nat" where "soma a b = a + b"

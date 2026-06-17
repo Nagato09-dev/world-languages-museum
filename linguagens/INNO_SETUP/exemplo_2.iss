@@ -1,2 +1,8 @@
-# INNO_SETUP - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+[Code]
+var
+  Idade: Integer;
+  Nome: String;
+begin
+  Idade := 25;
+  Nome := 'Inno Setup';
+end;

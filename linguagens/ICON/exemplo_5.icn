@@ -1,2 +1,3 @@
-# ICON - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+procedure soma(a, b)
+  return a + b
+end

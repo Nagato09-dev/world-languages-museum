@@ -1,2 +1,1 @@
-# IO - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+16 sqrt

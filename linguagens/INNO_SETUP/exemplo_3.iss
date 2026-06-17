@@ -1,2 +1,1 @@
-# INNO_SETUP - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if X > 0 then MsgBox('Positivo', mbInformation, MB_OK);

@@ -1,2 +1,1 @@
-# INFORM_7 - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+The list of numbers is a list of numbers that varies. The list of numbers is {1, 2, 3}.

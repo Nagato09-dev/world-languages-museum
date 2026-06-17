@@ -1,2 +1,2 @@
-# ICON - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Icon usa falha para controle de fluxo
+/x := 1

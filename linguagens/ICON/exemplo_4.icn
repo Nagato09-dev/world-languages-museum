@@ -1,2 +1,1 @@
-# ICON - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+every i := 0 to 4 do write(i)

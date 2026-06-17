@@ -1,0 +1,1 @@
+(let ((idade 25) (nome "ISLISP")) (format (standard-output) "~A tem ~D anos\n" nome idade))

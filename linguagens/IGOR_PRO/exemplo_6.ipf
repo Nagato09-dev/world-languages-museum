@@ -1,2 +1,1 @@
-# IGOR_PRO - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+Make/N=3 lista = {1, 2, 3}

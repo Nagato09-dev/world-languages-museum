@@ -1,2 +1,2 @@
-# ISABELLE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+definition "idade = (25::nat)"
+definition "nome = ''Isabelle''"

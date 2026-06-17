@@ -1,2 +1,1 @@
-# INFORM_7 - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+Say "[real name]" in upper case.

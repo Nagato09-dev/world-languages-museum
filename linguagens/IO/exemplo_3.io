@@ -1,2 +1,1 @@
-# IO - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if(x > 0, "Positivo" println, "Negativo" println)

@@ -1,2 +1,1 @@
-# INNO_SETUP - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try ... except ... end;

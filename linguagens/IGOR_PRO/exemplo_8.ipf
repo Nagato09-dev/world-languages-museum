@@ -1,2 +1,1 @@
-# IGOR_PRO - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+UpperStr("igor pro")

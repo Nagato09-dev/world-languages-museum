@@ -1,2 +1,5 @@
-# ICON - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+procedure main()
+  idade := 25
+  nome := "Icon"
+  write(nome || " tem " || idade || " anos")
+end

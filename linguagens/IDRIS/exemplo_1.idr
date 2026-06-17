@@ -1,4 +1,3 @@
--- IDRIS - Olá Mundo - O básico de qualquer linguagem.
-main :: IO ()
-main = do
-    putStrLn "Olá Mundo - O básico de qualquer linguagem."
+module Main
+main : IO ()
+main = putStrLn "Olá Mundo"

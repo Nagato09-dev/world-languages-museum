@@ -1,2 +1,4 @@
-# IGOR_PRO - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+Variable i
+for (i = 0; i < 5; i += 1)
+  Print i
+endfor

@@ -1,2 +1,1 @@
-# INFORM_7 - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Inform 7 uses rules instead of try-catch.

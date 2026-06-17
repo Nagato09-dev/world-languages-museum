@@ -1,2 +1,3 @@
-# IGOR_PRO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+Variable idade = 25
+String nome = "Igor Pro"
+Print nome + " tem " + num2str(idade) + " anos"

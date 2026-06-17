@@ -1,2 +1,4 @@
-# INNO_SETUP - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function Soma(A, B: Integer): Integer;
+begin
+  Result := A + B;
+end;

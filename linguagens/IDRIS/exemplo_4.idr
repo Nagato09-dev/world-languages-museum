@@ -1,4 +1,2 @@
--- IDRIS - Loops - Repetindo tarefas com para/enquanto.
-main :: IO ()
-main = do
-    putStrLn "Loops - Repetindo tarefas com para/enquanto."
+main : IO ()
+main = traverse_ print [0..4]

@@ -1,2 +1,1 @@
-# INNO_SETUP - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Inno Setup usa arrays dinâmicos em Pascal Script

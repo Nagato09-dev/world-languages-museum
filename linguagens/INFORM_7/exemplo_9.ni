@@ -1,2 +1,1 @@
-# INFORM_7 - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+The square root of 16 is 4.

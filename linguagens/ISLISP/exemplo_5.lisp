@@ -1,0 +1,1 @@
+(defun soma (a b) (+ a b))

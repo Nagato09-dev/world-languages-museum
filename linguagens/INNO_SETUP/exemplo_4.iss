@@ -1,2 +1,1 @@
-# INNO_SETUP - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for I := 0 to 4 do begin end;

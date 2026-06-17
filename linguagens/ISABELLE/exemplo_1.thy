@@ -1,2 +1,5 @@
-# ISABELLE - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+theory Hello
+imports Main
+begin
+  definition "hello = ''Olá Mundo''"
+end

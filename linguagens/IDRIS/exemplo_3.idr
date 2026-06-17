@@ -1,4 +1,2 @@
--- IDRIS - Controle de Fluxo - Estruturas condicionais (se/então).
-main :: IO ()
-main = do
-    putStrLn "Controle de Fluxo - Estruturas condicionais (se/então)."
+check : Int -> String
+check x = if x > 0 then "Positivo" else "Negativo"

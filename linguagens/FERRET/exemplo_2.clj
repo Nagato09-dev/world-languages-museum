@@ -1,1 +1,0 @@
-(let [idade 25 nome "Ferret"] (println (str nome " tem " idade " anos")))

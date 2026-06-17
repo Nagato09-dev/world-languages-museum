@@ -1,1 +1,0 @@
-(if (= 0 (mod n 2)) (println "Par"))

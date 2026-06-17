@@ -1,1 +1,0 @@
-(clojure.string/upper-case "ferret")

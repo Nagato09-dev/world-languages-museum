@@ -1,1 +1,0 @@
-(try (throw (Exception. "Erro")) (catch Exception e (println (.getMessage e))))

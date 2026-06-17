@@ -1,1 +1,2 @@
-// Exemplo 6 de Node.js\nconsole.log('Executando exemplo 6');
+const frutas = ['Maçã', 'Banana', 'Laranja'];
+frutas.forEach(f => console.log(f));

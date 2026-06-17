@@ -1,1 +1,3 @@
-// Exemplo 4 de Node.js\nconsole.log('Executando exemplo 4');
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}

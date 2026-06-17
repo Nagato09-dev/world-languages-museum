@@ -1,1 +1,4 @@
-// Exercício 4 de Node.js\nconsole.log('Solução do exercício 4');
+let i = 0;
+while(i < 3) {
+  console.log(i++);
+}

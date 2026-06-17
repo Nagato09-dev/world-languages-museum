@@ -1,1 +1,2 @@
-// Exercício 2 de Node.js\nconsole.log('Solução do exercício 2');
+const idade = 25;
+console.log(`Minha idade é ${idade}`);

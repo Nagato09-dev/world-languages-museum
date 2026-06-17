@@ -1,1 +1,1 @@
-// Exercício 7 de Node.js\nconsole.log('Solução do exercício 7');
+if(!process.env.DB_URL) console.warn('Aviso: DB_URL não definida');

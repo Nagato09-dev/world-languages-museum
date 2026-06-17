@@ -1,1 +1,1 @@
-// Exercício 9 de Node.js\nconsole.log('Solução do exercício 9');
+console.log(Math.PI.toFixed(2));

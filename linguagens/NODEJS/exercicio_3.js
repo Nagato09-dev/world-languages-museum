@@ -1,1 +1,2 @@
-// Exercício 3 de Node.js\nconsole.log('Solução do exercício 3');
+const nota = 7;
+console.log(nota >= 6 ? 'Aprovado' : 'Reprovado');

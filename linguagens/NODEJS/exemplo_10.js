@@ -1,1 +1,3 @@
-// Exemplo 10 de Node.js\nconsole.log('Executando exemplo 10');
+const numeros = [5, 2, 8, 1];
+numeros.sort((a, b) => a - b);
+console.log(numeros);

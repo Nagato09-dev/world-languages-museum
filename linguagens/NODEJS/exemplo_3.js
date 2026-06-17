@@ -1,1 +1,6 @@
-// Exemplo 3 de Node.js\nconsole.log('Executando exemplo 3');
+const x = 15;
+if (x > 10) {
+  console.log('Maior');
+} else {
+  console.log('Menor');
+}

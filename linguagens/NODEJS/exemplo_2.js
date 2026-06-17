@@ -1,1 +1,3 @@
-// Exemplo 2 de Node.js\nconsole.log('Executando exemplo 2');
+const x = 42;
+let s = 'Node.js';
+console.log(x, s);

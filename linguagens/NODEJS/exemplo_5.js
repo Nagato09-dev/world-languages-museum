@@ -1,1 +1,4 @@
-// Exemplo 5 de Node.js\nconsole.log('Executando exemplo 5');
+function soma(a, b) {
+  return a + b;
+}
+console.log(soma(5, 3));

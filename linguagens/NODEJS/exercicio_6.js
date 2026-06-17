@@ -1,1 +1,3 @@
-// Exercício 6 de Node.js\nconsole.log('Solução do exercício 6');
+const cores = ['azul', 'verde'];
+cores.push('vermelho');
+console.log(cores);

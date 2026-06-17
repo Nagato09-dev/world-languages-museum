@@ -1,1 +1,2 @@
-// Exercício 10 de Node.js\nconsole.log('Solução do exercício 10');
+const nomes = ['Zico', 'Ana', 'Beto'];
+console.log(nomes.sort());

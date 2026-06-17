@@ -1,1 +1,3 @@
-int mult(int a, int b) => a * b;
+void main() {
+  print('Olá, Mundo!');
+}

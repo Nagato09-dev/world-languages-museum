@@ -1,1 +1,4 @@
-// Implemente uma busca linear
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

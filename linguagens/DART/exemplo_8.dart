@@ -1,4 +1,1 @@
-void main() {
-  String texto = "Dart is cool";
-  print(texto.toUpperCase());
-}
+// Sintaxe para string em DART

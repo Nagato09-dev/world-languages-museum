@@ -1,1 +1,3 @@
-function method Mult(a: int, b: int): int { a * b }
+method Main() {
+  print "Olá, Mundo!\n";
+}

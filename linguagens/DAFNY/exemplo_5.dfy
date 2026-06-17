@@ -1,3 +1,1 @@
-function method Soma(a: int, b: int): int {
-  a + b
-}
+// Sintaxe para func em DAFNY

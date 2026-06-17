@@ -1,4 +1,4 @@
-// Crie um programa que imprima seu nome
+import std.stdio;
 void main() {
-    import std.stdio; writeln("Seu Nome");
+    writeln("Olá, Mundo!");
 }

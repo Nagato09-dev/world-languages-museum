@@ -1,1 +1,3 @@
-// Reverse sequence
+method Main() {
+  print "Olá, Mundo!\n";
+}

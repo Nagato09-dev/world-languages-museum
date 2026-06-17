@@ -1,1 +1,4 @@
-// Crie uma função de multiplicação
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

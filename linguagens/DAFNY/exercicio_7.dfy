@@ -1,1 +1,3 @@
-assert b != 0;
+method Main() {
+  print "Olá, Mundo!\n";
+}

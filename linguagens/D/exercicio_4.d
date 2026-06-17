@@ -1,1 +1,4 @@
-// Faça um loop de 10 a 1
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

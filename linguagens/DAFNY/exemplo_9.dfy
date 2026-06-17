@@ -1,3 +1,1 @@
-method Main() {
-  // Matemática básica
-}
+// Sintaxe para math em DAFNY

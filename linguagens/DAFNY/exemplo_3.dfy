@@ -1,7 +1,5 @@
-method Check(x: int) {
-  if x > 0 {
-    print "Positivo\n";
-  } else {
-    print "Negativo\n";
-  }
+if x > 10 {
+  print "Maior\n";
+} else {
+  print "Menor\n";
 }

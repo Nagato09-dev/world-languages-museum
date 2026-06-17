@@ -1,1 +1,3 @@
-exists i :: 0 <= i < a.Length && a[i] == x
+method Main() {
+  print "Olá, Mundo!\n";
+}

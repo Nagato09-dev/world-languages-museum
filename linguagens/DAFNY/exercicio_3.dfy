@@ -1,1 +1,3 @@
-if n % 2 == 0 { print "Par"; }
+method Main() {
+  print "Olá, Mundo!\n";
+}

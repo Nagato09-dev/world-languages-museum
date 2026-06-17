@@ -1,3 +1,3 @@
 method Main() {
-  print "Olá Mundo\n";
+  print "Olá, Mundo!\n";
 }

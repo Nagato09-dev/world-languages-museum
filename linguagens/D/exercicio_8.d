@@ -1,1 +1,4 @@
-// Inverta uma string
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

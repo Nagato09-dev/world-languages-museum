@@ -1,0 +1,1 @@
+// Sintaxe para math em DOGESCRIPT

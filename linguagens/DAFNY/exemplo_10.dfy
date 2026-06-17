@@ -1,3 +1,1 @@
-method Sort(a: array<int>)
-  modifies a
-  // Especificações de ordenação
+// Sintaxe para sort em DAFNY

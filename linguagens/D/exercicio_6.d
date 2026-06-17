@@ -1,1 +1,4 @@
-// Adicione um elemento a um array
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

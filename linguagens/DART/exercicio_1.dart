@@ -1,3 +1,3 @@
 void main() {
-  print('Exercício 1');
+  print('Olá, Mundo!');
 }

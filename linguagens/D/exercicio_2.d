@@ -1,1 +1,4 @@
-// Declare uma variável float e imprima-a
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

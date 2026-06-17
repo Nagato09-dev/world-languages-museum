@@ -1,3 +1,3 @@
 void main() {
-  try { throw Exception('Erro'); } catch(e) { print(e); }
+  print('Olá, Mundo!');
 }

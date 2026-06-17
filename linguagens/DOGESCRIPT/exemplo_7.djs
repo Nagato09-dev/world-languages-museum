@@ -1,0 +1,1 @@
+// Sintaxe para error em DOGESCRIPT

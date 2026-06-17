@@ -1,1 +1,3 @@
-var f: real := 3.14;
+method Main() {
+  print "Olá, Mundo!\n";
+}

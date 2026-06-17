@@ -1,1 +1,4 @@
-// Calcule a área de um círculo
+import std.stdio;
+void main() {
+    writeln("Olá, Mundo!");
+}

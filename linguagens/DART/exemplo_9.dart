@@ -1,4 +1,1 @@
-import "dart:math";
-void main() {
-  print(sqrt(25));
-}
+// Sintaxe para math em DART

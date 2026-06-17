@@ -1,5 +1,3 @@
-void main() {
-  for (int i = 0; i < 5; i++) {
-    print("Contagem: $i");
-  }
+for (var i = 1; i <= 5; i++) {
+  print(i);
 }

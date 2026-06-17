@@ -1,4 +1,1 @@
-import std.stdio, std.math;
-void main() {
-    writeln(sqrt(16.0));
-}
+// Sintaxe para math em D

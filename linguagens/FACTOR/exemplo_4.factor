@@ -1,2 +1,1 @@
-// Exemplo 4 para FACTOR
-// Sintaxe autêntica
+5 [ . ] each-integer

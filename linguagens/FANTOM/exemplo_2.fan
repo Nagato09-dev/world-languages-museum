@@ -1,2 +1,3 @@
-// Exemplo 2 para FANTOM
-// Sintaxe autêntica
+idade := 25
+nome := "Fantom"
+echo("$nome tem $idade anos")

@@ -1,2 +1,1 @@
-// Exemplo 8 para FACTOR
-// Sintaxe autêntica
+"factor" >upper print

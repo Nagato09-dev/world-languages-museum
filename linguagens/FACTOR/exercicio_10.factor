@@ -1,1 +1,1 @@
-// Exercício 10 para FACTOR
+{ 1 2 3 } 2 member?

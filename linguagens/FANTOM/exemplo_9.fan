@@ -1,2 +1,1 @@
-// Exemplo 9 para FANTOM
-// Sintaxe autêntica
+echo(16.0.sqrt)

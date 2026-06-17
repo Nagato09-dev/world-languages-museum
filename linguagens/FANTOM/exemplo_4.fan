@@ -1,2 +1,1 @@
-// Exemplo 4 para FANTOM
-// Sintaxe autêntica
+5.times |i| { echo(i) }

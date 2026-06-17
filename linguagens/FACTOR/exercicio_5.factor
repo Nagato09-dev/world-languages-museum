@@ -1,1 +1,1 @@
-// Exercício 5 para FACTOR
+: mult ( a b -- c ) * ;

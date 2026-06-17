@@ -1,1 +1,1 @@
-// Exercício 8 para FACTOR
+"factor" reverse print

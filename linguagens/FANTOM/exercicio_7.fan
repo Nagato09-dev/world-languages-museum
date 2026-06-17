@@ -1,1 +1,1 @@
-// Exercício 7 para FANTOM
+try { 1/0 } catch (Err e) { echo(e) }

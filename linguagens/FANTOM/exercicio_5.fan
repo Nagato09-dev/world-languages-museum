@@ -1,1 +1,1 @@
-// Exercício 5 para FANTOM
+Int mult(Int a, Int b) { a * b }

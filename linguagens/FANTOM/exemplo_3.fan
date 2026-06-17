@@ -1,2 +1,1 @@
-// Exemplo 3 para FANTOM
-// Sintaxe autêntica
+if (x > 0) echo("Positivo") else echo("Negativo")

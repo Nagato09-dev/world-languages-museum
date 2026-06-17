@@ -1,1 +1,1 @@
-// Exercício 3 para FACTOR
+n 2 mod 0 = [ "Par" print ] if

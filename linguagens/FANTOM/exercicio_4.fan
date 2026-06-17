@@ -1,1 +1,1 @@
-// Exercício 4 para FANTOM
+for (i := 10; i >= 1; i--) echo(i)

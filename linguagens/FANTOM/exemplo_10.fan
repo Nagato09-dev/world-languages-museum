@@ -1,2 +1,2 @@
-// Exemplo 10 para FANTOM
-// Sintaxe autêntica
+list := [3, 1, 4, 1, 5].sort
+echo(list)

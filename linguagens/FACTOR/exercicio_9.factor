@@ -1,1 +1,1 @@
-// Exercício 9 para FACTOR
+pi r 2 ^ *

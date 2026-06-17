@@ -1,1 +1,1 @@
-// Exercício 8 para FANTOM
+echo("fantom".reverse)

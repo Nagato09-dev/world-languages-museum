@@ -1,1 +1,1 @@
-// Exercício 3 para FANTOM
+echo(n % 2 == 0 ? "Par" : "Ímpar")

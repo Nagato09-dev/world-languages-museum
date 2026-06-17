@@ -1,2 +1,1 @@
-// Exemplo 3 para FACTOR
-// Sintaxe autêntica
+x 0 > [ "Positivo" print ] [ "Negativo" print ] if

@@ -1,2 +1,1 @@
-// Exemplo 5 para FANTOM
-// Sintaxe autêntica
+Int soma(Int a, Int b) { a + b }

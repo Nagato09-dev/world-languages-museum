@@ -1,2 +1,1 @@
-// Exemplo 9 para FACTOR
-// Sintaxe autêntica
+16.0 sqrt .

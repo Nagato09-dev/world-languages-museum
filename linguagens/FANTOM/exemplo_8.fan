@@ -1,2 +1,1 @@
-// Exemplo 8 para FANTOM
-// Sintaxe autêntica
+echo("fantom".upper)

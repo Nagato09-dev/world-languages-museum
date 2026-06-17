@@ -1,2 +1,1 @@
-// Exemplo 1 para FANTOM
-// Sintaxe autêntica
+class Hello { static Void main() { echo("Olá Mundo") } }

@@ -1,1 +1,1 @@
-// Exercício 2 para FANTOM
+f := 3.14

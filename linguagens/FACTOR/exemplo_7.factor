@@ -1,2 +1,1 @@
-// Exemplo 7 para FACTOR
-// Sintaxe autêntica
+[ 1 0 / ] [ drop "Erro" print ] recover

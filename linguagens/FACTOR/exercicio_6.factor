@@ -1,1 +1,1 @@
-// Exercício 6 para FACTOR
+{ 1 2 } 3 suffix

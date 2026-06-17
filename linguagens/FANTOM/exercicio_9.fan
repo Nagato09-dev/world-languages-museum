@@ -1,1 +1,1 @@
-// Exercício 9 para FANTOM
+Float.pi * r.pow(2.0)

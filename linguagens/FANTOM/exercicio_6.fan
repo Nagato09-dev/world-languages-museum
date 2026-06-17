@@ -1,1 +1,1 @@
-// Exercício 6 para FANTOM
+lista.add(3)

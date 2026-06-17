@@ -1,2 +1,2 @@
-// Exemplo 6 para FANTOM
-// Sintaxe autêntica
+lista := [1, 2, 3]
+echo(lista)

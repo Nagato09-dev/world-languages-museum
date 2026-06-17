@@ -1,2 +1,1 @@
-// Exemplo 6 para FACTOR
-// Sintaxe autêntica
+{ 1 2 3 } .

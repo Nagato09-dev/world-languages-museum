@@ -1,2 +1,1 @@
-// Exemplo 7 para FANTOM
-// Sintaxe autêntica
+try { throw Err("Erro") } catch (Err e) { echo(e.msg) }

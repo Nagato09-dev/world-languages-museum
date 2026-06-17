@@ -1,1 +1,1 @@
-// Exercício 4 para FACTOR
+10 [ 10 swap - . ] each-integer

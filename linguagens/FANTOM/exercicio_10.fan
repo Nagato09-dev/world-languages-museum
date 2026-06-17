@@ -1,1 +1,1 @@
-// Exercício 10 para FANTOM
+lista.contains(2)

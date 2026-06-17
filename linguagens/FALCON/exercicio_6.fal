@@ -1,1 +1,4 @@
-// Exercício 6 para FALCON
+#!/usr/bin/falcon
+
+var frutas = ["maçã", "banana", "laranja"]
+print("Minhas frutas: " + frutas)

@@ -1,2 +1,8 @@
-// Exemplo 3 para FALCON
-// Sintaxe autêntica
+#!/usr/bin/falcon
+
+var idade = 20
+
+if idade >= 18:
+    print("Maior de idade")
+else:
+    print("Menor de idade")

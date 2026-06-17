@@ -1,1 +1,4 @@
-// Exercício 4 para FALCON
+#!/usr/bin/falcon
+
+for i in 1..3:
+    print("Exercício Loop: " + i)

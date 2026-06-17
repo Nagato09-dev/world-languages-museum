@@ -1,1 +1,3 @@
-// Exercício 1 para FALCON
+#!/usr/bin/falcon
+
+print("Bem-vindo ao Falcon!")

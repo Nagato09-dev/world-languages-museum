@@ -1,1 +1,19 @@
-// Exercício 10 para FALCON
+#!/usr/bin/falcon
+
+var palavras = ["zebra", "macaco", "elefante"]
+print("Original: " + palavras)
+
+function selectionSort(arr):
+    var n = arr.len()
+    for i in 0..n-2:
+        var min_idx = i
+        for j in 0..n-2-i:
+            if arr[j] < arr[min_idx]:
+                min_idx = j
+        var temp = arr[min_idx]
+        arr[min_idx] = arr[i]
+        arr[i] = temp
+    return arr
+
+var sorted_palavras = selectionSort(palavras.clone())
+print("Ordenado: " + sorted_palavras)

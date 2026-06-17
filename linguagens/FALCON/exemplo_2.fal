@@ -1,2 +1,9 @@
-// Exemplo 2 para FALCON
-// Sintaxe autêntica
+#!/usr/bin/falcon
+
+var numero = 10
+var texto = "Falcon String"
+var booleano = true
+
+print("Número: " + numero)
+print("Texto: " + texto)
+print("Booleano: " + booleano)

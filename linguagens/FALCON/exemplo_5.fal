@@ -1,2 +1,6 @@
-// Exemplo 5 para FALCON
-// Sintaxe autêntica
+#!/usr/bin/falcon
+
+function saudacao(nome):
+    return "Olá, " + nome + "!"
+
+print(saudacao("Usuário"))

@@ -1,1 +1,6 @@
-// Exercício 5 para FALCON
+#!/usr/bin/falcon
+
+function multiplicar(x, y):
+    return x * y
+
+print("Produto: " + multiplicar(6, 4))

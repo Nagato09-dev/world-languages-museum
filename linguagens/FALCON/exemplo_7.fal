@@ -1,2 +1,7 @@
-// Exemplo 7 para FALCON
-// Sintaxe autêntica
+#!/usr/bin/falcon
+
+try:
+    var resultado = 10 / 0
+    print("Resultado: " + resultado)
+catch e:
+    print("Erro capturado: " + e.message)

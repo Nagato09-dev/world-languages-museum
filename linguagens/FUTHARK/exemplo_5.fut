@@ -1,2 +1,1 @@
-// Exemplo 5 para FUTHARK
-// Sintaxe autêntica
+def soma (a: i32) (b: i32) = a + b

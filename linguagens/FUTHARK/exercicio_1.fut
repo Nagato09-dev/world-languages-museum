@@ -1,1 +1,1 @@
-// Exercício 1 para FUTHARK
+def main = "Nagato09-dev"

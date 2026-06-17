@@ -1,1 +1,1 @@
-// Exercício 2 para FUTHARK
+let f = 3.14f32

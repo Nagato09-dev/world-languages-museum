@@ -1,1 +1,1 @@
-// Exercício 6 para FUTHARK
+let lista2 = lista ++ [3]

@@ -1,2 +1,1 @@
-// Exemplo 5 para FREGE
-// Sintaxe autêntica
+soma a b = a + b

@@ -1,2 +1,1 @@
-// Exemplo 3 para FORMIT
-// Sintaxe autêntica
+if x > 0 println("Positivo") else println("Negativo")

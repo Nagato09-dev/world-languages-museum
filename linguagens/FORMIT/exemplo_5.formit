@@ -1,2 +1,1 @@
-// Exemplo 5 para FORMIT
-// Sintaxe autêntica
+func soma(a, b) return a + b

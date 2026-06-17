@@ -1,1 +1,1 @@
-// Exercício 3 para FUTHARK
+def par (n: i32) = n % 2 == 0

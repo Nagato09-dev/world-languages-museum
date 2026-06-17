@@ -1,1 +1,1 @@
-// Exercício 9 para FUTHARK
+let area = 3.14 * r * r

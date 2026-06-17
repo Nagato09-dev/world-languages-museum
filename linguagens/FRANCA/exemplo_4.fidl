@@ -1,2 +1,1 @@
-// Exemplo 4 para FRANCA
-// Sintaxe autêntica
+for i in 0..4 { ... }

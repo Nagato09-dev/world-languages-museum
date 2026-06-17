@@ -1,2 +1,1 @@
-// Exemplo 9 para FUTHARK
-// Sintaxe autêntica
+def r = f32.sqrt 16.0

@@ -1,1 +1,1 @@
-// Exercício 8 para FLUA
+print(reverse("flua"))

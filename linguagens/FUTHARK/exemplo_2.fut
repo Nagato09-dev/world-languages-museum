@@ -1,2 +1,1 @@
-// Exemplo 2 para FUTHARK
-// Sintaxe autêntica
+def main(idade: i32) (nome: []u8) = (nome, idade)

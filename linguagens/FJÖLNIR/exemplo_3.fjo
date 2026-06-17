@@ -1,2 +1,1 @@
-// Exemplo 3 para FJÖLNIR
-// Sintaxe autêntica
+if x > 0 then "Positivo" write else "Negativo" write end

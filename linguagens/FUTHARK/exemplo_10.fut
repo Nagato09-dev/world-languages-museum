@@ -1,2 +1,1 @@
-// Exemplo 10 para FUTHARK
-// Sintaxe autêntica
+def s = sort [3, 1, 4]

@@ -1,1 +1,1 @@
-// Exercício 8 para FREGE
+String.reverse "frege"

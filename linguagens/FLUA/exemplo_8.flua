@@ -1,2 +1,1 @@
-// Exemplo 8 para FLUA
-// Sintaxe autêntica
+print(upper("flua"))

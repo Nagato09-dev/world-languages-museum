@@ -1,1 +1,1 @@
-// Exercício 10 para FUTHARK
+def has2 (xs: []i32) = any (==2) xs

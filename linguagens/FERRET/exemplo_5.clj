@@ -1,0 +1,1 @@
+(defn soma [a b] (+ a b))

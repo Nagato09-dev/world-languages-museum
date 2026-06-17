@@ -1,1 +1,1 @@
-// Exercício 3 para FIDLAR
+if n % 2 == 0 then print "Par"

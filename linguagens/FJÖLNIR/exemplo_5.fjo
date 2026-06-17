@@ -1,2 +1,1 @@
-// Exemplo 5 para FJÖLNIR
-// Sintaxe autêntica
+def soma(a, b) a + b end

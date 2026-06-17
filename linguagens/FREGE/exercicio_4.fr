@@ -1,1 +1,1 @@
-// Exercício 4 para FREGE
+for (reverse [1..10]) println

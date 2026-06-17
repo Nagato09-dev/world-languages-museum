@@ -1,1 +1,1 @@
-// Exercício 3 para FJÖLNIR
+if n % 2 = 0 then "Par" write end

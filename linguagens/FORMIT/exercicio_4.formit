@@ -1,1 +1,1 @@
-// Exercício 4 para FORMIT
+for i = 10 to 1 println(i)

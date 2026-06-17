@@ -1,1 +1,1 @@
-// Exercício 5 para FUTHARK
+def mult a b = a * b

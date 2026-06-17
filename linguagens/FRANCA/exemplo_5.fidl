@@ -1,2 +1,1 @@
-// Exemplo 5 para FRANCA
-// Sintaxe autêntica
+method soma { in { a : Int32, b : Int32 } out { result : Int32 } }

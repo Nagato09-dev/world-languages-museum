@@ -1,2 +1,1 @@
-// Exemplo 7 para FRANCA
-// Sintaxe autêntica
+error ErrorCode { GENERIC_ERROR }

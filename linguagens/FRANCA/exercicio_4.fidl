@@ -1,1 +1,1 @@
-// Exercício 4 para FRANCA
+for i in 10..1 { ... }

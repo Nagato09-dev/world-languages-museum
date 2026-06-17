@@ -1,1 +1,1 @@
-// Exercício 8 para FUTHARK
+def rev = reverse "futhark"

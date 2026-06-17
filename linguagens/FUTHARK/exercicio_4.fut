@@ -1,1 +1,1 @@
-// Exercício 4 para FUTHARK
+def main = map (\i -> 10 - i) (iota 10)

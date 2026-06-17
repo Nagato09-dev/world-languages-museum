@@ -1,0 +1,1 @@
+(if (> x 0) (println "Positivo") (println "Negativo"))

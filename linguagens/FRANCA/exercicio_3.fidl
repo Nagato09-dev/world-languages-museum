@@ -1,1 +1,1 @@
-// Exercício 3 para FRANCA
+if n % 2 == 0 { ... }

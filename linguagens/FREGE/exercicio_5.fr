@@ -1,1 +1,1 @@
-// Exercício 5 para FREGE
+mult a b = a * b

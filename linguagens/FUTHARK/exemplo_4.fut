@@ -1,2 +1,1 @@
-// Exemplo 4 para FUTHARK
-// Sintaxe autêntica
+def main = map (\i -> i) (iota 5)

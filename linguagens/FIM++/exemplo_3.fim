@@ -1,2 +1,5 @@
-// Exemplo 3 para FIM++
-// Sintaxe autêntica
+If x is greater than 0 then
+  I said "Positivo"!
+Otherwise
+  I said "Negativo"!
+That's all about conditions.

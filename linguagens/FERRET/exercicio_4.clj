@@ -1,0 +1,1 @@
+(doseq [i (reverse (range 1 11))] (println i))

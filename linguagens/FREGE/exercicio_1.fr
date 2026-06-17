@@ -1,1 +1,1 @@
-// Exercício 1 para FREGE
+main _ = println "Nagato09-dev"

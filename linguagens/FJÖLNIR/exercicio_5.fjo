@@ -1,1 +1,1 @@
-// Exercício 5 para FJÖLNIR
+def mult(a, b) a * b end

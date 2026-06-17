@@ -1,1 +1,1 @@
-// Exercício 10 para FLUA
+print(2 in lista)

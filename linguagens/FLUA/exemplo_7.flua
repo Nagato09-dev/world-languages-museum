@@ -1,2 +1,1 @@
-// Exemplo 7 para FLUA
-// Sintaxe autêntica
+try print("Erro") catch e print(e)

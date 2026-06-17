@@ -1,2 +1,2 @@
-// Exemplo 2 para FRANCA
-// Sintaxe autêntica
+idade : UInt32 = 25
+nome : String = "Franca"

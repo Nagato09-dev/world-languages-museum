@@ -1,0 +1,2 @@
+import runtime;
+println("Olá Mundo");

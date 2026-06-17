@@ -1,1 +1,1 @@
-// Exercício 5 para FRANCA
+method mult { in { a : Int32, b : Int32 } out { result : Int32 } }

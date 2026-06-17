@@ -1,2 +1,1 @@
-// Exemplo 1 para FUTHARK
-// Sintaxe autêntica
+def main(): []u8 = "Olá Mundo"

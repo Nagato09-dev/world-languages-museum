@@ -1,0 +1,1 @@
+try { throw("Erro"); } catch (e) { println(e); }

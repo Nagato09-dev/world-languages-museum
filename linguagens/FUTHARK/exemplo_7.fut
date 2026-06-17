@@ -1,2 +1,1 @@
-// Exemplo 7 para FUTHARK
-// Sintaxe autêntica
+-- Futhark não tem exceções

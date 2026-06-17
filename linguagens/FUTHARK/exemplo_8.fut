@@ -1,2 +1,1 @@
-// Exemplo 8 para FUTHARK
-// Sintaxe autêntica
+def up = map (\c -> ...) "futhark"

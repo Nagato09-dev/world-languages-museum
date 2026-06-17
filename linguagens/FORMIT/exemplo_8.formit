@@ -1,2 +1,1 @@
-// Exemplo 8 para FORMIT
-// Sintaxe autêntica
+println(upper("formit"))

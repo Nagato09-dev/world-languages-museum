@@ -1,2 +1,2 @@
-// Exemplo 1 para FREGE
-// Sintaxe autêntica
+module Hello where
+main _ = println "Olá Mundo"

@@ -1,2 +1,4 @@
-// Exemplo 1 para FRANCA
-// Sintaxe autêntica
+package org.example
+interface HelloWorld {
+  method sayHello { out { message : String } }
+}

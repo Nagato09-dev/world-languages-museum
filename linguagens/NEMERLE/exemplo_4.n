@@ -1,2 +1,1 @@
-# NEMERLE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (mutable i = 0; i < 5; i++) System.Console.WriteLine(i);

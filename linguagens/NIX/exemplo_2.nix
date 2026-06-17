@@ -1,2 +1,1 @@
-# NIX - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+let x = 42; s = "Nix"; in x

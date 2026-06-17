@@ -1,2 +1,1 @@
-# NETLOGO - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+ifelse x > 10 [ print "Maior" ] [ print "Menor" ]

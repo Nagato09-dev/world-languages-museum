@@ -1,0 +1,1 @@
+// Sintaxe para func em NEWLISP

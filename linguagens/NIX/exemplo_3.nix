@@ -1,2 +1,1 @@
-# NIX - Controle de Fluxo - Estruturas condicionais (se/então).
-echo "Controle de Fluxo - Estruturas condicionais (se/então)."
+if x > 10 then "Maior" else "Menor"

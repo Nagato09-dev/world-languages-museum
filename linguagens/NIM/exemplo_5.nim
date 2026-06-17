@@ -1,2 +1,1 @@
-# NIM - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+proc soma(a, b: int): int = a + b

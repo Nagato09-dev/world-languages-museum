@@ -1,2 +1,2 @@
-# NIM - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+var x = 42
+let s = "Nim"

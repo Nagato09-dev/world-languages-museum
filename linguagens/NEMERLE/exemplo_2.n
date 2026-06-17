@@ -1,2 +1,2 @@
-# NEMERLE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+def x = 42;
+mutable s = "Nemerle";

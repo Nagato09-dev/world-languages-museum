@@ -1,2 +1,1 @@
-# NU - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+(if (> x 10) (puts "Maior") (puts "Menor"))

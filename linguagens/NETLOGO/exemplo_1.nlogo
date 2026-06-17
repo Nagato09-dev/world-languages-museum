@@ -1,2 +1,3 @@
-# NETLOGO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+to setup
+  print "Olá, Mundo!"
+end

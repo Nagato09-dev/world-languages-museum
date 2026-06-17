@@ -1,2 +1,5 @@
-# NETLOGO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+globals [x s]
+to setup
+  set x 42
+  set s "NetLogo"
+end

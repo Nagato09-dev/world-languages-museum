@@ -1,2 +1,1 @@
-// HAXE - Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+try { throw "Erro"; } catch(e:Dynamic) { trace(e); }

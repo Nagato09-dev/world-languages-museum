@@ -1,2 +1,1 @@
-// HAXE - Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+function soma(a:Int, b:Int):Int { return a + b; }

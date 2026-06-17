@@ -1,2 +1,2 @@
-// HAXE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+var list = [3, 1, 4, 1, 5];
+list.sort((a, b) -> a - b);

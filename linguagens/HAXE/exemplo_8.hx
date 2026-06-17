@@ -1,2 +1,1 @@
-// HAXE - Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+trace("haxe".toUpperCase());

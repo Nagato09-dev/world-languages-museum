@@ -1,4 +1,1 @@
-// HACK - Tratamento de Erros - Lidando com exceções e falhas.
-<?php
-echo "Tratamento de Erros - Lidando com exceções e falhas.\n";
-?>
+try { throw new Exception("Erro"); } catch (Exception $e) { echo $e->getMessage(); }

@@ -1,2 +1,1 @@
-// HAXE - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+trace(Math.sqrt(16));

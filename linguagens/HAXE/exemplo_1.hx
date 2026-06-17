@@ -1,2 +1,5 @@
-// HAXE - Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+class Main {
+  static public function main() {
+    trace("Olá Mundo");
+  }
+}

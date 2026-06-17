@@ -1,2 +1,1 @@
-// HAXE - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+for (i in 0...5) trace(i);

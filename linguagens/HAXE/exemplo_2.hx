@@ -1,2 +1,3 @@
-// HAXE - Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+var idade:Int = 25;
+var nome:String = "Haxe";
+trace(nome + " tem " + idade + " anos");

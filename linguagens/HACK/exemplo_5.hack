@@ -1,4 +1,1 @@
-// HACK - Funções - Criando blocos de código reutilizáveis.
-<?php
-echo "Funções - Criando blocos de código reutilizáveis.\n";
-?>
+function soma(int $a, int $b): int { return $a + $b; }

@@ -1,4 +1,1 @@
-// HACK - Loops - Repetindo tarefas com para/enquanto.
-<?php
-echo "Loops - Repetindo tarefas com para/enquanto.\n";
-?>
+for ($i = 0; $i < 5; $i++) echo $i;

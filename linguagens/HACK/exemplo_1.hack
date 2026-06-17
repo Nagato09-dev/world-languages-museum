@@ -1,4 +1,5 @@
-// HACK - Olá Mundo - O básico de qualquer linguagem.
-<?php
-echo "Olá Mundo - O básico de qualquer linguagem.\n";
-?>
+<?hh
+<<__EntryPoint>>
+function main(): void {
+  echo "Olá Mundo\n";
+}

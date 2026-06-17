@@ -1,4 +1,1 @@
-// HACK - Estruturas de Dados - Listas, Vetores ou Mapas.
-<?php
-echo "Estruturas de Dados - Listas, Vetores ou Mapas.\n";
-?>
+$lista = vec[1, 2, 3];

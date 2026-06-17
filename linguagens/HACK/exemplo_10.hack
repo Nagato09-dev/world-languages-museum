@@ -1,4 +1,2 @@
-// HACK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-<?php
-echo "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n";
-?>
+$list = vec[3, 1, 4, 1, 5];
+$sorted = Vec\sort($list);

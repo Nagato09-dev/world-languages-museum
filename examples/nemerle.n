@@ -1,0 +1,6 @@
+using System.Console;
+module Hello {
+    Main() : void {
+        WriteLine("Hello, World!");
+    }
+}

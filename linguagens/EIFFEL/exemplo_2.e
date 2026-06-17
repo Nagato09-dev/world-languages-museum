@@ -1,2 +1,2 @@
-idade: INTEGER = 25
-nome: STRING = "Eiffel"
+x: INTEGER
+s: STRING

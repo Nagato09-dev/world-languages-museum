@@ -1,1 +1,1 @@
-mult = fn a, b -> a * b end
+IO.puts "Olá, Mundo!"

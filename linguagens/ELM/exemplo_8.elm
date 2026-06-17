@@ -1,1 +1,1 @@
-String.toUpper "elm"
+// Sintaxe para string em ELM

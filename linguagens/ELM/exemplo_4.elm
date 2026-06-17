@@ -1,1 +1,1 @@
-List.range 0 4 |> List.map String.fromInt |> String.join ", "
+// Sintaxe para loop em ELM

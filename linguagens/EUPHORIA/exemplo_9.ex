@@ -1,1 +1,1 @@
-atom r = sqrt(16)
+// Sintaxe para math em EUPHORIA

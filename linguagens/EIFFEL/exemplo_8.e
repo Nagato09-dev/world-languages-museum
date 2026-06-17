@@ -1,1 +1,1 @@
-s.to_upper
+// Sintaxe para string em EIFFEL

@@ -1,1 +1,1 @@
-sequence s = upper("euphoria")
+// Sintaxe para string em EUPHORIA

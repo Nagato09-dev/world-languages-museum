@@ -1,2 +1,1 @@
-s = "Elixir Language"
-IO.puts(String.upcase(s))
+// Sintaxe para string em ELIXIR

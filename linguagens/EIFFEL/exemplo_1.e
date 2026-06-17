@@ -1,9 +1,8 @@
-class APPLICATION
-create
-  make
+class HELLO_WORLD
+create make
 feature
   make
     do
-      print ("Olá Mundo%N")
+      io.put_string("Olá, Mundo!%N")
     end
 end

@@ -1,5 +1,5 @@
-if x > 0 then
-  print ("Positivo")
+if x > 10 then
+  io.put_string("Maior")
 else
-  print ("Negativo")
+  io.put_string("Menor")
 end

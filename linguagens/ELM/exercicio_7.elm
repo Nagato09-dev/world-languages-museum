@@ -1,1 +1,2 @@
-Result.withDefault 0 (String.toInt "abc")
+import Html exposing (text)
+main = text "Olá, Mundo!"

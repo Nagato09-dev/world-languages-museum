@@ -1,1 +1,1 @@
-try throw(erro) catch _:_ -> io:format("Capturado~n") end.
+// Sintaxe para error em ERLANG

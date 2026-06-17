@@ -1,3 +1,2 @@
-a = 10
+x = 42
 s = "Elixir"
-IO.puts("Variável a: #{a}, Texto: #{s}")

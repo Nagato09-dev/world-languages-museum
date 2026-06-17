@@ -1,1 +1,2 @@
-mult a b = a * b
+import Html exposing (text)
+main = text "Olá, Mundo!"

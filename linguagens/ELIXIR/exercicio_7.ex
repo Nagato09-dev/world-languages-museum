@@ -1,1 +1,1 @@
-try do 1/0 rescue ArithmeticError -> IO.puts("Erro") end
+IO.puts "Olá, Mundo!"

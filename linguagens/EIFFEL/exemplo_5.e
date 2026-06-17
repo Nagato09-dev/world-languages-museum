@@ -1,4 +1,1 @@
-soma (a, b: INTEGER): INTEGER
-    do
-      Result := a + b
-    end
+// Sintaxe para func em EIFFEL

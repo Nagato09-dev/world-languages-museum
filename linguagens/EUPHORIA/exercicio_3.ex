@@ -1,1 +1,1 @@
-if remainder(n, 2) = 0 then puts(1, "Par") end if
+puts(1, "Olá, Mundo!\n")

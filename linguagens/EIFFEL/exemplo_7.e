@@ -1,3 +1,1 @@
-rescue
-  print ("Erro capturado")
-  retry
+// Sintaxe para error em EIFFEL

@@ -1,1 +1,1 @@
-lista.sort
+// Sintaxe para sort em EIFFEL

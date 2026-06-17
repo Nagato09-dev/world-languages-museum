@@ -1,1 +1,1 @@
-integer found = find(2, lista)
+puts(1, "Olá, Mundo!\n")

@@ -1,1 +1,1 @@
-sequence rev = reverse(s)
+puts(1, "Olá, Mundo!\n")

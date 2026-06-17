@@ -1,1 +1,8 @@
-mult (a, b: INTEGER): INTEGER do Result := a * b end
+class HELLO_WORLD
+create make
+feature
+  make
+    do
+      io.put_string("Olá, Mundo!%N")
+    end
+end

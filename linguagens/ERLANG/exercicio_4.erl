@@ -1,1 +1,3 @@
-lists:foreach(fun(I) -> io:format("~p~n", [I]) end, lists:reverse(lists:seq(1, 10))).
+-module(hello).
+-export([hello_world/0]).
+hello_world() -> io:fwrite("Olá, Mundo!~n").

@@ -1,1 +1,1 @@
-function mult(atom a, atom b) return a * b end function
+puts(1, "Olá, Mundo!\n")

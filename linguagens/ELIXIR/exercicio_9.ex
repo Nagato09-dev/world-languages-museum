@@ -1,1 +1,1 @@
-r = 5; IO.puts(3.1415 * r * r)
+IO.puts "Olá, Mundo!"

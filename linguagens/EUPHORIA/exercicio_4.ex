@@ -1,1 +1,1 @@
-for i = 10 to 1 by -1 do printf(1, "%d", i) end for
+puts(1, "Olá, Mundo!\n")

@@ -1,1 +1,1 @@
-lista &= 3
+puts(1, "Olá, Mundo!\n")

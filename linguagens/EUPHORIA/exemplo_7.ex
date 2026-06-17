@@ -1,1 +1,1 @@
-// Euphoria não tem try-catch nativo em versões antigas, usa verificações
+// Sintaxe para error em EUPHORIA

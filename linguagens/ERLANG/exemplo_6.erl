@@ -1,1 +1,1 @@
-Lista = [1, 2, 3], io:format("~p~n", [Lista]).
+// Sintaxe para list em ERLANG

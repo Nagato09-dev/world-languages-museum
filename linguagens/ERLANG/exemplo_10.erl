@@ -1,1 +1,1 @@
-lists:sort([3, 1, 4, 1, 5]).
+// Sintaxe para sort em ERLANG

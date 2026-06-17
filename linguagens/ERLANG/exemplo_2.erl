@@ -1,1 +1,2 @@
-A = 10, S = "Erlang", io:format("A: ~p, S: ~s~n", [A, S]).
+X = 42,
+S = "Erlang".

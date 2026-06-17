@@ -1,1 +1,1 @@
-atom f = 3.14
+puts(1, "Olá, Mundo!\n")

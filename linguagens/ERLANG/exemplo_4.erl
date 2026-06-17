@@ -1,1 +1,1 @@
-lists:foreach(fn(I) -> io:format("~p~n", [I]) end, lists:seq(0, 4)).
+// Sintaxe para loop em ERLANG

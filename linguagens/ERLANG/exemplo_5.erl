@@ -1,1 +1,1 @@
-soma(A, B) -> A + b.
+soma(A, B) -> A + B.

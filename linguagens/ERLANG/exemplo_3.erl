@@ -1,1 +1,1 @@
-X = 5, if X > 0 -> io:format("Positivo~n"); true -> io:format("Negativo~n") end.
+if X > 10 -> io:format("Maior"); true -> io:format("Menor") end.

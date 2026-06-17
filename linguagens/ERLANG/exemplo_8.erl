@@ -1,1 +1,1 @@
-S = "Erlang", string:to_upper(S).
+// Sintaxe para string em ERLANG

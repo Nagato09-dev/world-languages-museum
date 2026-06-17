@@ -1,1 +1,2 @@
-pi * 5^2
+import Html exposing (text)
+main = text "Olá, Mundo!"

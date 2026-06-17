@@ -1,6 +1,5 @@
-integer x = 5
-if x > 0 then
-  puts(1, "Positivo\n")
+if x > 10 then
+    puts(1, "Maior")
 else
-  puts(1, "Negativo\n")
+    puts(1, "Menor")
 end if

@@ -1,1 +1,1 @@
-if error_code != 0 then end if
+puts(1, "Olá, Mundo!\n")

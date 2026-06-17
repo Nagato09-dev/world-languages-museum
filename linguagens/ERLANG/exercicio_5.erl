@@ -1,1 +1,3 @@
-Mult = fun(A, B) -> A * B end.
+-module(hello).
+-export([hello_world/0]).
+hello_world() -> io:fwrite("Olá, Mundo!~n").

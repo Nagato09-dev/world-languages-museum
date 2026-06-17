@@ -1,13 +1,27 @@
-# Mirah
+# MIRAH
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2009
 
-## 📖 História
-A linguagem MIRAH foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em MIRAH, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.mirah** - Olá Mundo
+2. **exemplo_2.mirah** - Variáveis e Tipos
+3. **exemplo_3.mirah** - Controle de Fluxo
+4. **exemplo_4.mirah** - Loops (Repetições)
+5. **exemplo_5.mirah** - Funções
+6. **exemplo_6.mirah** - Estruturas de Dados
+7. **exemplo_7.mirah** - Tratamento de Erros
+8. **exemplo_8.mirah** - Manipulação de Strings
+9. **exemplo_9.mirah** - Matemática
+10. **exemplo_10.mirah** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de MIRAH.
+Cada arquivo contém comentários explicativos em português.

@@ -1,13 +1,27 @@
-# Zig
+# ZIG
 
-## 📅 Data de Criação
-**2016**
+**Ano de Criação:** 2016
 
-## 📖 História
-Criada por Andrew Kelley como sucessora do C.
+## Descrição
 
-## 🚀 Uso Real
-Sistemas e Compiladores.
+Esta pasta contém exemplos de código em ZIG, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Não possui fluxo de controle oculto.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.zig** - Olá Mundo
+2. **exemplo_2.zig** - Variáveis e Tipos
+3. **exemplo_3.zig** - Controle de Fluxo
+4. **exemplo_4.zig** - Loops (Repetições)
+5. **exemplo_5.zig** - Funções
+6. **exemplo_6.zig** - Estruturas de Dados
+7. **exemplo_7.zig** - Tratamento de Erros
+8. **exemplo_8.zig** - Manipulação de Strings
+9. **exemplo_9.zig** - Matemática
+10. **exemplo_10.zig** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de ZIG.
+Cada arquivo contém comentários explicativos em português.

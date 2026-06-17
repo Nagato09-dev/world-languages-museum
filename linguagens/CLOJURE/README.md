@@ -1,13 +1,27 @@
-# Clojure
+# CLOJURE
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2007
 
-## 📖 História
-A linguagem CLOJURE foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em CLOJURE, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.clojure** - Olá Mundo
+2. **exemplo_2.clojure** - Variáveis e Tipos
+3. **exemplo_3.clojure** - Controle de Fluxo
+4. **exemplo_4.clojure** - Loops (Repetições)
+5. **exemplo_5.clojure** - Funções
+6. **exemplo_6.clojure** - Estruturas de Dados
+7. **exemplo_7.clojure** - Tratamento de Erros
+8. **exemplo_8.clojure** - Manipulação de Strings
+9. **exemplo_9.clojure** - Matemática
+10. **exemplo_10.clojure** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de CLOJURE.
+Cada arquivo contém comentários explicativos em português.

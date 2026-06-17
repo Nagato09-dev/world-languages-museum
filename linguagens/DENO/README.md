@@ -1,13 +1,27 @@
-# Deno
+# DENO
 
-## 📅 Data de Criação
-**2018**
+**Ano de Criação:** 2018
 
-## 📖 História
-Criado por Ryan Dahl para corrigir falhas do Node.js.
+## Descrição
 
-## 🚀 Uso Real
-Web e APIs seguras.
+Esta pasta contém exemplos de código em DENO, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Suporte nativo a TypeScript.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.deno** - Olá Mundo
+2. **exemplo_2.deno** - Variáveis e Tipos
+3. **exemplo_3.deno** - Controle de Fluxo
+4. **exemplo_4.deno** - Loops (Repetições)
+5. **exemplo_5.deno** - Funções
+6. **exemplo_6.deno** - Estruturas de Dados
+7. **exemplo_7.deno** - Tratamento de Erros
+8. **exemplo_8.deno** - Manipulação de Strings
+9. **exemplo_9.deno** - Matemática
+10. **exemplo_10.deno** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de DENO.
+Cada arquivo contém comentários explicativos em português.

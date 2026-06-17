@@ -1,13 +1,27 @@
-# Kicad_layout
+# KICAD_LAYOUT
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2013
 
-## 📖 História
-A linguagem KICAD_LAYOUT foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em KICAD_LAYOUT, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.kicad_layout** - Olá Mundo
+2. **exemplo_2.kicad_layout** - Variáveis e Tipos
+3. **exemplo_3.kicad_layout** - Controle de Fluxo
+4. **exemplo_4.kicad_layout** - Loops (Repetições)
+5. **exemplo_5.kicad_layout** - Funções
+6. **exemplo_6.kicad_layout** - Estruturas de Dados
+7. **exemplo_7.kicad_layout** - Tratamento de Erros
+8. **exemplo_8.kicad_layout** - Manipulação de Strings
+9. **exemplo_9.kicad_layout** - Matemática
+10. **exemplo_10.kicad_layout** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de KICAD_LAYOUT.
+Cada arquivo contém comentários explicativos em português.

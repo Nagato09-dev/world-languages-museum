@@ -1,13 +1,27 @@
-# Céu
+# CÉU
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2009
 
-## 📖 História
-A linguagem CÉU foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em CÉU, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.céu** - Olá Mundo
+2. **exemplo_2.céu** - Variáveis e Tipos
+3. **exemplo_3.céu** - Controle de Fluxo
+4. **exemplo_4.céu** - Loops (Repetições)
+5. **exemplo_5.céu** - Funções
+6. **exemplo_6.céu** - Estruturas de Dados
+7. **exemplo_7.céu** - Tratamento de Erros
+8. **exemplo_8.céu** - Manipulação de Strings
+9. **exemplo_9.céu** - Matemática
+10. **exemplo_10.céu** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de CÉU.
+Cada arquivo contém comentários explicativos em português.

@@ -1,13 +1,27 @@
-# Stuck
+# STUCK
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2012
 
-## 📖 História
-A linguagem STUCK foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em STUCK, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.stuck** - Olá Mundo
+2. **exemplo_2.stuck** - Variáveis e Tipos
+3. **exemplo_3.stuck** - Controle de Fluxo
+4. **exemplo_4.stuck** - Loops (Repetições)
+5. **exemplo_5.stuck** - Funções
+6. **exemplo_6.stuck** - Estruturas de Dados
+7. **exemplo_7.stuck** - Tratamento de Erros
+8. **exemplo_8.stuck** - Manipulação de Strings
+9. **exemplo_9.stuck** - Matemática
+10. **exemplo_10.stuck** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de STUCK.
+Cada arquivo contém comentários explicativos em português.

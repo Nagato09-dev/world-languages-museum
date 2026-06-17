@@ -1,13 +1,27 @@
-# Digital_command_language
+# DIGITAL_COMMAND_LANGUAGE
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1980
 
-## 📖 História
-A linguagem DIGITAL_COMMAND_LANGUAGE foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em DIGITAL_COMMAND_LANGUAGE, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.digital_command_language** - Olá Mundo
+2. **exemplo_2.digital_command_language** - Variáveis e Tipos
+3. **exemplo_3.digital_command_language** - Controle de Fluxo
+4. **exemplo_4.digital_command_language** - Loops (Repetições)
+5. **exemplo_5.digital_command_language** - Funções
+6. **exemplo_6.digital_command_language** - Estruturas de Dados
+7. **exemplo_7.digital_command_language** - Tratamento de Erros
+8. **exemplo_8.digital_command_language** - Manipulação de Strings
+9. **exemplo_9.digital_command_language** - Matemática
+10. **exemplo_10.digital_command_language** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de DIGITAL_COMMAND_LANGUAGE.
+Cada arquivo contém comentários explicativos em português.

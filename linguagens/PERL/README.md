@@ -1,13 +1,27 @@
-# Perl
+# PERL
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1987
 
-## 📖 História
-A linguagem PERL foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em PERL, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.perl** - Olá Mundo
+2. **exemplo_2.perl** - Variáveis e Tipos
+3. **exemplo_3.perl** - Controle de Fluxo
+4. **exemplo_4.perl** - Loops (Repetições)
+5. **exemplo_5.perl** - Funções
+6. **exemplo_6.perl** - Estruturas de Dados
+7. **exemplo_7.perl** - Tratamento de Erros
+8. **exemplo_8.perl** - Manipulação de Strings
+9. **exemplo_9.perl** - Matemática
+10. **exemplo_10.perl** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de PERL.
+Cada arquivo contém comentários explicativos em português.

@@ -1,13 +1,27 @@
-# Tcl
+# TCL
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1988
 
-## 📖 História
-A linguagem TCL foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em TCL, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.tcl** - Olá Mundo
+2. **exemplo_2.tcl** - Variáveis e Tipos
+3. **exemplo_3.tcl** - Controle de Fluxo
+4. **exemplo_4.tcl** - Loops (Repetições)
+5. **exemplo_5.tcl** - Funções
+6. **exemplo_6.tcl** - Estruturas de Dados
+7. **exemplo_7.tcl** - Tratamento de Erros
+8. **exemplo_8.tcl** - Manipulação de Strings
+9. **exemplo_9.tcl** - Matemática
+10. **exemplo_10.tcl** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de TCL.
+Cada arquivo contém comentários explicativos em português.

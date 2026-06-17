@@ -1,13 +1,27 @@
-# Bun
+# BUN
 
-## 📅 Data de Criação
-**2022**
+**Ano de Criação:** 2022
 
-## 📖 História
-Runtime JavaScript rápido focado em performance.
+## Descrição
 
-## 🚀 Uso Real
-Web e Servidores.
+Esta pasta contém exemplos de código em BUN, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Escrito em Zig.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.bun** - Olá Mundo
+2. **exemplo_2.bun** - Variáveis e Tipos
+3. **exemplo_3.bun** - Controle de Fluxo
+4. **exemplo_4.bun** - Loops (Repetições)
+5. **exemplo_5.bun** - Funções
+6. **exemplo_6.bun** - Estruturas de Dados
+7. **exemplo_7.bun** - Tratamento de Erros
+8. **exemplo_8.bun** - Manipulação de Strings
+9. **exemplo_9.bun** - Matemática
+10. **exemplo_10.bun** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de BUN.
+Cada arquivo contém comentários explicativos em português.

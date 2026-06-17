@@ -1,13 +1,27 @@
-# Postscript
+# POSTSCRIPT
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1982
 
-## 📖 História
-A linguagem POSTSCRIPT foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em POSTSCRIPT, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.postscript** - Olá Mundo
+2. **exemplo_2.postscript** - Variáveis e Tipos
+3. **exemplo_3.postscript** - Controle de Fluxo
+4. **exemplo_4.postscript** - Loops (Repetições)
+5. **exemplo_5.postscript** - Funções
+6. **exemplo_6.postscript** - Estruturas de Dados
+7. **exemplo_7.postscript** - Tratamento de Erros
+8. **exemplo_8.postscript** - Manipulação de Strings
+9. **exemplo_9.postscript** - Matemática
+10. **exemplo_10.postscript** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de POSTSCRIPT.
+Cada arquivo contém comentários explicativos em português.

@@ -1,13 +1,27 @@
-# Freebasic
+# FREEBASIC
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2004
 
-## 📖 História
-A linguagem FREEBASIC foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em FREEBASIC, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.freebasic** - Olá Mundo
+2. **exemplo_2.freebasic** - Variáveis e Tipos
+3. **exemplo_3.freebasic** - Controle de Fluxo
+4. **exemplo_4.freebasic** - Loops (Repetições)
+5. **exemplo_5.freebasic** - Funções
+6. **exemplo_6.freebasic** - Estruturas de Dados
+7. **exemplo_7.freebasic** - Tratamento de Erros
+8. **exemplo_8.freebasic** - Manipulação de Strings
+9. **exemplo_9.freebasic** - Matemática
+10. **exemplo_10.freebasic** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de FREEBASIC.
+Cada arquivo contém comentários explicativos em português.

@@ -1,13 +1,27 @@
-# Haifu
+# HAIFU
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2013
 
-## 📖 História
-A linguagem HAIFU foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em HAIFU, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.haifu** - Olá Mundo
+2. **exemplo_2.haifu** - Variáveis e Tipos
+3. **exemplo_3.haifu** - Controle de Fluxo
+4. **exemplo_4.haifu** - Loops (Repetições)
+5. **exemplo_5.haifu** - Funções
+6. **exemplo_6.haifu** - Estruturas de Dados
+7. **exemplo_7.haifu** - Tratamento de Erros
+8. **exemplo_8.haifu** - Manipulação de Strings
+9. **exemplo_9.haifu** - Matemática
+10. **exemplo_10.haifu** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de HAIFU.
+Cada arquivo contém comentários explicativos em português.

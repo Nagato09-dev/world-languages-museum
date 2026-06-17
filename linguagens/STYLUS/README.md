@@ -1,13 +1,27 @@
-# Stylus
+# STYLUS
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2010
 
-## 📖 História
-A linguagem STYLUS foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em STYLUS, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.stylus** - Olá Mundo
+2. **exemplo_2.stylus** - Variáveis e Tipos
+3. **exemplo_3.stylus** - Controle de Fluxo
+4. **exemplo_4.stylus** - Loops (Repetições)
+5. **exemplo_5.stylus** - Funções
+6. **exemplo_6.stylus** - Estruturas de Dados
+7. **exemplo_7.stylus** - Tratamento de Erros
+8. **exemplo_8.stylus** - Manipulação de Strings
+9. **exemplo_9.stylus** - Matemática
+10. **exemplo_10.stylus** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de STYLUS.
+Cada arquivo contém comentários explicativos em português.

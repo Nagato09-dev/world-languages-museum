@@ -1,1 +1,27 @@
-# Node.js\n\n## 📅 Data de Criação\n**2009**\n\n## 📖 História\nCriado por Ryan Dahl, o Node.js revolucionou o uso do JavaScript ao permitir sua execução no lado do servidor.\n\n## 🚀 Uso Real\nServidores web de alta escalabilidade, APIs, ferramentas de linha de comando e aplicações em tempo real.\n\n## ✨ Curiosidade\nO Node.js utiliza o motor V8 do Google Chrome para executar código JavaScript com altíssima performance.
+# NODEJS
+
+**Ano de Criação:** 2009
+
+## Descrição
+
+Esta pasta contém exemplos de código em NODEJS, organizados de forma progressiva para facilitar o aprendizado.
+
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.nodejs** - Olá Mundo
+2. **exemplo_2.nodejs** - Variáveis e Tipos
+3. **exemplo_3.nodejs** - Controle de Fluxo
+4. **exemplo_4.nodejs** - Loops (Repetições)
+5. **exemplo_5.nodejs** - Funções
+6. **exemplo_6.nodejs** - Estruturas de Dados
+7. **exemplo_7.nodejs** - Tratamento de Erros
+8. **exemplo_8.nodejs** - Manipulação de Strings
+9. **exemplo_9.nodejs** - Matemática
+10. **exemplo_10.nodejs** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de NODEJS.
+Cada arquivo contém comentários explicativos em português.

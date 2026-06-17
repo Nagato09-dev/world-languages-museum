@@ -1,13 +1,27 @@
-# Eagle
+# EAGLE
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1988
 
-## 📖 História
-A linguagem EAGLE foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em EAGLE, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.eagle** - Olá Mundo
+2. **exemplo_2.eagle** - Variáveis e Tipos
+3. **exemplo_3.eagle** - Controle de Fluxo
+4. **exemplo_4.eagle** - Loops (Repetições)
+5. **exemplo_5.eagle** - Funções
+6. **exemplo_6.eagle** - Estruturas de Dados
+7. **exemplo_7.eagle** - Tratamento de Erros
+8. **exemplo_8.eagle** - Manipulação de Strings
+9. **exemplo_9.eagle** - Matemática
+10. **exemplo_10.eagle** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de EAGLE.
+Cada arquivo contém comentários explicativos em português.

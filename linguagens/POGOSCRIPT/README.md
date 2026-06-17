@@ -1,13 +1,27 @@
-# Pogoscript
+# POGOSCRIPT
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2012
 
-## 📖 História
-A linguagem POGOSCRIPT foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em POGOSCRIPT, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.pogoscript** - Olá Mundo
+2. **exemplo_2.pogoscript** - Variáveis e Tipos
+3. **exemplo_3.pogoscript** - Controle de Fluxo
+4. **exemplo_4.pogoscript** - Loops (Repetições)
+5. **exemplo_5.pogoscript** - Funções
+6. **exemplo_6.pogoscript** - Estruturas de Dados
+7. **exemplo_7.pogoscript** - Tratamento de Erros
+8. **exemplo_8.pogoscript** - Manipulação de Strings
+9. **exemplo_9.pogoscript** - Matemática
+10. **exemplo_10.pogoscript** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de POGOSCRIPT.
+Cada arquivo contém comentários explicativos em português.

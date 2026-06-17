@@ -1,13 +1,27 @@
-# Thue
+# THUE
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2000
 
-## 📖 História
-A linguagem THUE foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em THUE, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.thue** - Olá Mundo
+2. **exemplo_2.thue** - Variáveis e Tipos
+3. **exemplo_3.thue** - Controle de Fluxo
+4. **exemplo_4.thue** - Loops (Repetições)
+5. **exemplo_5.thue** - Funções
+6. **exemplo_6.thue** - Estruturas de Dados
+7. **exemplo_7.thue** - Tratamento de Erros
+8. **exemplo_8.thue** - Manipulação de Strings
+9. **exemplo_9.thue** - Matemática
+10. **exemplo_10.thue** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de THUE.
+Cada arquivo contém comentários explicativos em português.

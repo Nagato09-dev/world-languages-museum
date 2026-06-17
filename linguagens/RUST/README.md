@@ -1,13 +1,27 @@
-# Rust
+# RUST
 
-## 📅 Data de Criação
-**2010**
+**Ano de Criação:** 2010
 
-## 📖 História
-Iniciada por Graydon Hoare na Mozilla.
+## Descrição
 
-## 🚀 Uso Real
-Sistemas Seguros.
+Esta pasta contém exemplos de código em RUST, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Foco total em segurança de memória.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.rust** - Olá Mundo
+2. **exemplo_2.rust** - Variáveis e Tipos
+3. **exemplo_3.rust** - Controle de Fluxo
+4. **exemplo_4.rust** - Loops (Repetições)
+5. **exemplo_5.rust** - Funções
+6. **exemplo_6.rust** - Estruturas de Dados
+7. **exemplo_7.rust** - Tratamento de Erros
+8. **exemplo_8.rust** - Manipulação de Strings
+9. **exemplo_9.rust** - Matemática
+10. **exemplo_10.rust** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de RUST.
+Cada arquivo contém comentários explicativos em português.

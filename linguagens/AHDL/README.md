@@ -1,13 +1,27 @@
-# Ahdl
+# AHDL
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1984
 
-## 📖 História
-A linguagem AHDL foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em AHDL, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.ahdl** - Olá Mundo
+2. **exemplo_2.ahdl** - Variáveis e Tipos
+3. **exemplo_3.ahdl** - Controle de Fluxo
+4. **exemplo_4.ahdl** - Loops (Repetições)
+5. **exemplo_5.ahdl** - Funções
+6. **exemplo_6.ahdl** - Estruturas de Dados
+7. **exemplo_7.ahdl** - Tratamento de Erros
+8. **exemplo_8.ahdl** - Manipulação de Strings
+9. **exemplo_9.ahdl** - Matemática
+10. **exemplo_10.ahdl** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de AHDL.
+Cada arquivo contém comentários explicativos em português.

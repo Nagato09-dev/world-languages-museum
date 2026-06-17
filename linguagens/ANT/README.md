@@ -1,13 +1,27 @@
-# Ant
+# ANT
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 2000
 
-## 📖 História
-A linguagem ANT foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em ANT, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.ant** - Olá Mundo
+2. **exemplo_2.ant** - Variáveis e Tipos
+3. **exemplo_3.ant** - Controle de Fluxo
+4. **exemplo_4.ant** - Loops (Repetições)
+5. **exemplo_5.ant** - Funções
+6. **exemplo_6.ant** - Estruturas de Dados
+7. **exemplo_7.ant** - Tratamento de Erros
+8. **exemplo_8.ant** - Manipulação de Strings
+9. **exemplo_9.ant** - Matemática
+10. **exemplo_10.ant** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de ANT.
+Cada arquivo contém comentários explicativos em português.

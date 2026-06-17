@@ -1,13 +1,27 @@
-# Modula_2
+# MODULA_2
 
-## 📅 Data de Criação
-**N/A**
+**Ano de Criação:** 1978
 
-## 📖 História
-A linguagem MODULA_2 foi desenvolvida para resolver desafios técnicos específicos de sua época.
+## Descrição
 
-## 🚀 Uso Real
-Utilizada em sistemas especializados e projetos de nicho.
+Esta pasta contém exemplos de código em MODULA_2, organizados de forma progressiva para facilitar o aprendizado.
 
-## ✨ Curiosidade
-Possui uma comunidade dedicada que mantém sua evolução constante.
+## Exemplos Inclusos
+
+Os exemplos cobrem os seguintes tópicos:
+
+1. **exemplo_1.modula_2** - Olá Mundo
+2. **exemplo_2.modula_2** - Variáveis e Tipos
+3. **exemplo_3.modula_2** - Controle de Fluxo
+4. **exemplo_4.modula_2** - Loops (Repetições)
+5. **exemplo_5.modula_2** - Funções
+6. **exemplo_6.modula_2** - Estruturas de Dados
+7. **exemplo_7.modula_2** - Tratamento de Erros
+8. **exemplo_8.modula_2** - Manipulação de Strings
+9. **exemplo_9.modula_2** - Matemática
+10. **exemplo_10.modula_2** - Conceito Avançado / Algoritmos
+
+## Como Usar
+
+Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de MODULA_2.
+Cada arquivo contém comentários explicativos em português.

@@ -1,3 +1,5 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+with Ada.Text_IO; use Ada.Text_IO;
+procedure Main is
+begin
+  Put_Line("Olá Mundo");
+end Main;

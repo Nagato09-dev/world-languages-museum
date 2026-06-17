@@ -1,2 +1,2 @@
-;; RACKET - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+(define x 42)
+(define s "Racket")

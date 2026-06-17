@@ -1,2 +1,3 @@
-# RUBY - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+def soma(a, b)
+  a + b
+end

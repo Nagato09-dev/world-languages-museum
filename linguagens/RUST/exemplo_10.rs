@@ -1,4 +1,1 @@
-// RUST - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-fn main() {
-    println!("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
-}
+// Sintaxe para sort em RUST

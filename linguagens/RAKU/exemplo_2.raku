@@ -1,2 +1,2 @@
-# RAKU - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+my $x = 42;
+my $s = "Raku";

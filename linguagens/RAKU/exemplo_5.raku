@@ -1,2 +1,1 @@
-# RAKU - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+sub soma($a, $b) { return $a + $b; }

@@ -1,2 +1,1 @@
-# RAKU - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for 1..5 -> $i { say $i }

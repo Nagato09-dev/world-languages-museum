@@ -1,4 +1,3 @@
-// RUST - Loops - Repetindo tarefas com para/enquanto.
-fn main() {
-    println!("Loops - Repetindo tarefas com para/enquanto.");
+for i in 0..5 {
+    println!("{}", i);
 }

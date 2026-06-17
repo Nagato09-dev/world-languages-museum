@@ -1,2 +1,1 @@
-;; RACKET - Funções - Criando blocos de código reutilizáveis.
-(print "Funções - Criando blocos de código reutilizáveis.")
+(define (soma a b) (+ a b))

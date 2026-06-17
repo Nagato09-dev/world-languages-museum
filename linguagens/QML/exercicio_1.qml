@@ -1,3 +1,4 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+import QtQuick 2.0
+Text {
+    text: "Olá, Mundo!"
+}

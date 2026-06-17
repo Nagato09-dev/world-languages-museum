@@ -1,2 +1,1 @@
-;; RACKET - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-(print "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Sintaxe para sort em RACKET

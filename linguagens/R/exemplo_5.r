@@ -1,2 +1,1 @@
-# R - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+soma <- function(a, b) { return(a + b) }

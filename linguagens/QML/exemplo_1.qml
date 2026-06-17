@@ -1,2 +1,4 @@
-# QML - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+import QtQuick 2.0
+Text {
+    text: "Olá, Mundo!"
+}

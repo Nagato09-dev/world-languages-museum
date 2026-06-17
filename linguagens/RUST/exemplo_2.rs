@@ -1,4 +1,2 @@
-// RUST - Variáveis e Tipos - Como armazenar dados.
-fn main() {
-    println!("Variáveis e Tipos - Como armazenar dados.");
-}
+let x = 42;
+let s = "Rust";

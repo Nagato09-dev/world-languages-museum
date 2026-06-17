@@ -1,4 +1,3 @@
-// RUST - Funções - Criando blocos de código reutilizáveis.
-fn main() {
-    println!("Funções - Criando blocos de código reutilizáveis.");
+fn soma(a: i32, b: i32) -> i32 {
+    a + b
 }

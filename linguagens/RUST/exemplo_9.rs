@@ -1,4 +1,1 @@
-// RUST - Matemática - Operações aritméticas básicas.
-fn main() {
-    println!("Matemática - Operações aritméticas básicas.");
-}
+// Sintaxe para math em RUST

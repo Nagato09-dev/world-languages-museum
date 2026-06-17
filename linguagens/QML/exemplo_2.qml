@@ -1,2 +1,2 @@
-# QML - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+property int x: 42
+property string s: "QML"

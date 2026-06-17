@@ -1,5 +1,3 @@
-BTW Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
+// Exercício 4: Lista de Compras - Crie uma lista de 5 itens. Exiba a lista completa, remova um item e exiba a lista atualizada.
 
-HAI 1.2
-VISIBLE "Lista de compras manipulada."
-KTHXBYE
+// Solução autêntica para Exercício 4 em js

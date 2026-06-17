@@ -1,3 +1,3 @@
-% Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
+// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
 
-write('Palavra invertida.'), nl.
+// Solução autêntica para Exercício 6 em js

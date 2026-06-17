@@ -1,1 +1,12 @@
-/* Erros em Chef não são padrão */
+Tratamento de Erros Recipe.
+
+Ingredients.
+0 g divisor
+10 g dividendo
+
+Method.
+Take dividendo from refrigerator.
+Divide dividendo by divisor.
+Serve with "Resultado da divisão".
+
+Serves 1.

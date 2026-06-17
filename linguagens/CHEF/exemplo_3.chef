@@ -1,1 +1,13 @@
-If the sugar is cold.
+Condicional If-Else Recipe.
+
+Ingredients.
+5 g valor
+
+Method.
+Take valor from refrigerator.
+If valor is less than 10:
+  Serve with "Menor que 10".
+Else:
+  Serve with "Maior ou igual a 10".
+
+Serves 1.

@@ -1,1 +1,12 @@
-Loop until the water boils.
+Loop de Repetição Recipe.
+
+Ingredients.
+3 g contador
+
+Method.
+Put contador into the mixing bowl.
+While the mixing bowl is not empty:
+  Serve with "Loop".
+  Remove 1 from the mixing bowl.
+
+Serves 1.

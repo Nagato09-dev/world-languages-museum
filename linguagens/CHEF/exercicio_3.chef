@@ -1,1 +1,13 @@
-Take.
+Exercício Condicional Recipe.
+
+Ingredients.
+15 g temperatura
+
+Method.
+Take temperatura from refrigerator.
+If temperatura is greater than 20:
+  Serve with "Quente".
+Else:
+  Serve with "Frio".
+
+Serves 1.

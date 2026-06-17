@@ -1,2 +1,2 @@
-# APACHECONF - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+# Olá Mundo em Apache Config
+Redirect 301 /hello /world

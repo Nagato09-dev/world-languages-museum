@@ -1,2 +1,1 @@
-# AUTOIT - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+MsgBox(0, "Olá Mundo", "Olá Mundo")

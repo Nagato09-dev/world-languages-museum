@@ -1,5 +1,1 @@
-// AWK - Olá Mundo - O básico de qualquer linguagem.
-int main() {
-    printf("Olá Mundo - O básico de qualquer linguagem.\n");
-    return 0;
-}
+BEGIN { print "Olá Mundo" }

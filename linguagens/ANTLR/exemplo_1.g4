@@ -1,2 +1,2 @@
-# ANTLR - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+grammar Hello;
+hello: 'Olá Mundo';

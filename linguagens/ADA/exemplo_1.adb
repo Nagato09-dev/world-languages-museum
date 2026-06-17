@@ -1,5 +1,5 @@
-// ADA - Olá Mundo - O básico de qualquer linguagem.
-program Main;
+with Ada.Text_IO; use Ada.Text_IO;
+procedure Hello is
 begin
-    writeln('Olá Mundo - O básico de qualquer linguagem.');
-end.
+   Put_Line("Olá Mundo");
+end Hello;

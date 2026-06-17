@@ -1,6 +1,3 @@
-// AHDL - Olá Mundo - O básico de qualquer linguagem.
-module main;
-  initial begin
-    $display("Olá Mundo - O básico de qualquer linguagem.");
-  end
-endmodule
+-- Olá Mundo em AHDL (linguagem de hardware)
+ENTITY hello IS
+END hello;

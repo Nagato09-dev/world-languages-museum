@@ -1,2 +1,3 @@
-# ALDOR - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+#include "aldor"
+#include "aldorio"
+stdout << "Olá Mundo" << newline

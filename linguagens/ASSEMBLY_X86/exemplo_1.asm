@@ -1,15 +1,13 @@
-; ASSEMBLY_X86 - Olá Mundo - O básico de qualquer linguagem.
 section .data
-    msg db 'Olá Mundo - O básico de qualquer linguagem.', 0xa
-    len equ $ - msg
+  msg db "Olá Mundo", 0xA
 section .text
-    global _start
+  global _start
 _start:
-    ; Print: Olá Mundo - O básico de qualquer linguagem.
-    mov edx, len
-    mov ecx, msg
-    mov ebx, 1
-    mov eax, 4
-    int 0x80
-    mov eax, 1
-    int 0x80
+  mov eax, 4
+  mov ebx, 1
+  mov ecx, msg
+  mov edx, 11
+  int 0x80
+  mov eax, 1
+  xor ebx, ebx
+  int 0x80

@@ -1,2 +1,5 @@
-# ANT - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+<project name="Hello" default="hello">
+  <target name="hello">
+    <echo message="Olá Mundo"/>
+  </target>
+</project>

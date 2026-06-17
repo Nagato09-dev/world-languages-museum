@@ -1,4 +1,3 @@
--- AGDA - Olá Mundo - O básico de qualquer linguagem.
-main :: IO ()
-main = do
-    putStrLn "Olá Mundo - O básico de qualquer linguagem."
+module hello where
+open import IO
+main = run (putStrLn "Olá Mundo")

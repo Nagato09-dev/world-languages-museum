@@ -1,2 +1,1 @@
-# ATS - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+implement main0 () = print ("Olá Mundo\n")

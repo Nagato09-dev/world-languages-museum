@@ -1,2 +1,4 @@
-# ANGELSCRIPT - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+void main()
+{
+  print("Olá Mundo\n");
+}

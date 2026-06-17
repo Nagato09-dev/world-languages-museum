@@ -1,2 +1,2 @@
-# ABNF - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+; Olá Mundo em ABNF (não é executável, apenas definição)
+hello-world = %x4F.6C.E1.20.4D.75.6E.64.6F

@@ -1,2 +1,5 @@
-# ARDUINO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Olá Mundo");
+}
+void loop() {}

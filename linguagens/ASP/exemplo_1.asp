@@ -1,2 +1,1 @@
-# ASP - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+<% Response.Write("Olá Mundo") %>

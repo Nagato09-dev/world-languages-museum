@@ -1,2 +1,2 @@
-# AUGEAS - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+(* Olá Mundo em Augeas *)
+let hello = "Olá Mundo"

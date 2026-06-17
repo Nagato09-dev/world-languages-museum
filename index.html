@@ -192,7 +192,40 @@
             background: rgba(20, 20, 35, 0.95);
         }
 
-        /* Categorias */
+        /* Progress Bar */
+        .progress-section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: rgba(20, 20, 30, 0.5);
+            border-radius: 15px;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .progress-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            font-size: 0.9em;
+            color: var(--text-dim);
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(212, 175, 55, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary-gold), var(--accent-cyan));
+            border-radius: 10px;
+            transition: width 0.5s ease;
+        }
+
+        /* Categorias com Ícones */
         .categories-menu {
             margin-bottom: 50px;
             display: flex;
@@ -202,18 +235,39 @@
         }
 
         .category-btn {
-            padding: 12px 24px;
+            padding: 12px 20px;
             border: 1px solid rgba(212, 175, 55, 0.4);
             border-radius: 30px;
             background: rgba(212, 175, 55, 0.05);
             color: var(--primary-gold);
             cursor: pointer;
-            transition: all var(--transition-speed) ease;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             font-weight: 600;
             font-family: 'Orbitron', sans-serif;
             font-size: 0.85em;
             letter-spacing: 1px;
             backdrop-filter: blur(5px);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .category-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: rgba(212, 175, 55, 0.1);
+            transition: left 0.4s ease;
+            z-index: -1;
+        }
+
+        .category-btn:hover::before {
+            left: 100%;
         }
 
         .category-btn:hover {
@@ -230,12 +284,42 @@
             border-color: var(--primary-gold);
         }
 
-        /* Grid de Linguagens */
+        .category-icon {
+            font-size: 1.2em;
+        }
+
+        .category-counter {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.3);
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.75em;
+            font-weight: 700;
+            margin-left: 4px;
+        }
+
+        .category-btn.active .category-counter {
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        /* Grid de Linguagens com Transição */
         .languages-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 25px;
             margin-bottom: 60px;
+            animation: gridFadeIn 0.5s ease-out;
+        }
+
+        @keyframes gridFadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .language-card {
@@ -252,6 +336,18 @@
             position: relative;
             overflow: hidden;
             backdrop-filter: blur(10px);
+            animation: cardFadeIn 0.5s ease-out;
+        }
+
+        @keyframes cardFadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
         }
 
         .language-card::after {
@@ -310,6 +406,17 @@
         .language-card:hover .badge {
             background: var(--primary-gold);
             color: var(--bg-color);
+        }
+
+        .no-results {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 50px;
+            color: var(--primary-gold);
+            font-size: 1.3em;
+            background: rgba(212, 175, 55, 0.05);
+            border: 2px dashed var(--primary-gold);
+            border-radius: 15px;
         }
 
         /* Modal */
@@ -524,6 +631,7 @@
             .stat { width: 100%; }
             .modal-content { height: 95vh; width: 98%; }
             .modal-header, .modal-body, .modal-tabs { padding: 20px; }
+            .category-btn { font-size: 0.75em; padding: 10px 15px; }
         }
     </style>
 </head>
@@ -566,14 +674,54 @@
             <input type="text" id="searchInput" placeholder="Buscar no acervo tecnológico...">
         </div>
 
+        <!-- Barra de Progresso -->
+        <div class="progress-section">
+            <div class="progress-info">
+                <span>Acervo: <strong id="displayed-count">505</strong> de <strong id="total-count">505</strong> linguagens</span>
+                <span id="progress-percentage">100%</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill" style="width: 100%;"></div>
+            </div>
+        </div>
+
+        <!-- Menu de Categorias com Ícones e Contadores -->
         <div class="categories-menu" id="categoriesMenu">
-            <button class="category-btn active" data-category="all">Todas</button>
-            <button class="category-btn" data-category="web">Web & Scripting</button>
-            <button class="category-btn" data-category="functional">Funcionais</button>
-            <button class="category-btn" data-category="database">Dados</button>
-            <button class="category-btn" data-category="systems">Sistêmicas</button>
-            <button class="category-btn" data-category="esoteric">Esotéricas</button>
-            <button class="category-btn" data-category="hardware">Hardware</button>
+            <button class="category-btn active" data-category="all">
+                <span class="category-icon">🌍</span>
+                <span>Todas</span>
+                <span class="category-counter" id="counter-all">505</span>
+            </button>
+            <button class="category-btn" data-category="web">
+                <span class="category-icon">🌐</span>
+                <span>Web</span>
+                <span class="category-counter" id="counter-web">0</span>
+            </button>
+            <button class="category-btn" data-category="functional">
+                <span class="category-icon">🧮</span>
+                <span>Funcionais</span>
+                <span class="category-counter" id="counter-functional">0</span>
+            </button>
+            <button class="category-btn" data-category="database">
+                <span class="category-icon">🗄️</span>
+                <span>Dados</span>
+                <span class="category-counter" id="counter-database">0</span>
+            </button>
+            <button class="category-btn" data-category="systems">
+                <span class="category-icon">⚙️</span>
+                <span>Sistêmicas</span>
+                <span class="category-counter" id="counter-systems">0</span>
+            </button>
+            <button class="category-btn" data-category="esoteric">
+                <span class="category-icon">🎭</span>
+                <span>Esotéricas</span>
+                <span class="category-counter" id="counter-esoteric">0</span>
+            </button>
+            <button class="category-btn" data-category="hardware">
+                <span class="category-icon">🔧</span>
+                <span>Hardware</span>
+                <span class="category-counter" id="counter-hardware">0</span>
+            </button>
         </div>
 
         <div class="languages-grid" id="languagesGrid">
@@ -690,13 +838,14 @@
         let currentCategory = 'all';
         let currentLanguage = null;
 
+        // Categorização expandida de linguagens
         const languageCategories = {
-            web: ["JAVASCRIPT", "TYPESCRIPT", "PHP", "RUBY", "PYTHON", "ELIXIR", "COFFEESCRIPT", "VUE", "SVELTE", "JSX", "HAML", "SASS", "NODEJS", "DENO", "BUN", "NEXTFLOW"],
-            functional: ["HASKELL", "SCALA", "CLOJURE", "ERLANG", "OCAML", "F#", "SCHEME", "LISP", "RACKET", "PURESCRIPT", "IDRIS", "ELM", "AGDA", "LEAN", "CURRY"],
-            database: ["SQL", "PLSQL", "CYPHER", "JSON", "XML", "YAML", "TOML", "HCL", "PROTOBUF", "MONGODB", "REDIS", "CASSANDRA"],
-            systems: ["C", "C++", "RUST", "GO", "ZIG", "ASSEMBLY_X86", "CARBON", "V", "MOJO", "ODIN", "CHAPEL", "CILK"],
-            esoteric: ["BRAINFUCK", "LOLCODE", "BEFUNGE", "OMGROFL", "HY", "DOGESCRIPT", "ALICE", "BATO", "FIM++", "REDCODE", "WHITESPACE", "MALBOLGE", "OOK", "PIET", "ZOMBIE"],
-            hardware: ["VERILOG", "VHDL", "SYSTEMVERILOG", "LABVIEW", "ARDUINO", "G_CODE", "SPIN"]
+            web: ["JAVASCRIPT", "TYPESCRIPT", "PHP", "RUBY", "PYTHON", "ELIXIR", "COFFEESCRIPT", "VUE", "SVELTE", "JSX", "HAML", "SASS", "NODEJS", "DENO", "BUN", "NEXTFLOW", "HTML", "CSS", "DART", "KOTLIN", "SWIFT", "JAVA", "CSHARP", "C#", "PERL", "BASH"],
+            functional: ["HASKELL", "SCALA", "CLOJURE", "ERLANG", "OCAML", "F#", "SCHEME", "LISP", "RACKET", "PURESCRIPT", "IDRIS", "ELM", "AGDA", "LEAN", "CURRY", "FSHARP", "F_SHARP", "FSTAR", "FENNEL", "FLIX"],
+            database: ["SQL", "PLSQL", "CYPHER", "JSON", "XML", "YAML", "TOML", "HCL", "PROTOBUF", "MONGODB", "REDIS", "CASSANDRA", "DATALOG", "SPARQL", "LOOKML", "GRAPHQL"],
+            systems: ["C", "C++", "RUST", "GO", "ZIG", "ASSEMBLY_X86", "CARBON", "V", "MOJO", "ODIN", "CHAPEL", "CILK", "CPLUSPLUS", "C_SHARP", "CRYSTAL", "D", "DLANG", "FORTRAN", "COBOL", "ADA"],
+            esoteric: ["BRAINFUCK", "LOLCODE", "BEFUNGE", "OMGROFL", "HY", "DOGESCRIPT", "ALICE", "BATO", "FIM++", "REDCODE", "WHITESPACE", "MALBOLGE", "OOK", "PIET", "ZOMBIE", "INTERCAL", "THUE", "UNLAMBDA", "CHEF", "SHAKESPEARE"],
+            hardware: ["VERILOG", "VHDL", "SYSTEMVERILOG", "LABVIEW", "ARDUINO", "G_CODE", "SPIN", "VERILOG", "VHDL", "BLUESPEC", "CHIALISP"]
         };
 
         const allLanguages = [
@@ -723,7 +872,7 @@
             "FREEBASIC", "FREEMARKER", "FREGE", "FSHARP", "FSTAR", "FUNGE_98", "FUTHARK", "F_SHARP", "GAME_MAKER_LANGUAGE", "GAMS",
             "GAP", "GAS", "GDB", "GDSCRIPT", "GENSHI", "GENTOO", "GENTOO_EBUILD", "GHERKIN", "GLEAM", "GLSL",
             "GLYPH", "GNUPLOT", "GNU_GUILE", "GO", "GODOT", "GOLFSCRIPT", "GOLO", "GOSU", "GRACE", "GRAMMATICAL_FRAMEWORK",
-            "GRAPHVIZ", "GRAPHVIZ_DOT", "GRASS", "GROOVY", "G_CODE", "HACK", "HAIFU", "HAML", "HARBOUR", "HASKELL",
+            "GRAPHVIZ", "GRAPHVIZ_DOT", "GRASS", "GROOVY", "G_CODE", "GRAPHQL", "HACK", "HAIFU", "HAML", "HARBOUR", "HASKELL",
             "HAXE", "HCL", "HLSL", "HOLYC", "HTML", "HY", "HYPHY", "ICON", "IDL", "IDRIS",
             "IGOR_PRO", "INFORM_7", "INNO_SETUP", "INTERCAL", "IO", "IOKE", "ISABELLE", "J", "JANET", "JAVA",
             "JAVASCRIPT", "JELLY", "JFLEX", "JINJA", "JINJA2", "JOVIAL", "JSON", "JSX", "JULIA", "K",
@@ -763,9 +912,31 @@
 
         function getLanguageCategory(lang) {
             for (const [category, langs] of Object.entries(languageCategories)) {
-                if (langs.includes(lang)) return category;
+                if (langs.includes(lang)) {
+                    return category;
+                }
             }
             return 'all';
+        }
+
+        // Função para atualizar contadores de categorias
+        function updateCategoryCounters() {
+            const categories = Object.keys(languageCategories);
+            categories.forEach(cat => {
+                const count = languages.filter(l => l.category === cat).length;
+                const counter = document.getElementById(`counter-${cat}`);
+                if (counter) counter.textContent = count;
+            });
+            document.getElementById('counter-all').textContent = languages.length;
+        }
+
+        // Função para atualizar barra de progresso
+        function updateProgressBar(displayedCount, totalCount) {
+            const percentage = Math.round((displayedCount / totalCount) * 100);
+            document.getElementById('progressFill').style.width = percentage + '%';
+            document.getElementById('progress-percentage').textContent = percentage + '%';
+            document.getElementById('displayed-count').textContent = displayedCount;
+            document.getElementById('total-count').textContent = totalCount;
         }
 
         function renderLanguages(languagesToRender) {
@@ -774,6 +945,7 @@
 
             if (languagesToRender.length === 0) {
                 grid.innerHTML = '<div class="no-results">🔍 Nenhuma linguagem encontrada no acervo.</div>';
+                updateProgressBar(0, languages.length);
                 return;
             }
 
@@ -790,6 +962,8 @@
                 card.addEventListener('click', () => openLanguageModal(lang));
                 grid.appendChild(card);
             });
+
+            updateProgressBar(languagesToRender.length, languages.length);
         }
 
         async function openLanguageModal(lang) {
@@ -807,7 +981,6 @@
 
             modal.classList.add('active');
 
-            // Carregar README
             try {
                 const readmeResponse = await fetch(`${lang.path}/README.md`);
                 if (readmeResponse.ok) {
@@ -820,11 +993,10 @@
                 readmeTab.innerHTML = '<p>Erro ao carregar documentação.</p>';
             }
 
-            // Carregar exemplos
             try {
                 let examplesHtml = '';
                 const ext = getFileExtension(lang.name);
-                for (let i = 1; i <= 3; i++) { // Limitado a 3 para performance inicial
+                for (let i = 1; i <= 3; i++) {
                     const fileResponse = await fetch(`${lang.path}/exemplo_${i}.${ext}`);
                     if (fileResponse.ok) {
                         const fileContent = await fileResponse.text();
@@ -836,7 +1008,6 @@
                 examplesTab.innerHTML = '<p>Erro ao carregar exemplos.</p>';
             }
 
-            // Carregar exercícios
             try {
                 let exercisesHtml = '';
                 const ext = getFileExtension(lang.name);
@@ -913,6 +1084,7 @@
         }
 
         // Inicialização
+        updateCategoryCounters();
         renderLanguages(languages);
     </script>
 </body>

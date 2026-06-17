@@ -1,2 +1,4 @@
-# BRO - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+event zeek_init()
+{
+    print "Olá Mundo";
+}

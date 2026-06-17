@@ -1,2 +1,1 @@
-[ Manipulação de Strings - Trabalhando com textos. ]
-++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+/* Strings são sequências de bytes */

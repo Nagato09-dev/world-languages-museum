@@ -1,2 +1,1 @@
-# BQN - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+/* BQN foca em arrays, erros são raros */

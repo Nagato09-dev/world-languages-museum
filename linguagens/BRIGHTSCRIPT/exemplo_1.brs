@@ -1,2 +1,3 @@
-# BRIGHTSCRIPT - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+sub Main()
+  print "Olá Mundo"
+end sub

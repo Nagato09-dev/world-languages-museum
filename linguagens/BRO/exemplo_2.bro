@@ -1,2 +1,2 @@
-# BRO - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+local x = 10;
+local s = "Olá";

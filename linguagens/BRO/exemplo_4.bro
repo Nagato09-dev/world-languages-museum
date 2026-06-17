@@ -1,2 +1,2 @@
-# BRO - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for ( i in list )
+    print i;

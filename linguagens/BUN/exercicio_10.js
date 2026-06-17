@@ -1,1 +1,1 @@
-// Solução do exercício 10 em BUN
+await Bun.write("out.txt", "data");

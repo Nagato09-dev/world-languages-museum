@@ -1,2 +1,1 @@
-# BRO - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+redef record connection += { my_field: count &optional };

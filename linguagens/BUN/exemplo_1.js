@@ -1,1 +1,1 @@
-// Exemplo 1 em BUN
+console.log("Olá Mundo");

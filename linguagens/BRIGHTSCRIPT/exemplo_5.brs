@@ -1,2 +1,3 @@
-# BRIGHTSCRIPT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+function Square(n as integer) as integer
+  return n * n
+end function

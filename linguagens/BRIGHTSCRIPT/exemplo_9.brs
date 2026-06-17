@@ -1,2 +1,1 @@
-# BRIGHTSCRIPT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+res = sqr(16)

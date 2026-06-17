@@ -1,1 +1,3 @@
-// Exemplo 3 em BUN
+if (x > 5) {
+  console.log("Maior");
+}

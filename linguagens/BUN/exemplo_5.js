@@ -1,1 +1,1 @@
-// Exemplo 5 em BUN
+const square = (n: number) => n * n;

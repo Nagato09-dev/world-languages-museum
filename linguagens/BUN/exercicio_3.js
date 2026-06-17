@@ -1,1 +1,1 @@
-// Solução do exercício 3 em BUN
+if (active) { }

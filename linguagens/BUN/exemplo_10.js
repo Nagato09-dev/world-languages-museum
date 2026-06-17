@@ -1,1 +1,1 @@
-// Exemplo 10 em BUN
+const server = Bun.serve({ fetch() { } });

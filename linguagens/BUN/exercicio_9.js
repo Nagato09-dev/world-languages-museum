@@ -1,1 +1,1 @@
-// Solução do exercício 9 em BUN
+Math.abs(-5);

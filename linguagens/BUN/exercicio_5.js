@@ -1,1 +1,1 @@
-// Solução do exercício 5 em BUN
+function add(a, b) { }

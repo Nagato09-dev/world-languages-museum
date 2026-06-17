@@ -1,1 +1,1 @@
-// Solução do exercício 7 em BUN
+process.exit(1);

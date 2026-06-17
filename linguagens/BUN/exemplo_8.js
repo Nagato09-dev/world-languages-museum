@@ -1,1 +1,1 @@
-// Exemplo 8 em BUN
+const full = `Olá ${name}`;

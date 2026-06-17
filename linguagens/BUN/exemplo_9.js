@@ -1,1 +1,1 @@
-// Exemplo 9 em BUN
+const r = Math.sqrt(16);

@@ -1,1 +1,1 @@
-// Solução do exercício 6 em BUN
+const file = Bun.file("test.txt");

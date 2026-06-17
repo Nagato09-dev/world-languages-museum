@@ -1,1 +1,1 @@
-// Solução do exercício 4 em BUN
+while (x > 0) { x--; }

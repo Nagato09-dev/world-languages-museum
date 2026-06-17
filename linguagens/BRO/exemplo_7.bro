@@ -1,2 +1,1 @@
-# BRO - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+/* Bro/Zeek foca em eventos de rede */

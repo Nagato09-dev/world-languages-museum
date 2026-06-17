@@ -1,2 +1,1 @@
-# BRO - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+local full = fmt("Olá %s", name);

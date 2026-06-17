@@ -1,2 +1,1 @@
-# BRIGHTSCRIPT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+/* BrightScript não tem try/catch tradicional */

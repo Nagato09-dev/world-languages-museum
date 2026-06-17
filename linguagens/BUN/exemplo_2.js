@@ -1,1 +1,2 @@
-// Exemplo 2 em BUN
+const x = 10;
+const s = "Olá";

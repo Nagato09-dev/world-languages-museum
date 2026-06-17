@@ -1,1 +1,1 @@
-// Solução do exercício 2 em BUN
+let active = true;

@@ -1,2 +1,1 @@
-# BQN - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+Square ← {𝕩×𝕩}

@@ -1,1 +1,1 @@
-// Exemplo 6 em BUN
+const list = [1, 2, 3];

@@ -1,2 +1,1 @@
-[ Tratamento de Erros - Lidando com exceções e falhas. ]
-++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+/* Não há tratamento de erros */

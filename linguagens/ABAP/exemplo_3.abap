@@ -1,2 +1,5 @@
-# ABAP - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+IF lv_num > 5.
+  WRITE 'Maior que 5'.
+ELSE.
+  WRITE 'Menor ou igual a 5'.
+ENDIF.

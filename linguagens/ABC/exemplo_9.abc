@@ -1,2 +1,1 @@
-# ABC - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+PUT x + y IN z

@@ -1,2 +1,1 @@
-# 05AB1E - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+10 5 > i "Maior" }

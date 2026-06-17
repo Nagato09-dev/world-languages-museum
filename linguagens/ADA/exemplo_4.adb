@@ -1,5 +1,3 @@
-// ADA - Loops - Repetindo tarefas com para/enquanto.
-program Main;
-begin
-    writeln('Loops - Repetindo tarefas com para/enquanto.');
-end.
+for I in 1 .. 10 loop
+   Put(I);
+end loop;

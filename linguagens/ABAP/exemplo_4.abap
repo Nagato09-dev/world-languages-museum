@@ -1,2 +1,3 @@
-# ABAP - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+DO 10 TIMES.
+  WRITE sy-index.
+ENDDO.

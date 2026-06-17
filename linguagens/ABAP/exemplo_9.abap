@@ -1,2 +1,1 @@
-# ABAP - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+lv_result = sqrt( 16 ).

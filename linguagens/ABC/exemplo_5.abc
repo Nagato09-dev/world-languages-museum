@@ -1,2 +1,2 @@
-# ABC - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+HOW TO SQUARED x:
+    RETURN x*x

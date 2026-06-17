@@ -1,2 +1,2 @@
-# ABC - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+PUT 10 IN x
+PUT "Texto" IN s

@@ -1,5 +1,2 @@
-// ADA - Estruturas de Dados - Listas, Vetores ou Mapas.
-program Main;
-begin
-    writeln('Estruturas de Dados - Listas, Vetores ou Mapas.');
-end.
+type Int_Array is array (1 .. 10) of Integer;
+My_Array : Int_Array;

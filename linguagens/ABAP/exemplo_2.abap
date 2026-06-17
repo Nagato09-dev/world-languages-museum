@@ -1,2 +1,1 @@
-# ABAP - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+DATA: lv_text TYPE string VALUE 'Olá', lv_num TYPE i VALUE 10.

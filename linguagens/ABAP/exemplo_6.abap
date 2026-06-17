@@ -1,2 +1,2 @@
-# ABAP - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+DATA: lt_table TYPE TABLE OF i.
+APPEND 1 TO lt_table.

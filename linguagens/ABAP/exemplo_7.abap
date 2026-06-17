@@ -1,2 +1,5 @@
-# ABAP - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+TRY.
+    result = 1 / 0.
+  CATCH cx_sy_zerodivide.
+    WRITE 'Erro: Divisão por zero'.
+ENDTRY.

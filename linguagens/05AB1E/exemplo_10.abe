@@ -1,2 +1,1 @@
-# 05AB1E - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+100 L 2 % 0 == f

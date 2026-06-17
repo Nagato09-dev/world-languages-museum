@@ -1,2 +1,1 @@
-# ABAP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+SELECT * FROM sflight INTO TABLE @lt_flights.

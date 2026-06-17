@@ -1,5 +1,4 @@
-// ADA - Funções - Criando blocos de código reutilizáveis.
-program Main;
+function Square(X : Integer) return Integer is
 begin
-    writeln('Funções - Criando blocos de código reutilizáveis.');
-end.
+   return X * X;
+end Square;

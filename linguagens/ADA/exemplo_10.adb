@@ -1,5 +1,3 @@
-// ADA - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-program Main;
-begin
-    writeln('Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).');
-end.
+task type Worker is
+   entry Start;
+end Worker;

@@ -1,2 +1,2 @@
-# ABC - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+FOR i IN {1..10}:
+    WRITE i

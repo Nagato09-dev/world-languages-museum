@@ -1,2 +1,1 @@
-# ABAP - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+CONCATENATE 'Olá' 'Mundo' INTO lv_text SEPARATED BY SPACE.

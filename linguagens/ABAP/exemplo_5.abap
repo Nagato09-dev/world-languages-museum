@@ -1,2 +1,3 @@
-# ABAP - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+FORM my_function USING p_val.
+  WRITE p_val.
+ENDFORM.

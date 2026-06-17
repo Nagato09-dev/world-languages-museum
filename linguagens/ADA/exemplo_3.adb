@@ -1,5 +1,5 @@
-// ADA - Controle de Fluxo - Estruturas condicionais (se/então).
-program Main;
-begin
-    writeln('Controle de Fluxo - Estruturas condicionais (se/então).');
-end.
+if X > 5 then
+   Put_Line("Maior");
+else
+   Put_Line("Menor");
+end if;

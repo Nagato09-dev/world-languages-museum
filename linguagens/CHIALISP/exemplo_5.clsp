@@ -1,2 +1,6 @@
-# CHIALISP - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+(mod (a b)
+  (defun add-numbers (x y)
+    (+ x y)
+  )
+  (add-numbers a b)
+)

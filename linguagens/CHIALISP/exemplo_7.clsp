@@ -1,2 +1,6 @@
-# CHIALISP - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+(mod (divisor)
+  ; Tratamento de erros em Chialisp é feito com 'assert'
+  ; Se a condição for falsa, o puzzle falha.
+  (assert (not (= divisor 0)))
+  (/ 10 divisor)
+)

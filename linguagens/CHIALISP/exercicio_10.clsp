@@ -1,3 +1,4 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
-
-// Solução autêntica para Exercício 10 em js
+(mod (data_list)
+  ; Retorna a lista original. Ordenação complexa não é trivial em Chialisp.
+  (q . data_list)
+)

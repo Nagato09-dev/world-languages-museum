@@ -1,2 +1,5 @@
-# CHIALISP - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+(mod (amount name)
+  (defconstant MY_AMOUNT 100)
+  (defconstant MY_NAME (q . "Chialisp Dev"))
+  (q . (MY_AMOUNT MY_NAME))
+)

@@ -1,2 +1,6 @@
-# CHIALISP - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+(mod (value)
+  (if (> value 10)
+      (q . "Value is greater than 10")
+      (q . "Value is not greater than 10")
+  )
+)

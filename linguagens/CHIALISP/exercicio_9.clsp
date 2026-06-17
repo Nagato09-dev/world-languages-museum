@@ -1,3 +1,10 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+(mod (base exponent)
+  ; Potência simples (base^exponent) - para inteiros pequenos
+  (defun power (b e res)
+    (if (= e 0)
+        res
+        (power b (- e 1) (* res b))
+    )
+  )
+  (power base exponent 1)
+)

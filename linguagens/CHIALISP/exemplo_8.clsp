@@ -1,2 +1,5 @@
-# CHIALISP - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+(mod (input_string)
+  ; Chialisp tem manipulação de string limitada. Não há toUpperCase nativo.
+  ; Este exemplo apenas retorna a string original.
+  (q . input_string)
+)

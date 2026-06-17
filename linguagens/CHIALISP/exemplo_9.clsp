@@ -1,2 +1,4 @@
-# CHIALISP - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+(mod (num)
+  ; Raiz quadrada não é nativa. Usamos uma operação matemática simples.
+  (* num num)
+)

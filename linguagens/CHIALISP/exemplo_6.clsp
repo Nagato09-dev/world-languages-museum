@@ -1,2 +1,5 @@
-# CHIALISP - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+(mod (my_list)
+  (defconstant FIRST_ELEMENT (f my_list))
+  (defconstant REST_OF_LIST (r my_list))
+  (q . (FIRST_ELEMENT REST_OF_LIST))
+)

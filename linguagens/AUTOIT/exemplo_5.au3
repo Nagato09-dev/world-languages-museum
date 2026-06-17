@@ -1,2 +1,3 @@
-# AUTOIT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+Func Square($n)
+  Return $n * $n
+EndFunc

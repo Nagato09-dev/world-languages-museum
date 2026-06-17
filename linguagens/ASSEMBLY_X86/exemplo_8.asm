@@ -1,15 +1,1 @@
-; ASSEMBLY_X86 - Manipulação de Strings - Trabalhando com textos.
-section .data
-    msg db 'Manipulação de Strings - Trabalhando com textos.', 0xa
-    len equ $ - msg
-section .text
-    global _start
-_start:
-    ; Print: Manipulação de Strings - Trabalhando com textos.
-    mov edx, len
-    mov ecx, msg
-    mov ebx, 1
-    mov eax, 4
-    int 0x80
-    mov eax, 1
-    int 0x80
+rep movsb ; Copia string

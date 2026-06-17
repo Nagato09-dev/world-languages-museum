@@ -1,2 +1,2 @@
-<!-- ASCIIDOC - Variáveis e Tipos - Como armazenar dados. -->
-<div>Variáveis e Tipos - Como armazenar dados.</div>
+:x: 10
+:s: Olá

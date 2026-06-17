@@ -1,2 +1,3 @@
-# ASP - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+<% If x > 5 Then
+  Response.Write("Maior")
+End If %>

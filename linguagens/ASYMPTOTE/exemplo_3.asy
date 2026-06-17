@@ -1,2 +1,3 @@
-# ASYMPTOTE - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+if (x > 5) {
+  write("Maior");
+}

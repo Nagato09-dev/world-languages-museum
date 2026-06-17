@@ -1,3 +1,1 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+val arr = array0_make_elt (5, 0)

@@ -1,2 +1,1 @@
-# AUTOIT - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+If @error Then MsgBox(0, "", "Erro")

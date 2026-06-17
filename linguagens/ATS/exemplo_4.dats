@@ -1,2 +1,1 @@
-# ATS - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+fun loop (i: int): void = if i < 10 then (println! i; loop (i+1))

@@ -1,2 +1,3 @@
-# ASP - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+<% For i = 1 To 10
+  Response.Write(i)
+Next %>

@@ -1,2 +1,1 @@
-# ATS - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+val r = sqrt (16.0)

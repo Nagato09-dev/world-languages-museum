@@ -1,2 +1,3 @@
-# AUTOIT - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+For $i = 1 To 10
+  ConsoleWrite($i)
+Next

@@ -1,2 +1,1 @@
-# ASP - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+<% res = Sqr(16) %>

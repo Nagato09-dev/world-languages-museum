@@ -1,2 +1,2 @@
-# ASP - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+<% Dim x: x = 10
+Dim s: s = "Olá" %>

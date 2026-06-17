@@ -1,2 +1,1 @@
-# ASPECTJ - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+List<Integer> list = Arrays.asList(1, 2, 3);

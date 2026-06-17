@@ -1,2 +1,1 @@
-# AUGEAS - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+let x = 10

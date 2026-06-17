@@ -1,2 +1,1 @@
-# ASP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+<% Set conn = Server.CreateObject("ADODB.Connection") %>

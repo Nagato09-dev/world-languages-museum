@@ -1,5 +1,1 @@
-// AWK - Loops - Repetindo tarefas com para/enquanto.
-int main() {
-    printf("Loops - Repetindo tarefas com para/enquanto.\n");
-    return 0;
-}
+BEGIN { for (i=1; i<=10; i++) print i }

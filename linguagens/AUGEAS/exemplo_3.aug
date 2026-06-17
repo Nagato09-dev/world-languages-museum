@@ -1,2 +1,1 @@
-# AUGEAS - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+let cond = if x > 5 then 1 else 0

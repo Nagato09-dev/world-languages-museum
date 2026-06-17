@@ -1,2 +1,1 @@
-<!-- ASCIIDOC - Loops - Repetindo tarefas com para/enquanto. -->
-<div>Loops - Repetindo tarefas com para/enquanto.</div>
+// AsciiDoc não tem loops, é marcação

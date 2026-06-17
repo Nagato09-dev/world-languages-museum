@@ -1,2 +1,1 @@
-# ASPECTJ - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+after() throwing (Exception e) : call(* *(..)) { }

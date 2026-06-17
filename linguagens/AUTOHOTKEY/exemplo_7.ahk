@@ -1,2 +1,5 @@
-# AUTOHOTKEY - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try {
+  throw "Erro"
+} catch e {
+  MsgBox, % e
+}

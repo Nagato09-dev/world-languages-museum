@@ -1,2 +1,1 @@
-# AUTOHOTKEY - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+res := Sqrt(16)

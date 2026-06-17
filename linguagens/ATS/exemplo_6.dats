@@ -1,2 +1,1 @@
-# ATS - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+val list = $list{int}(1, 2, 3)

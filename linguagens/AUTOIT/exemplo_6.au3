@@ -1,2 +1,1 @@
-# AUTOIT - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+Local $list[3] = [1, 2, 3]

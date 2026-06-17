@@ -1,2 +1,1 @@
-# AUGEAS - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+let list = [ seq "item" . [ label "1" ] ]

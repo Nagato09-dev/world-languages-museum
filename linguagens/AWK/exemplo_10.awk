@@ -1,5 +1,1 @@
-// AWK - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-int main() {
-    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
-    return 0;
-}
+{ print $1 } # Imprime primeira coluna

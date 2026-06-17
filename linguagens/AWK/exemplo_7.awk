@@ -1,5 +1,1 @@
-// AWK - Tratamento de Erros - Lidando com exceções e falhas.
-int main() {
-    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
-    return 0;
-}
+BEGIN { if (y == 0) print "Erro" }

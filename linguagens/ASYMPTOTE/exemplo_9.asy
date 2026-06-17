@@ -1,2 +1,1 @@
-# ASYMPTOTE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+real r = sqrt(16);

@@ -1,2 +1,4 @@
-<!-- ASCIIDOC - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci). -->
-<div>Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).</div>
+[source,python]
+----
+print("Code")
+----

@@ -1,2 +1,1 @@
-# ATS - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fun square (n: int): int = n * n

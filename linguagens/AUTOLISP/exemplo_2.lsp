@@ -1,2 +1,2 @@
-;; AUTOLISP - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+(setq x 10)
+(setq s "Olá")

@@ -1,2 +1,2 @@
-# ATS - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+val x = 10
+val s = "Olá"

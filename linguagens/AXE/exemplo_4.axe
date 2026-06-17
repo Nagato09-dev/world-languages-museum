@@ -1,2 +1,3 @@
-# AXE - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+For(I,1,10)
+Disp I▶Dec
+End

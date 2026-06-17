@@ -1,2 +1,1 @@
-<!-- ASCIIDOC - Matemática - Operações aritméticas básicas. -->
-<div>Matemática - Operações aritméticas básicas.</div>
+1 + 1 = 2

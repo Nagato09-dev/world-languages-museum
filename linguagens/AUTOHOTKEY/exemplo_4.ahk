@@ -1,2 +1,3 @@
-# AUTOHOTKEY - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+Loop, 10 {
+  MsgBox, %A_Index%
+}

@@ -1,2 +1,1 @@
-# AUTOIT - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+Local $res = Sqrt(16)

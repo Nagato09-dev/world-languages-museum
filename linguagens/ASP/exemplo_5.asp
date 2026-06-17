@@ -1,2 +1,3 @@
-# ASP - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+<% Function Square(n)
+  Square = n * n
+End Function %>

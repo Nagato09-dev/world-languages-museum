@@ -1,2 +1,1 @@
-# ATS - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+assertloc (x > 0)

@@ -1,2 +1,2 @@
-# AUTOIT - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+Local $x = 10
+Local $s = "Olá"

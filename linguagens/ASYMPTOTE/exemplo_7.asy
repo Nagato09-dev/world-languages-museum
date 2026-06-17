@@ -1,2 +1,1 @@
-# ASYMPTOTE - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+assert(x != 0, "Erro");

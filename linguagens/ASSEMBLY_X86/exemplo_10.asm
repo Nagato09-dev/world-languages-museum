@@ -1,15 +1,2 @@
-; ASSEMBLY_X86 - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-section .data
-    msg db 'Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).', 0xa
-    len equ $ - msg
-section .text
-    global _start
-_start:
-    ; Print: Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-    mov edx, len
-    mov ecx, msg
-    mov ebx, 1
-    mov eax, 4
-    int 0x80
-    mov eax, 1
-    int 0x80
+push ebp
+mov ebp, esp

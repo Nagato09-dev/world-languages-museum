@@ -1,2 +1,1 @@
-# ASPECTJ - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+public int square(int n) { return n*n; }

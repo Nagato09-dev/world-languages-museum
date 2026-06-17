@@ -1,2 +1,1 @@
-# ASPECTJ - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+double r = Math.sqrt(16);

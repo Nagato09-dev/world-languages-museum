@@ -1,2 +1,3 @@
-<!-- ASCIIDOC - Controle de Fluxo - Estruturas condicionais (se/então). -->
-<div>Controle de Fluxo - Estruturas condicionais (se/então).</div>
+ifdef::x[]
+Texto se x existe
+endif::[]

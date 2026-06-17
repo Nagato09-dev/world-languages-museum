@@ -1,2 +1,1 @@
-# ATS - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+extern fun my_func (): void

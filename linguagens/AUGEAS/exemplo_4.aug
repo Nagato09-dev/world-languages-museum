@@ -1,2 +1,1 @@
-# AUGEAS - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+(* Augeas foca em transformações de árvore *)

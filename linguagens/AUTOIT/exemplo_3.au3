@@ -1,2 +1,3 @@
-# AUTOIT - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+If $x > 5 Then
+  MsgBox(0, "", "Maior")
+EndIf

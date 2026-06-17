@@ -1,2 +1,1 @@
-# AUGEAS - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+let my_func (a:string) = [ label a ]

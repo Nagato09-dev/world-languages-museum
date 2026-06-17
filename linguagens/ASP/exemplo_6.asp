@@ -1,2 +1,2 @@
-# ASP - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+<% Dim list(2)
+list(0) = 1 %>

@@ -1,2 +1,1 @@
-# ATS - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+val full = string_append ("Olá", " Mundo")

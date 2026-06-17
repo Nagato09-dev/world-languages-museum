@@ -1,2 +1,1 @@
-;; AUTOLISP - Estruturas de Dados - Listas, Vetores ou Mapas.
-(print "Estruturas de Dados - Listas, Vetores ou Mapas.")
+(setq list '(1 2 3))

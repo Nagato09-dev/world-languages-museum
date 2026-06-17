@@ -1,2 +1,1 @@
-# ASYMPTOTE - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+int[] list = {1, 2, 3};

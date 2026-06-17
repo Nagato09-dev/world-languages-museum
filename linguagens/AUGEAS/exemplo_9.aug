@@ -1,2 +1,1 @@
-# AUGEAS - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+let res = 10 + 5

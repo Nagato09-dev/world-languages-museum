@@ -1,2 +1,1 @@
-# ASPECTJ - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+for (int i=0; i<10; i++) { }

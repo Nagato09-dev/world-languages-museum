@@ -1,2 +1,1 @@
-# ASYMPTOTE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+draw((0,0)--(10,10));

@@ -1,2 +1,1 @@
-# BIFROST - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+let r = math::sqrt(16)

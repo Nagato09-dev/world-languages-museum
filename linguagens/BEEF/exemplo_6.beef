@@ -1,2 +1,1 @@
-# BEEF - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+List<int> list = new .();

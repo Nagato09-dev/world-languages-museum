@@ -1,2 +1,2 @@
-# BEFUNGE - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+52*v
+    >p

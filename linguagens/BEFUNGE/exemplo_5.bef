@@ -1,2 +1,1 @@
-# BEFUNGE - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+/* Befunge não tem funções tradicionais */

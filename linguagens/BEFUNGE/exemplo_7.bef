@@ -1,2 +1,1 @@
-# BEFUNGE - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+/* Befunge não tem tratamento de erros */

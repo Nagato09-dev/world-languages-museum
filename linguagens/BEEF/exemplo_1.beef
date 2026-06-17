@@ -1,2 +1,8 @@
-# BEEF - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+using System;
+
+namespace Hello;
+class Program {
+  public static void Main() {
+    Console.WriteLine("Olá Mundo");
+  }
+}

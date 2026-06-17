@@ -1,1 +1,1 @@
-local f = 3.14
+print("Olá, Mundo!")

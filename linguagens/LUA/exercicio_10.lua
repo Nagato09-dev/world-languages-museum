@@ -1,1 +1,1 @@
-for _, v in ipairs(lista) do if v == 2 then print("Achou") end end
+print("Olá, Mundo!")

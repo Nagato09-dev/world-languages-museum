@@ -1,1 +1,1 @@
-pcall(...)
+print("Olá, Mundo!")

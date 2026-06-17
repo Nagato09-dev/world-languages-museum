@@ -1,1 +1,1 @@
-local f: number = 3.14
+print("Olá, Mundo!")

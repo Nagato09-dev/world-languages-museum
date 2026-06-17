@@ -1,1 +1,1 @@
-table.insert(lista, 3)
+print("Olá, Mundo!")

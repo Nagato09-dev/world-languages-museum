@@ -1,3 +1,4 @@
 HAI 1.2
-  VISIBLE "Olá Mundo"
+  CAN HAS STDIO?
+  VISIBLE "Olá, Mundo!"
 KTHXBYE

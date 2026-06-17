@@ -1,1 +1,1 @@
-def area (r : Float) : Float := 3.14 * r * r
+def main : IO Unit := IO.println "Olá, Mundo!"

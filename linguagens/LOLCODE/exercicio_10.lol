@@ -1,1 +1,4 @@
-ANY OF lista AN 2
+HAI 1.2
+  CAN HAS STDIO?
+  VISIBLE "Olá, Mundo!"
+KTHXBYE

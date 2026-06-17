@@ -1,1 +1,3 @@
-function soma(a, b) return a + b end
+function soma(a, b)
+    return a + b
+end

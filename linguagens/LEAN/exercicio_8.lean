@@ -1,1 +1,1 @@
-#eval "lean".reverse
+def main : IO Unit := IO.println "Olá, Mundo!"

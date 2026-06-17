@@ -1,1 +1,1 @@
-VISIBLE "lolcode" !! UPPER
+// Sintaxe para string em LOLCODE

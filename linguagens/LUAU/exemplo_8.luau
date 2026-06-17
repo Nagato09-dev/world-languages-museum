@@ -1,1 +1,1 @@
-string.upper("luau")
+// Sintaxe para string em LUAU

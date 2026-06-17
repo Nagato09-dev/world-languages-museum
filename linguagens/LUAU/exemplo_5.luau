@@ -1,1 +1,1 @@
-function soma(a: number, b: number): number return a + b end
+// Sintaxe para func em LUAU

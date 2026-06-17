@@ -1,1 +1,1 @@
-def novaLista := 3 :: lista
+def main : IO Unit := IO.println "Olá, Mundo!"

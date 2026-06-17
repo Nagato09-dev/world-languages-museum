@@ -1,1 +1,1 @@
-#eval Float.sqrt 16.0
+// Sintaxe para math em LEAN

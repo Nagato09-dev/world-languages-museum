@@ -1,3 +1,1 @@
-HOW IZ I soma YR a AN YR b
-  FOUND YR SUM OF a AN b
-IF IZ I
+// Sintaxe para func em LOLCODE

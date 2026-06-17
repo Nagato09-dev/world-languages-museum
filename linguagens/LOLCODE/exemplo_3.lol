@@ -1,6 +1,7 @@
-DIFFRINT x AN SMALLR OF x AN 0, O RLY?
+x BOTH SAEM 10
+O RLY?
   YA RLY
-    VISIBLE "Positivo"
+    VISIBLE "Igual"
   NO WAI
-    VISIBLE "Negativo"
+    VISIBLE "Diferente"
 OIC

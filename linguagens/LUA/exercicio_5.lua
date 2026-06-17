@@ -1,1 +1,1 @@
-function mult(a, b) return a * b end
+print("Olá, Mundo!")

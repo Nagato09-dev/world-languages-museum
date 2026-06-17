@@ -1,1 +1,1 @@
-table.sort(lista)
+// Sintaxe para sort em LUAU

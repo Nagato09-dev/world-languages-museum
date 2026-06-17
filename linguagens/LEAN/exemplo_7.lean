@@ -1,1 +1,1 @@
--- Lean usa tipos para garantir correção formally
+// Sintaxe para error em LEAN

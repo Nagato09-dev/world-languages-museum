@@ -1,1 +1,1 @@
-table.find(lista, 2)
+print("Olá, Mundo!")

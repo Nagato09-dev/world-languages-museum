@@ -1,1 +1,1 @@
-for i = 0, 4 do print(i) end
+// Sintaxe para loop em LUAU

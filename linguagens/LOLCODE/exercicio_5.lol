@@ -1,3 +1,4 @@
-HOW IZ I mult YR a AN YR b
-  FOUND YR PRODUKT OF a AN b
-IF IZ I
+HAI 1.2
+  CAN HAS STDIO?
+  VISIBLE "Olá, Mundo!"
+KTHXBYE

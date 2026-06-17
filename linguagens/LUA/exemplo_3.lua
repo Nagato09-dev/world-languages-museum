@@ -1,1 +1,5 @@
-if x > 0 then print("Positivo") else print("Negativo") end
+if x > 10 then
+    print("Maior")
+else
+    print("Menor")
+end

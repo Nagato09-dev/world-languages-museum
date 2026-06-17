@@ -1,4 +1,1 @@
-AWSUM THING
-  VISIBLE "Erro"
-O NOES
-  VISIBLE "Erro"
+// Sintaxe para error em LOLCODE

@@ -1,1 +1,1 @@
-#eval "lean".toUpper
+// Sintaxe para string em LEAN

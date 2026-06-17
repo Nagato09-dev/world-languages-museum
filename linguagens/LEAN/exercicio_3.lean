@@ -1,1 +1,1 @@
-def isEven (n : Nat) : Bool := n % 2 == 0
+def main : IO Unit := IO.println "Olá, Mundo!"

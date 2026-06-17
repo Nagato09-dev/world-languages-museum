@@ -1,1 +1,1 @@
-def main : IO Unit := IO.println "Nagato09-dev"
+def main : IO Unit := IO.println "Olá, Mundo!"

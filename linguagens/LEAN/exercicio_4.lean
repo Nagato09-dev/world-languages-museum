@@ -1,1 +1,1 @@
-def countdown : List Nat := [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+def main : IO Unit := IO.println "Olá, Mundo!"

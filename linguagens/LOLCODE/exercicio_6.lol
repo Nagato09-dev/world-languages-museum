@@ -1,1 +1,4 @@
-lista HAS A 3 ITZ 3
+HAI 1.2
+  CAN HAS STDIO?
+  VISIBLE "Olá, Mundo!"
+KTHXBYE

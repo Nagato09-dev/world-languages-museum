@@ -1,1 +1,1 @@
-string.reverse("luau")
+print("Olá, Mundo!")

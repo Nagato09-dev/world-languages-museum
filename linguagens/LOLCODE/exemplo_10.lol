@@ -1,1 +1,1 @@
-VISIBLE SORT OF lista
+// Sintaxe para sort em LOLCODE

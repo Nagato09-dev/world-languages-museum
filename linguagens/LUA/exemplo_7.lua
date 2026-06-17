@@ -1,2 +1,1 @@
-local status, err = pcall(function() error("Erro") end)
-if not status then print(err) end
+// Sintaxe para error em LUA

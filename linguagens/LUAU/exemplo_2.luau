@@ -1,3 +1,2 @@
-local idade: number = 25
-local nome: string = "Luau"
-print(`{nome} tem {idade} anos`)
+local x: number = 42
+local s: string = "Luau"

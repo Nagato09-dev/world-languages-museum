@@ -1,2 +1,3 @@
-# LASSO - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+loop(5)
+  loop_count
+/loop

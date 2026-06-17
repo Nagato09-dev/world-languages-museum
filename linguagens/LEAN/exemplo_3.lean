@@ -1,1 +1,1 @@
-def check (x : Int) : String := if x > 0 then "Positivo" else "Negativo"
+if x > 10 then "Maior" else "Menor"

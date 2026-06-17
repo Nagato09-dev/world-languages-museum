@@ -1,1 +1,4 @@
-I HAS A f ITZ 3.14
+HAI 1.2
+  CAN HAS STDIO?
+  VISIBLE "Olá, Mundo!"
+KTHXBYE

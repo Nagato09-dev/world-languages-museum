@@ -1,1 +1,1 @@
-if x > 0 then print("Positivo") else print("Negativo") end
+// Sintaxe para if em LUAU

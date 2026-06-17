@@ -1,1 +1,1 @@
-local status, err = pcall(function() error("Erro") end)
+// Sintaxe para error em LUAU

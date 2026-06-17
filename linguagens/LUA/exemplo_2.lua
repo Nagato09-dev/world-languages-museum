@@ -1,3 +1,2 @@
-local idade = 25
-local nome = "Lua"
-print(nome .. " tem " .. idade .. " anos")
+local x = 42
+local s = "Lua"

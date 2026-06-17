@@ -1,1 +1,1 @@
-VISIBLE SQRT OF 16
+// Sintaxe para math em LOLCODE

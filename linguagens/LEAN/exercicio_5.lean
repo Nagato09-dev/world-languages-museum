@@ -1,1 +1,1 @@
-def mult (a b : Nat) : Nat := a * b
+def main : IO Unit := IO.println "Olá, Mundo!"

@@ -1,1 +1,1 @@
-#eval [3, 1, 4].sort
+// Sintaxe para sort em LEAN

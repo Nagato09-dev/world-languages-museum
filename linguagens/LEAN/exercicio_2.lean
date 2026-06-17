@@ -1,1 +1,1 @@
-def f : Float := 3.14
+def main : IO Unit := IO.println "Olá, Mundo!"

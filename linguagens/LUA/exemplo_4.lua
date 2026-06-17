@@ -1,1 +1,3 @@
-for i = 0, 4 do print(i) end
+for i = 1, 5 do
+    print(i)
+end

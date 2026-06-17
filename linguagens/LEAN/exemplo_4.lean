@@ -1,1 +1,2 @@
-def loop : IO Unit := do for i in [0:5] do IO.println i
+for i in [0:5] do
+  IO.println i

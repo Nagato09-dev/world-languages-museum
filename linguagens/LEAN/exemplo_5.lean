@@ -1,1 +1,1 @@
-def soma (a b : Nat) : Nat := a + b
+// Sintaxe para func em LEAN

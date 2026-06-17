@@ -1,1 +1,1 @@
-// Exercício 5 para DTRACE
+mult = arg0 * arg1;

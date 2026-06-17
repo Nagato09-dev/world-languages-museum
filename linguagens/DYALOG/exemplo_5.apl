@@ -1,2 +1,2 @@
-// Exemplo 5 para DYALOG
-// Sintaxe autêntica sendo preparada
+soma ← {⍺ + ⍵}
+5 soma 3

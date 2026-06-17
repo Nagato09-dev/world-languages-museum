@@ -1,1 +1,1 @@
-// Exercício 7 para DYALOG
+⎕SIGNAL 11

@@ -1,2 +1,1 @@
-// Exemplo 10 para DYLAN
-// Sintaxe autêntica sendo preparada
+sort(#[3, 1, 4, 1, 5]);

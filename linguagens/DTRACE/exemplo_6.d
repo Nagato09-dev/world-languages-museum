@@ -1,2 +1,3 @@
-// Exemplo 6 para DTRACE
-// Sintaxe autêntica sendo preparada
+syscall:::open:entry {
+  printf("%s abriu %s\n", execname, copyinstr(arg0));
+}

@@ -1,0 +1,2 @@
+   e:   c7 45 fc 0a 00 00 00    movl   $0xa,-0x4(%rbp)
+  15:   48 8d 3d 00 00 00 00    lea    0x0(%rip),%rdi

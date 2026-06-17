@@ -1,1 +1,1 @@
-// Exercício 4 para DYLAN
+for (i from 10 to 1 by -1) format-out("%d", i) end for;

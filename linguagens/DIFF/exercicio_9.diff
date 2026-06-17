@@ -1,1 +1,5 @@
-// Exercício 9 para DIFF
+--- a/circle.txt
++++ b/circle.txt
+@@ -1 +1 @@
+-0
++31.4

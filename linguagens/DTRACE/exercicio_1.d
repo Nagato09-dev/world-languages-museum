@@ -1,1 +1,1 @@
-// Exercício 1 para DTRACE
+dtrace:::BEGIN { printf("Nagato09-dev\n"); exit(0); }

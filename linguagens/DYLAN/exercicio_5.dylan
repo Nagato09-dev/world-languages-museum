@@ -1,1 +1,1 @@
-// Exercício 5 para DYLAN
+define method mult (a, b) a * b end;

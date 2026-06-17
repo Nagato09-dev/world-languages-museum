@@ -1,1 +1,1 @@
-// Exercício 1 para DUKTAPE
+print("Nagato09-dev");

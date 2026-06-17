@@ -1,1 +1,1 @@
-// Exercício 3 para DUKTAPE
+print(n % 2 === 0 ? "Par" : "Ímpar");

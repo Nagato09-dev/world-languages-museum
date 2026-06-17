@@ -1,0 +1,3 @@
+(intro)
+    (let $Texto "dialog")
+    [upper $Texto]

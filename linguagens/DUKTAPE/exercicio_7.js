@@ -1,1 +1,1 @@
-// Exercício 7 para DUKTAPE
+try { } catch (e) { }

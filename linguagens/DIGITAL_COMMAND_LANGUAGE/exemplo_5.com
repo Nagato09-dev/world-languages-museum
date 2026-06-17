@@ -1,2 +1,4 @@
-// Exemplo 5 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ SOMA: SUBROUTINE
+$   RESULT = P1 + P2
+$   WRITE SYS$OUTPUT "Soma: RESULT"
+$ ENDSUBROUTINE

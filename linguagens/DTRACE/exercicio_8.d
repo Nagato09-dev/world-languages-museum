@@ -1,1 +1,1 @@
-// Exercício 8 para DTRACE
+printf("%s\n", strrev("dtrace"));

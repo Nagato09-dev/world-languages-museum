@@ -1,2 +1,3 @@
-// Exemplo 4 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+for (var i = 0; i < 5; i++) {
+  print(i);
+}

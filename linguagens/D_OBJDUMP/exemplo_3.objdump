@@ -1,0 +1,2 @@
+  1c:   83 7d fc 00             cmpl   $0x0,-0x4(%rbp)
+  20:   7e 0a                   jle    2c <_Dmain+0x2c>

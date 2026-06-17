@@ -1,1 +1,1 @@
-// Exercício 5 para DYALOG
+mult ← {⍺ × ⍵}

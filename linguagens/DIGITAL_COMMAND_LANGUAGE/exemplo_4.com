@@ -1,2 +1,5 @@
-// Exemplo 4 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ I = 0
+$ LOOP:
+$   WRITE SYS$OUTPUT I
+$   I = I + 1
+$   IF I .LT. 5 THEN GOTO LOOP

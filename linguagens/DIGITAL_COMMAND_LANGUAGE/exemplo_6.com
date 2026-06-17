@@ -1,2 +1,2 @@
-// Exemplo 6 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ LISTA = "1,2,3"
+$ WRITE SYS$OUTPUT LISTA

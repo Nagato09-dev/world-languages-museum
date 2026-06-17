@@ -1,2 +1,3 @@
-// Exemplo 9 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ VALUE = 16
+$ RESULT = F$SQRT(VALUE)
+$ WRITE SYS$OUTPUT RESULT

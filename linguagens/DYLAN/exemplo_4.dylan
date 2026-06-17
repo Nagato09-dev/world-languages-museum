@@ -1,2 +1,3 @@
-// Exemplo 4 para DYLAN
-// Sintaxe autêntica sendo preparada
+for (i from 0 below 5)
+  format-out("%d\n", i);
+end for;

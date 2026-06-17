@@ -1,1 +1,1 @@
-// Exercício 3 para DYLAN
+if (even?(n)) format-out("Par") end if;

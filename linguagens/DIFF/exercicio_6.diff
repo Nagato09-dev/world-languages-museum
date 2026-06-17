@@ -1,1 +1,5 @@
-// Exercício 6 para DIFF
+--- a/list.txt
++++ b/list.txt
+@@ -3 +3,1 @@
+-2
++3

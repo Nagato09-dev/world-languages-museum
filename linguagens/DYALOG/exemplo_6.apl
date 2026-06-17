@@ -1,2 +1,2 @@
-// Exemplo 6 para DYALOG
-// Sintaxe autêntica sendo preparada
+lista ← 1 2 3
+lista

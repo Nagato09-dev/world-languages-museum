@@ -1,1 +1,1 @@
-// Exercício 3 para DTRACE
+if (arg0 % 2 == 0) { printf("Par\n"); }

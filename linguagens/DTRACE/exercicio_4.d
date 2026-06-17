@@ -1,1 +1,1 @@
-// Exercício 4 para DTRACE
+tick-1s { i++; if (i == 10) exit(0); }

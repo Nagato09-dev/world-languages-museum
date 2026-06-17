@@ -1,1 +1,1 @@
-// Exercício 10 para DTRACE
+if (pid == 2) { printf("Achou\n"); }

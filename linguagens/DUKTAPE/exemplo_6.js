@@ -1,2 +1,2 @@
-// Exemplo 6 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+var lista = [1, 2, 3];
+print(JSON.stringify(lista));

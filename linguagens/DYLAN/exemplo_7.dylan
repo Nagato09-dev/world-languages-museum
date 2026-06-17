@@ -1,2 +1,5 @@
-// Exemplo 7 para DYLAN
-// Sintaxe autêntica sendo preparada
+block ()
+  error("Erro Dylan");
+exception (e :: <error>)
+  format-out("Erro capturado");
+end block;

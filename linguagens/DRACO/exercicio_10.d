@@ -1,0 +1,1 @@
+find(lista, 2)

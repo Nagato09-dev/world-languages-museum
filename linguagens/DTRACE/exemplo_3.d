@@ -1,2 +1,5 @@
-// Exemplo 3 para DTRACE
-// Sintaxe autêntica sendo preparada
+syscall:::entry {
+  if (pid == 1234) {
+    printf("Processo 1234 entrou na syscall\n");
+  }
+}

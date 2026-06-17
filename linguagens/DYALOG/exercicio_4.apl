@@ -1,1 +1,1 @@
-// Exercício 4 para DYALOG
+⌽⍳10

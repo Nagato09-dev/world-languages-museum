@@ -1,2 +1,1 @@
-// Exemplo 10 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+print(Duktape.version);

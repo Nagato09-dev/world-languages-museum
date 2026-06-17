@@ -1,2 +1,5 @@
-// Exemplo 3 para DUST
-// Sintaxe autêntica sendo preparada
+{?x}
+  Positivo
+{:else}
+  Negativo
+{/x}

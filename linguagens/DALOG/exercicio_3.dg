@@ -1,0 +1,1 @@
+($N is even) (if) ($N % 2 == 0) (then) Par (endif)

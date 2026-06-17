@@ -1,2 +1,3 @@
-// Exemplo 8 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ TEXTO = "dcl"
+$ UPPER = F$EDIT(TEXTO, "UPCASE")
+$ WRITE SYS$OUTPUT UPPER

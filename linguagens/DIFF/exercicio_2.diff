@@ -1,1 +1,5 @@
-// Exercício 2 para DIFF
+--- a/val.txt
++++ b/val.txt
+@@ -1 +1 @@
+-0
++3.14

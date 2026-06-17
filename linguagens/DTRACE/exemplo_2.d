@@ -1,2 +1,6 @@
-// Exemplo 2 para DTRACE
-// Sintaxe autêntica sendo preparada
+dtrace:::BEGIN {
+  idade = 25;
+  nome = "DTrace";
+  printf("%s tem %d anos\n", nome, idade);
+  exit(0);
+}

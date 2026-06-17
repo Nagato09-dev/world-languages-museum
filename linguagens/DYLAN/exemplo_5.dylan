@@ -1,2 +1,3 @@
-// Exemplo 5 para DYLAN
-// Sintaxe autêntica sendo preparada
+define method soma (a :: <integer>, b :: <integer>)
+  a + b
+end method soma;

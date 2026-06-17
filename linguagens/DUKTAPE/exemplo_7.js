@@ -1,2 +1,5 @@
-// Exemplo 7 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+try {
+  throw new Error("Erro Duktape");
+} catch (e) {
+  print(e.stack || e);
+}

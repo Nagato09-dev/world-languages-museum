@@ -1,0 +1,4 @@
+addfile ./vars.txt
+hunk ./vars.txt 1
++idade = 25
++nome = "Darcs"

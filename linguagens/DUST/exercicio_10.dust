@@ -1,1 +1,1 @@
-// Exercício 10 para DUST
+{#lista}{?current}{.}{/current}{/lista}

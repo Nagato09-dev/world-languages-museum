@@ -1,1 +1,1 @@
-// Exercício 6 para DIGITAL_COMMAND_LANGUAGE
+$ LISTA = LISTA + ",3"

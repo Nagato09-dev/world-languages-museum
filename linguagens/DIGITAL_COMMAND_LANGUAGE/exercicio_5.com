@@ -1,1 +1,1 @@
-// Exercício 5 para DIGITAL_COMMAND_LANGUAGE
+$ MULT = A * B

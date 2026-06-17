@@ -1,0 +1,1 @@
+proc main() void: writeln("Nagato09-dev") corp

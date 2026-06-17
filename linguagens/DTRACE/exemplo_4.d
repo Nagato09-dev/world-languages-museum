@@ -1,2 +1,3 @@
-// Exemplo 4 para DTRACE
-// Sintaxe autêntica sendo preparada
+profile:::profile-10ms {
+  @count[execname] = count();
+}

@@ -1,1 +1,1 @@
-// Exercício 1 para DIGITAL_COMMAND_LANGUAGE
+$ WRITE SYS$OUTPUT "Nagato09-dev"

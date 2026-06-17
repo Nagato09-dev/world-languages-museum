@@ -1,1 +1,1 @@
-// Exercício 8 para DUKTAPE
+print("duktape".split("").reverse().join(""));

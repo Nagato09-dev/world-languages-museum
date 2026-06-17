@@ -1,2 +1,2 @@
-// Exemplo 3 para DYALOG
-// Sintaxe autêntica sendo preparada
+x ← 5
+(x > 0) : 'Positivo' ⋄ 'Negativo'

@@ -1,2 +1,8 @@
-// Exemplo 7 para DIFF
-// Sintaxe autêntica sendo preparada
+--- a/error.py
++++ b/error.py
+@@ -1 +1,4 @@
+-print(1/0)
++try:
++    print(1/0)
++except:
++    print("Erro")

@@ -1,2 +1,3 @@
-// Exemplo 1 para DYLAN
-// Sintaxe autêntica sendo preparada
+define method main ()
+  format-out("Olá Mundo\n");
+end method main;

@@ -1,1 +1,1 @@
-// Exercício 6 para DYALOG
+lista, 3

@@ -1,1 +1,1 @@
-// Exercício 10 para DYALOG
+2 ∊ 1 2 3

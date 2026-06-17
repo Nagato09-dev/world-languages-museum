@@ -1,1 +1,1 @@
-// Exercício 7 para DTRACE
+syscall:::error { printf("Erro\n"); }

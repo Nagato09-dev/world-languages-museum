@@ -1,2 +1,3 @@
-// Exemplo 2 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+var idade = 25;
+var nome = "Duktape";
+print(nome + " tem " + idade + " anos");

@@ -1,2 +1,4 @@
-// Exemplo 7 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ ON ERROR THEN GOTO ERROR_HANDLER
+$ EXIT
+$ ERROR_HANDLER:
+$   WRITE SYS$OUTPUT "Erro capturado"

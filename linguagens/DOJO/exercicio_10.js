@@ -1,0 +1,1 @@
+require(["dojo/_base/array"], function(array){ array.indexOf(lista, 2); });

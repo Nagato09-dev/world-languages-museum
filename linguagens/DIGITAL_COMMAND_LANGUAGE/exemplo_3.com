@@ -1,2 +1,3 @@
-// Exemplo 3 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ X = 5
+$ IF X .GT. 0 THEN WRITE SYS$OUTPUT "Positivo"
+$ IF X .LE. 0 THEN WRITE SYS$OUTPUT "Negativo"

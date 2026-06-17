@@ -1,2 +1,7 @@
-// Exemplo 2 para DIFF
-// Sintaxe autêntica sendo preparada
+--- a/vars.txt
++++ b/vars.txt
+@@ -1,2 +1,2 @@
+-age=20
++idade=25
+-name=diff
++nome=Diff

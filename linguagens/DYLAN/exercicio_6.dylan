@@ -1,1 +1,1 @@
-// Exercício 6 para DYLAN
+add!(lista, 3);

@@ -1,2 +1,5 @@
-// Exemplo 3 para DYLAN
-// Sintaxe autêntica sendo preparada
+if (x > 0)
+  format-out("Positivo");
+else
+  format-out("Negativo");
+end if;

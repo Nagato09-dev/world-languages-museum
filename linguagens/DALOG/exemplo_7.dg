@@ -1,0 +1,6 @@
+(intro)
+    (try)
+        (error "Erro ocorrido")
+    (catch)
+        Ocorreu um erro.
+    (endtry)

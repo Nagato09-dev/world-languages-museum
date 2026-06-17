@@ -1,1 +1,1 @@
-// Exercício 6 para DTRACE
+@list[execname] = count();

@@ -1,1 +1,1 @@
-// Exercício 10 para DUKTAPE
+print(lista.indexOf(2) !== -1);

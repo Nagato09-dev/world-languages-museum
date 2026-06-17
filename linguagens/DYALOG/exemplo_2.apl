@@ -1,2 +1,3 @@
-// Exemplo 2 para DYALOG
-// Sintaxe autêntica sendo preparada
+idade ← 25
+nome ← 'Dyalog'
+nome, ' tem ', (⍕idade), ' anos'

@@ -1,1 +1,1 @@
-// Exercício 9 para DIGITAL_COMMAND_LANGUAGE
+$ AREA = 3.14 * R * R

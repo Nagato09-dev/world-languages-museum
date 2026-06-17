@@ -1,1 +1,1 @@
-// Exercício 3 para DYALOG
+0 = 2 | n

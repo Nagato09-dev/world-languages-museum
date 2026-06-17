@@ -1,2 +1,4 @@
-// Exemplo 1 para DTRACE
-// Sintaxe autêntica sendo preparada
+dtrace:::BEGIN {
+  printf("Olá Mundo\n");
+  exit(0);
+}

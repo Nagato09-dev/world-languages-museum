@@ -1,2 +1,1 @@
-// Exemplo 6 para DYLAN
-// Sintaxe autêntica sendo preparada
+let lista = #[1, 2, 3];

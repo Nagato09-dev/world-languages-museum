@@ -1,2 +1,5 @@
-// Exemplo 8 para DIFF
-// Sintaxe autêntica sendo preparada
+--- a/string.txt
++++ b/string.txt
+@@ -1 +1 @@
+-lower
++UPPER

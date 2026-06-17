@@ -1,2 +1,4 @@
-// Exemplo 5 para DUKTAPE
-// Sintaxe autêntica sendo preparada
+function soma(a, b) {
+  return a + b;
+}
+print("Soma: " + soma(5, 3));

@@ -1,2 +1,3 @@
-// Exemplo 2 para DIGITAL_COMMAND_LANGUAGE
-// Sintaxe autêntica sendo preparada
+$ IDADE = 25
+$ NOME = "DCL"
+$ WRITE SYS$OUTPUT "NOME tem IDADE anos"

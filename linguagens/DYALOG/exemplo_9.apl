@@ -1,2 +1,1 @@
-// Exemplo 9 para DYALOG
-// Sintaxe autêntica sendo preparada
+16 * 0.5

@@ -1,1 +1,1 @@
-// Exercício 8 para DIGITAL_COMMAND_LANGUAGE
+$ ! Inverter string em DCL requer loop

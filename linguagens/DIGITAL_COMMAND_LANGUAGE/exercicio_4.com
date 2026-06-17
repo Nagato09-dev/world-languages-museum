@@ -1,1 +1,5 @@
-// Exercício 4 para DIGITAL_COMMAND_LANGUAGE
+$ I = 10
+$ L:
+$   WRITE SYS$OUTPUT I
+$   I = I - 1
+$   IF I .GE. 1 THEN GOTO L

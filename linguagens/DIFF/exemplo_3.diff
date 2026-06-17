@@ -1,2 +1,7 @@
-// Exemplo 3 para DIFF
-// Sintaxe autêntica sendo preparada
+--- a/check.txt
++++ b/check.txt
+@@ -5 +5,3 @@
+-if(x)
++if(x > 0) {
++  print("Positivo");
++}

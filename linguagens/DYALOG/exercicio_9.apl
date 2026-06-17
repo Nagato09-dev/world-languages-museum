@@ -1,1 +1,1 @@
-// Exercício 9 para DYALOG
+○ r * 2

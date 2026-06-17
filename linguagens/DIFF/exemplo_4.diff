@@ -1,2 +1,5 @@
-// Exemplo 4 para DIFF
-// Sintaxe autêntica sendo preparada
+--- a/loop.txt
++++ b/loop.txt
+@@ -1,5 +1,5 @@
+-for i in range(5):
++for (let i=0; i<5; i++) {

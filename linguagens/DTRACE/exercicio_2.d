@@ -1,1 +1,1 @@
-// Exercício 2 para DTRACE
+idade = 25;

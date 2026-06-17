@@ -1,2 +1,4 @@
-// Exemplo 3 para EMBERSCRIPT
-// Sintaxe autêntica
+if idade > 0
+  console.log 'Ativo'
+else
+  console.log 'Inativo'

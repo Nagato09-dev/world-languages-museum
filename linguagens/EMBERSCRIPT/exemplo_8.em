@@ -1,2 +1,2 @@
-// Exemplo 8 para EMBERSCRIPT
-// Sintaxe autêntica
+texto = 'emberscript'
+console.log texto.toUpperCase()

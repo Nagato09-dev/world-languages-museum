@@ -1,2 +1,3 @@
-// Exemplo 2 para EMBERSCRIPT
-// Sintaxe autêntica
+nome = 'Manus'
+idade = 1
+console.log "#{nome} tem #{idade} ano"

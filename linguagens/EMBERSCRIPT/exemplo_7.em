@@ -1,2 +1,4 @@
-// Exemplo 7 para EMBERSCRIPT
-// Sintaxe autêntica
+try
+  JSON.parse('invalido')
+catch e
+  console.log "Erro: #{e.message}"

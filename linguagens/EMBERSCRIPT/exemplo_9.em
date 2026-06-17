@@ -1,2 +1,2 @@
-// Exemplo 9 para EMBERSCRIPT
-// Sintaxe autêntica
+valor = Math.sqrt 16
+console.log "Raiz: #{valor}"

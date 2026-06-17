@@ -1,1 +1,2 @@
-// Exercício 1 para EMBERSCRIPT
+# Imprima uma saudação personalizada
+console.log 'Bem-vindo ao EmberScript'

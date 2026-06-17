@@ -1,1 +1,2 @@
-// Exercício 9 para EMBERSCRIPT
+# Calcule o valor absoluto de -5
+console.log Math.abs -5

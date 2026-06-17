@@ -1,2 +1,2 @@
-// Exemplo 6 para EMBERSCRIPT
-// Sintaxe autêntica
+frutas = ['Maçã', 'Banana', 'Laranja']
+console.log frutas[0]

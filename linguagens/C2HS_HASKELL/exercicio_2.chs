@@ -1,5 +1,10 @@
-// Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
+module Main where
+import Foreign.C.String
 
-let a=10, b=20, c=30;
-let soma = a+b+c;
-console.log(`Soma: ${soma}, Média: ${soma/3}`);
+foreign import ccall "exercise_variables" exercise_variables :: IO CString
+
+main :: IO ()
+main = do
+  result <- exercise_variables
+  resultString <- peekCString result
+  putStrLn resultString

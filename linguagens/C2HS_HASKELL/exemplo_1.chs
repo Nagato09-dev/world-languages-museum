@@ -1,2 +1,7 @@
-# C2HS_HASKELL - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+module Main where
+import Foreign.C.String
+
+foreign import ccall "hello_world" hello_world :: IO ()
+
+main :: IO ()
+main = hello_world

@@ -1,3 +1,7 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
+module Main where
+import Foreign.C.String
 
-console.log('Olá, Mundo!');
+foreign import ccall "exercise_hello" exercise_hello :: IO ()
+
+main :: IO ()
+main = exercise_hello

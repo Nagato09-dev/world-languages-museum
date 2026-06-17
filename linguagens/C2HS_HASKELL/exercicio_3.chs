@@ -1,4 +1,10 @@
-// Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
+module Main where
+import Foreign.C.String
 
-let idade = 20;
-console.log(idade >= 18 ? 'Maior de idade' : 'Menor de idade');
+foreign import ccall "exercise_conditional" exercise_conditional :: Int -> IO CString
+
+main :: IO ()
+main = do
+  result <- exercise_conditional 20
+  resultString <- peekCString result
+  putStrLn resultString

@@ -1,6 +1,9 @@
-// Exercício 5: Contagem Regressiva - Faça uma contagem regressiva de 10 até 0, exibindo cada número e 'FOGO!' ao final.
+module Main where
+import Foreign.C.String
 
-for (let i = 10; i >= 0; i--) {
-    console.log(i);
-}
-console.log('FOGO!');
+foreign import ccall "exercise_function" exercise_function :: Int -> IO Int
+
+main :: IO ()
+main = do
+  result <- exercise_function 8
+  putStrLn $ "Result: " ++ show result

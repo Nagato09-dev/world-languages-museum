@@ -1,3 +1,10 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
+module Main where
+import Foreign.C.String
 
-// Solução autêntica para Exercício 7 em js
+foreign import ccall "exercise_error" exercise_error :: Int -> IO CString
+
+main :: IO ()
+main = do
+  result <- exercise_error 1
+  resultString <- peekCString result
+  putStrLn resultString

@@ -1,3 +1,10 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
+module Main where
+import Foreign.C.String
 
-// Solução autêntica para Exercício 6 em js
+foreign import ccall "exercise_list" exercise_list :: IO CString
+
+main :: IO ()
+main = do
+  result <- exercise_list
+  resultString <- peekCString result
+  putStrLn resultString

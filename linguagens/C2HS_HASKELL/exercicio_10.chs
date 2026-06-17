@@ -1,3 +1,10 @@
-// Exercício 10: Classificação de Números - Crie uma lista de 5 números, ordene-os em ordem crescente e exiba.
+module Main where
+import Foreign.C.String
 
-// Solução autêntica para Exercício 10 em js
+foreign import ccall "exercise_sort" exercise_sort :: IO CString
+
+main :: IO ()
+main = do
+  result <- exercise_sort
+  resultString <- peekCString result
+  putStrLn resultString

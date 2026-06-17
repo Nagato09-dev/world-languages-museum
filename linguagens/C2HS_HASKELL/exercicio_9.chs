@@ -1,3 +1,9 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
+module Main where
+import Foreign.C.String
 
-// Solução autêntica para Exercício 9 em js
+foreign import ccall "exercise_math" exercise_math :: Double -> IO Double
+
+main :: IO ()
+main = do
+  result <- exercise_math 64.0
+  putStrLn $ "Result: " ++ show result

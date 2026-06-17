@@ -1,2 +1,3 @@
-// Exemplo 3 para ECL
-// Sintaxe autêntica
+x := 5;
+result := IF(x > 0, 'Positivo', 'Negativo');
+OUTPUT(result);

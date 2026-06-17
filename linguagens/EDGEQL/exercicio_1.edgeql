@@ -1,1 +1,1 @@
-// Exercício 1 para EDGEQL
+SELECT "Nagato09-dev";

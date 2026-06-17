@@ -1,2 +1,1 @@
-// Exemplo 4 para ECLIPSE
-// Sintaxe autêntica
+loop :- for(I, 0, 4) do writeln(I).

@@ -1,1 +1,3 @@
-across 1 |..| 5 as i loop print (i.item) end
+across 0 |..| 4 as i loop
+  print (i.item)
+end

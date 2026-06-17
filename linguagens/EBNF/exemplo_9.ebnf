@@ -1,2 +1,1 @@
-// Exemplo 9 para EBNF
-// Sintaxe autêntica
+sqrt = "sqrt(" , number , ")" ;

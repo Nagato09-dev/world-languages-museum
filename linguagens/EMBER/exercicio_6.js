@@ -1,0 +1,1 @@
+lista.addObject(3)

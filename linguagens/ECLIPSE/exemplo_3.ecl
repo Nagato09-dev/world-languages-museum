@@ -1,2 +1,1 @@
-// Exemplo 3 para ECLIPSE
-// Sintaxe autêntica
+check(X) :- (X > 0 -> writeln('Positivo') ; writeln('Negativo')).

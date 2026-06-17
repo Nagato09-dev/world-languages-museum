@@ -1,1 +1,1 @@
-// Exercício 4 para ECLIPSE
+countdown :- for(I, 10, 1, -1) do writeln(I).

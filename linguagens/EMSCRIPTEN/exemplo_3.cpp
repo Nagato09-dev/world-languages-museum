@@ -1,0 +1,1 @@
+if (x > 0) emscripten_log(EM_LOG_CONSOLE, "Positivo");

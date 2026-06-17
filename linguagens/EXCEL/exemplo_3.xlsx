@@ -1,2 +1,1 @@
-// Exemplo 3 para EXCEL
-// Sintaxe autêntica
+=SE(X1>0; "Positivo"; "Negativo")

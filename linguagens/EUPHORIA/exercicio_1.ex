@@ -1,1 +1,1 @@
-// Exercício 1 para EUPHORIA
+puts(1, "Nagato09-dev\n")

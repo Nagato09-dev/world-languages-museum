@@ -1,2 +1,1 @@
-// Exemplo 8 para ECLIPSE
-// Sintaxe autêntica
+upper(S, U) :- string_upper(S, U).

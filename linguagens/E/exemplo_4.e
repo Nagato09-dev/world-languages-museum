@@ -1,2 +1,4 @@
-// Exemplo 4 para E
-// Sintaxe autêntica
+PROC main()
+  DEF i
+  FOR i := 0 TO 4 DO WriteF('\d\n', i)
+ENDPROC

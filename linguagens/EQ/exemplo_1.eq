@@ -1,2 +1,6 @@
-// Exemplo 1 para EQ
-// Sintaxe autêntica
+class Main : Public
+{
+  void main() {
+    Log.display("Olá Mundo");
+  }
+}

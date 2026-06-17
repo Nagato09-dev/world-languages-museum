@@ -1,1 +1,1 @@
-// Exercício 8 para ECL
+Std.Str.Reverse('ecl');

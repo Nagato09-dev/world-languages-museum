@@ -1,1 +1,1 @@
-// Exercício 4 para EQ
+for(var i=10; i>=1; i--) Log.display(String.for_integer(i));

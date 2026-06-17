@@ -1,2 +1,1 @@
-// Exemplo 9 para ENCORE
-// Sintaxe autêntica
+println("{}", sqrt(16))

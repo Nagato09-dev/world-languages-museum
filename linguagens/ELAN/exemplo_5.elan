@@ -1,2 +1,1 @@
-// Exemplo 5 para ELAN
-// Sintaxe autêntica
+PROC soma(INT a, INT b) INT: a + b ENDPROC;

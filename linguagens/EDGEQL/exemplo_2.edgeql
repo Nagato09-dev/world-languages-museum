@@ -1,2 +1,4 @@
-// Exemplo 2 para EDGEQL
-// Sintaxe autêntica
+SELECT {
+  idade := 25,
+  nome := "EdgeDB"
+};

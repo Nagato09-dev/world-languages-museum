@@ -1,1 +1,1 @@
-// Exercício 8 para ECLIPSE
+reverse_list(L, R) :- reverse(L, R).

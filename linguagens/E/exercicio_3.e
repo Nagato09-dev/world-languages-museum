@@ -1,1 +1,1 @@
-// Exercício 3 para E
+IF (n % 2) = 0 THEN WriteF('Par')

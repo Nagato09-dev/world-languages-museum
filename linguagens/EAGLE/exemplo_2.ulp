@@ -1,0 +1,5 @@
+int idade = 25;
+string nome = "Eagle";
+string msg;
+sprintf(msg, "%s tem %d anos", nome, idade);
+dialogMessage(msg);

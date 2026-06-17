@@ -1,2 +1,2 @@
-// Exemplo 5 para ECL
-// Sintaxe autêntica
+soma(INTEGER a, INTEGER b) := a + b;
+OUTPUT(soma(5, 3));

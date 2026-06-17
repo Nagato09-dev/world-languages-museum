@@ -1,9 +1,9 @@
-class HELLO_WORLD
+class APPLICATION
 create
-    make
+  make
 feature
-    make
-        do
-            print ("Olá Mundo%N")
-        end
+  make
+    do
+      print ("Olá Mundo%N")
+    end
 end

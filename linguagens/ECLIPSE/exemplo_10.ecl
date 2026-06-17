@@ -1,2 +1,1 @@
-// Exemplo 10 para ECLIPSE
-// Sintaxe autêntica
+ordena(L, S) :- sort(L, S).

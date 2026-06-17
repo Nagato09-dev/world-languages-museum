@@ -1,1 +1,1 @@
-// Exercício 4 para E
+FOR i := 10 TO 1 STEP -1 DO WriteF('\d', i)

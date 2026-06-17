@@ -1,1 +1,1 @@
-// Exercício 10 para ECL
+EXISTS(ds(val=2));

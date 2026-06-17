@@ -1,2 +1,1 @@
-// Exemplo 1 para EDGEQL
-// Sintaxe autêntica
+SELECT "Olá Mundo";

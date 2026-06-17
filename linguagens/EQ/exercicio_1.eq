@@ -1,1 +1,1 @@
-// Exercício 1 para EQ
+Log.display("Nagato09-dev");

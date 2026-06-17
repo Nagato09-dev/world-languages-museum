@@ -1,2 +1,3 @@
-// Exemplo 5 para E
-// Sintaxe autêntica
+PROC soma(a, b)
+  RETURN a + b
+ENDPROC

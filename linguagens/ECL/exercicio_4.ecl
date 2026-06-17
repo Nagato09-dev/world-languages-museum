@@ -1,1 +1,1 @@
-// Exercício 4 para ECL
+ds := DATASET(10, {INTEGER val}); // Loop implícito via DATASET

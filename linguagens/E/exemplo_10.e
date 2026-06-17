@@ -1,2 +1,3 @@
-// Exemplo 10 para E
-// Sintaxe autêntica
+PROC main()
+  WriteF('Versão: \d\n', VERSION)
+ENDPROC

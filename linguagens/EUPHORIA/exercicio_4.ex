@@ -1,1 +1,1 @@
-// Exercício 4 para EUPHORIA
+for i = 10 to 1 by -1 do printf(1, "%d", i) end for

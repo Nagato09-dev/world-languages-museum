@@ -1,3 +1,3 @@
-<% try { throw new Error("Erro"); } catch(e) { %>
-  <%= e.message %>
+<% try { throw new Error("Erro EJS"); } catch(e) { %>
+  <p>Erro: <%= e.message %></p>
 <% } %>

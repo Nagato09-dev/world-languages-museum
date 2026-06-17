@@ -1,2 +1,3 @@
-// Exemplo 5 para ENCORE
-// Sintaxe autêntica
+def soma(a : int, b : int) : int
+  a + b
+end

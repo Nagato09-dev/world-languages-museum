@@ -1,2 +1,1 @@
-// Exemplo 8 para ENCORE
-// Sintaxe autêntica
+println("{}", "encore".to_upper())

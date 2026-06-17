@@ -1,1 +1,3 @@
-(condition-case err (error "Erro") (error (message "%s" err)))
+(condition-case err
+    (error "Erro Emacs")
+  (error (message "Erro capturado: %s" err)))

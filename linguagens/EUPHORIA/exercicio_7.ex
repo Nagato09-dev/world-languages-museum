@@ -1,1 +1,1 @@
-// Exercício 7 para EUPHORIA
+if error_code != 0 then end if

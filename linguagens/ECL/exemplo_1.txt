@@ -1,1 +1,0 @@
-OUTPUT('Olá Mundo');

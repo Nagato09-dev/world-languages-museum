@@ -1,1 +1,1 @@
-// Exercício 5 para EUPHORIA
+function mult(atom a, atom b) return a * b end function

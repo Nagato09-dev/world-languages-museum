@@ -1,1 +1,1 @@
-// Exercício 1 para E
+PROC main() WriteF('Nagato09-dev\n') ENDPROC

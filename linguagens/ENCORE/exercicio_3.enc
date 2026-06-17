@@ -1,1 +1,1 @@
-// Exercício 3 para ENCORE
+if n % 2 == 0 then println("Par") end

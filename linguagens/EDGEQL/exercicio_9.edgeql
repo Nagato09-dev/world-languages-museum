@@ -1,1 +1,1 @@
-// Exercício 9 para EDGEQL
+SELECT 3.14 * <float64>r^2;

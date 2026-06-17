@@ -1,1 +1,1 @@
-// Exercício 10 para EDGEQL
+SELECT 2 IN array_unpack([1, 2, 3]);

@@ -1,2 +1,1 @@
-// Exemplo 8 para ECL
-// Sintaxe autêntica
+OUTPUT(Std.Str.ToUpperCase('ecl'));

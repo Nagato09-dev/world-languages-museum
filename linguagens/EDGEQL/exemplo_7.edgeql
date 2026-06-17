@@ -1,2 +1,1 @@
-// Exemplo 7 para EDGEQL
-// Sintaxe autêntica
+// EdgeQL não possui try-catch, erros são tratados no driver.

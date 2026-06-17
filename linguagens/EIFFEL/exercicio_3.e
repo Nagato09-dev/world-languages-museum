@@ -1,1 +1,1 @@
-if n \\ 2 = 0 then
+if n \\ 2 = 0 then print ("Par") end

@@ -1,2 +1,2 @@
-// Exemplo 3 para ELAN
-// Sintaxe autêntica
+INT x := 5;
+IF x > 0 THEN putline("Positivo") ELSE putline("Negativo") FI;

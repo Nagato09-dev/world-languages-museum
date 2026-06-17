@@ -1,2 +1,1 @@
-// Exemplo 7 para EUPHORIA
-// Sintaxe autêntica
+// Euphoria não tem try-catch nativo em versões antigas, usa verificações

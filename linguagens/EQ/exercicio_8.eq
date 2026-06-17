@@ -1,1 +1,1 @@
-// Exercício 8 para EQ
+String.reverse("eq");

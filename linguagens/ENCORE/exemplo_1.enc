@@ -1,2 +1,5 @@
-// Exemplo 1 para ENCORE
-// Sintaxe autêntica
+class Main
+  def main() : unit
+    println("Olá Mundo")
+  end
+end

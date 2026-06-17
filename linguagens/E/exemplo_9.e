@@ -1,2 +1,4 @@
-// Exemplo 9 para E
-// Sintaxe autêntica
+PROC main()
+  DEF r
+  r := Sqrt(16)
+ENDPROC

@@ -1,1 +1,1 @@
-sqrt (16.0)
+{DOUBLE_MATH}.sqrt (16.0)

@@ -1,1 +1,1 @@
-check b /= 0 end
+check x /= Void end

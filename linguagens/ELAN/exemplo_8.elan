@@ -1,2 +1,2 @@
-// Exemplo 8 para ELAN
-// Sintaxe autêntica
+TEXT s := "elan";
+putline(uppercase(s));

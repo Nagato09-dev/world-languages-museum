@@ -1,2 +1,1 @@
-// Exemplo 8 para EQ
-// Sintaxe autêntica
+String.to_upper_case("eq");

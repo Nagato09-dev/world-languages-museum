@@ -1,1 +1,1 @@
-// Exercício 6 para EUPHORIA
+lista &= 3

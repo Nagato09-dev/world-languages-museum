@@ -1,1 +1,1 @@
-// Exercício 2 para E
+DEF f:REAL; f := 3.14

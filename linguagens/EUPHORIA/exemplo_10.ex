@@ -1,2 +1,1 @@
-// Exemplo 10 para EUPHORIA
-// Sintaxe autêntica
+sequence sorted = sort({3, 1, 4})

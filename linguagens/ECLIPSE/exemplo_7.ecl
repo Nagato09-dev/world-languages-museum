@@ -1,2 +1,1 @@
-// Exemplo 7 para ECLIPSE
-// Sintaxe autêntica
+try_catch :- catch(throw(erro), Erro, writeln(Erro)).

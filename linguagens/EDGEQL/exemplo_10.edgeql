@@ -1,2 +1,1 @@
-// Exemplo 10 para EDGEQL
-// Sintaxe autêntica
+SELECT array_sort([3, 1, 4, 1, 5]);

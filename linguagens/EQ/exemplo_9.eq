@@ -1,2 +1,1 @@
-// Exemplo 9 para EQ
-// Sintaxe autêntica
+Math.sqrt(16);

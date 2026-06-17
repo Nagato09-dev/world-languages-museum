@@ -1,1 +1,1 @@
-// Exercício 3 para ELAN
+IF n MOD 2 = 0 THEN putline("Par") FI;

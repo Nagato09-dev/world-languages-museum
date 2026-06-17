@@ -1,2 +1,1 @@
-// Exemplo 9 para EDGEQL
-// Sintaxe autêntica
+SELECT math::sqrt(16);

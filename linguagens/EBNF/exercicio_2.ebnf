@@ -1,1 +1,1 @@
-// Exercício 2 para EBNF
+float = digit , "." , digit , { digit } ;

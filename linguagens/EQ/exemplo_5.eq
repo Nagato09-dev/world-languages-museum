@@ -1,2 +1,3 @@
-// Exemplo 5 para EQ
-// Sintaxe autêntica
+func soma(a as int, b as int) as int {
+  return a + b;
+}

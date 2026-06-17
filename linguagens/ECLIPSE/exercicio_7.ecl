@@ -1,1 +1,1 @@
-// Exercício 7 para ECLIPSE
+catch(Goal, Error, Handler).

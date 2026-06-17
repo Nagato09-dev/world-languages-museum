@@ -1,1 +1,1 @@
-// Exercício 10 para EUPHORIA
+integer found = find(2, lista)

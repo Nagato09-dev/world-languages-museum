@@ -1,2 +1,1 @@
-// Exemplo 6 para ECLIPSE
-// Sintaxe autêntica
+lista([1, 2, 3]).

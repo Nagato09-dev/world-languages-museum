@@ -1,1 +1,1 @@
-// Exercício 3 para EDGEQL
+SELECT 4 % 2 = 0;

@@ -1,2 +1,1 @@
-// Exemplo 10 para EQ
-// Sintaxe autêntica
+System.get_version();

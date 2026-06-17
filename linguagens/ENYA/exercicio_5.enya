@@ -1,1 +1,1 @@
-// Exercício 5 para ENYA
+func mult(a, b) return a * b

@@ -1,1 +1,1 @@
-// Exercício 6 para ECLIPSE
+append(L, [3], L2).

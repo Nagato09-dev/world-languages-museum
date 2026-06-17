@@ -1,1 +1,1 @@
-// Exercício 2 para EDGEQL
+SELECT <float64>3.14;

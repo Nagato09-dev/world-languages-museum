@@ -1,2 +1,1 @@
-// Exemplo 6 para EUPHORIA
-// Sintaxe autêntica
+sequence lista = {1, 2, 3}

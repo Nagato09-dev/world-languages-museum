@@ -1,1 +1,1 @@
-// Exercício 10 para ECLIPSE
+member(2, [1, 2, 3]).

@@ -1,0 +1,1 @@
+lista.includes(2)

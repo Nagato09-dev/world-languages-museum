@@ -1,1 +1,1 @@
-// Exercício 3 para EUPHORIA
+if remainder(n, 2) = 0 then puts(1, "Par") end if

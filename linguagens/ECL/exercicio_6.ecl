@@ -1,1 +1,1 @@
-// Exercício 6 para ECL
+lista + [3];

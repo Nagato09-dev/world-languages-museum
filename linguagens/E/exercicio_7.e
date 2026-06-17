@@ -1,1 +1,1 @@
-// Exercício 7 para E
+HANDLE ... EXCEPT ... ENDPROC

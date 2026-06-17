@@ -1,2 +1,1 @@
-// Exemplo 8 para EDGEQL
-// Sintaxe autêntica
+SELECT str_upper("edgeql");

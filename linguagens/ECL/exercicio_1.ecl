@@ -1,1 +1,1 @@
-// Exercício 1 para ECL
+OUTPUT('Nagato09-dev');

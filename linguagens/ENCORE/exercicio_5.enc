@@ -1,1 +1,1 @@
-// Exercício 5 para ENCORE
+def mult(a : int, b : int) : int a * b end

@@ -1,1 +1,1 @@
-// Exercício 6 para EDGEQL
+SELECT [1, 2] ++ [3];

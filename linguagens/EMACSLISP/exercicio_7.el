@@ -1,1 +1,1 @@
-(ignore-errors (/ 1 0))
+(ignore-errors ...)

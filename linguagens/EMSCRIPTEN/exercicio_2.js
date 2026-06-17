@@ -1,1 +1,0 @@
-// Exercício 2 para EMSCRIPTEN

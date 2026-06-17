@@ -1,1 +1,1 @@
-lista.force (3, 4)
+lista.force (3, lista.count + 1)

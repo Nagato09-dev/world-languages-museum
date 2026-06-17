@@ -1,2 +1,1 @@
-// Exemplo 9 para ECLIPSE
-// Sintaxe autêntica
+raiz(X, R) :- R is sqrt(X).

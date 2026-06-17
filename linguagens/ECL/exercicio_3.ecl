@@ -1,1 +1,2 @@
-// Exercício 3 para ECL
+isEven(INTEGER n) := (n % 2 = 0);
+OUTPUT(isEven(4));

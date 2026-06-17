@@ -1,1 +1,1 @@
-(if (= 0 (% n 2)) "Par" "Ímpar")
+(if (= 0 (% n 2)) (message "Par"))

@@ -1,1 +1,1 @@
-// Exercício 6 para E
+lista[3] := 10

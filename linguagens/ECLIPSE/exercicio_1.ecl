@@ -1,1 +1,1 @@
-// Exercício 1 para ECLIPSE
+:- writeln('Nagato09-dev').

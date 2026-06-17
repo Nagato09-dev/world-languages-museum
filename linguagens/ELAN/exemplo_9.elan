@@ -1,2 +1,1 @@
-// Exemplo 9 para ELAN
-// Sintaxe autêntica
+REAL r := sqrt(16.0);

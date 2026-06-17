@@ -1,2 +1,5 @@
-// Exemplo 3 para EQ
-// Sintaxe autêntica
+if(x > 0) {
+  Log.display("Positivo");
+} else {
+  Log.display("Negativo");
+}

@@ -1,2 +1,3 @@
-// Exemplo 1 para E
-// Sintaxe autêntica
+PROC main()
+  WriteF('Olá Mundo\n')
+ENDPROC

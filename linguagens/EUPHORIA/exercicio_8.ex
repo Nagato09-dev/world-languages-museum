@@ -1,1 +1,1 @@
-// Exercício 8 para EUPHORIA
+sequence rev = reverse(s)

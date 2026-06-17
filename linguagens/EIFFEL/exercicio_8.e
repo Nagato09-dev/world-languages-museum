@@ -1,1 +1,1 @@
-s.mirrored
+s.mirror

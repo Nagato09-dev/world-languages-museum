@@ -1,1 +1,1 @@
-// Exercício 7 para EDGEQL
+SELECT 1 / 0; # Causará erro

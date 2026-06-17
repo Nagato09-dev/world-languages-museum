@@ -1,1 +1,1 @@
-// Exercício 3 para ECLIPSE
+par(N) :- N mod 2 =:= 0.

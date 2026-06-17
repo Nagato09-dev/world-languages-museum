@@ -1,2 +1,3 @@
-// Exemplo 5 para EUPHORIA
-// Sintaxe autêntica
+function soma(integer a, integer b)
+  return a + b
+end function

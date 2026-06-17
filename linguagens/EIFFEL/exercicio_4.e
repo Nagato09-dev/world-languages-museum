@@ -1,1 +1,1 @@
-from i := 10 until i < 1 loop print(i) i := i - 1 end
+from i := 10 until i < 1 loop print (i); i := i - 1 end

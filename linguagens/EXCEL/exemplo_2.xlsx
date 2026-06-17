@@ -1,2 +1,1 @@
-// Exemplo 2 para EXCEL
-// Sintaxe autêntica
+A1: 25, B1: "Excel", C1: =B1 & " tem " & A1 & " anos"

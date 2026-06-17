@@ -1,2 +1,1 @@
-// Exemplo 4 para EDGEQL
-// Sintaxe autêntica
+FOR x IN {0, 1, 2, 3, 4} UNION (SELECT x);

@@ -1,2 +1,1 @@
-// Exemplo 5 para EDGEQL
-// Sintaxe autêntica
+SELECT 5 + 3;

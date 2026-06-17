@@ -1,1 +1,1 @@
-// Exercício 3 para EQ
+if(n % 2 == 0) Log.display("Par");

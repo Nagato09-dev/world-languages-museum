@@ -1,1 +1,2 @@
-// Exercício 3 para EBNF
+even = digit_even ;
+digit_even = "0" | "2" | "4" | "6" | "8" ;

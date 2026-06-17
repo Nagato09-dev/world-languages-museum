@@ -1,2 +1,2 @@
-// Exemplo 7 para EBNF
-// Sintaxe autêntica
+error = "ERROR" , ":" , message ;
+message = { character } ;

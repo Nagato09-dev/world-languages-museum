@@ -1,2 +1,2 @@
-// Exemplo 6 para ECL
-// Sintaxe autêntica
+lista := [1, 2, 3];
+OUTPUT(lista);

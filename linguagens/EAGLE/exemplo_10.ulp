@@ -1,0 +1,5 @@
+if (board) board(B) {
+  B.elements(E) {
+    status(E.name);
+  }
+}

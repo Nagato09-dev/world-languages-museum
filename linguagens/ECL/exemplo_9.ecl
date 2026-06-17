@@ -1,2 +1,1 @@
-// Exemplo 9 para ECL
-// Sintaxe autêntica
+OUTPUT(SQRT(16));

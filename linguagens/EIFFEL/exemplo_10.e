@@ -1,1 +1,1 @@
-list.sort
+lista.sort

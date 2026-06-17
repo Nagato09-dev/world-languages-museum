@@ -1,1 +1,1 @@
-// Exercício 8 para ELAN
+TEXT rev := reverse(s);

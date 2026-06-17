@@ -1,1 +1,1 @@
-// Exercício 7 para EBNF
+try_catch = "try" , block , "catch" , block ;

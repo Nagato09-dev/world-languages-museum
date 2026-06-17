@@ -1,2 +1,1 @@
-// Exemplo 5 para ECLIPSE
-// Sintaxe autêntica
+soma(A, B, C) :- C is A + B.

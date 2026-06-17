@@ -1,1 +1,1 @@
-// Exercício 10 para E
+FOR i := 0 TO 2 DO IF lista[i] = 2 THEN WriteF('Achou')

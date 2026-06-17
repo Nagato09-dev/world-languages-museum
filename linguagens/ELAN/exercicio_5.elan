@@ -1,1 +1,1 @@
-// Exercício 5 para ELAN
+PROC mult(INT a, b) INT: a * b ENDPROC;

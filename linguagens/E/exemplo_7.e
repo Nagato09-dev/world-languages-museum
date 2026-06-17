@@ -1,2 +1,6 @@
-// Exemplo 7 para E
-// Sintaxe autêntica
+// Amiga E usa verificação de erro via exceções básicas
+PROC main() HANDLE
+  Throw("ERRO", 1)
+EXCEPT
+  WriteF('Erro capturado\n')
+ENDPROC

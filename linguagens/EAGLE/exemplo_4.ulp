@@ -1,0 +1,6 @@
+int i;
+for (i = 0; i < 5; i++) {
+  string s;
+  sprintf(s, "Item %d", i);
+  status(s);
+}

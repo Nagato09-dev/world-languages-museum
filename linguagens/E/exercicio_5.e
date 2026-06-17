@@ -1,1 +1,1 @@
-// Exercício 5 para E
+PROC mult(a, b) RETURN a * b ENDPROC

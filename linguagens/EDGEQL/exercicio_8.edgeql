@@ -1,1 +1,1 @@
-// Exercício 8 para EDGEQL
+SELECT str_reverse("edgeql");

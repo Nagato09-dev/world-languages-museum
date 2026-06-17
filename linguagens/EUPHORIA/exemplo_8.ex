@@ -1,2 +1,1 @@
-// Exemplo 8 para EUPHORIA
-// Sintaxe autêntica
+sequence s = upper("euphoria")

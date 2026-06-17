@@ -1,2 +1,1 @@
-// Exemplo 3 para EDGEQL
-// Sintaxe autêntica
+SELECT "Positivo" IF 5 > 0 ELSE "Negativo";

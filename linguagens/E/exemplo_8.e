@@ -1,2 +1,5 @@
-// Exemplo 8 para E
-// Sintaxe autêntica
+PROC main()
+  DEF s:STRING
+  s := 'amiga e'
+  UpperStr(s)
+ENDPROC

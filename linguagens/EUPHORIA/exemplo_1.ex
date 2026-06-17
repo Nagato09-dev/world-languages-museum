@@ -1,2 +1,1 @@
-// Exemplo 1 para EUPHORIA
-// Sintaxe autêntica
+puts(1, "Olá Mundo\n")

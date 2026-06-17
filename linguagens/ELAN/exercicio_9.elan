@@ -1,1 +1,1 @@
-// Exercício 9 para ELAN
+REAL area := 3.14 * r * r;

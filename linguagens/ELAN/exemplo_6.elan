@@ -1,2 +1,1 @@
-// Exemplo 6 para ELAN
-// Sintaxe autêntica
+ROW 3 INT lista := (1, 2, 3);

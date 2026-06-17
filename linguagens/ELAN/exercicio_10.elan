@@ -1,1 +1,1 @@
-// Exercício 10 para ELAN
+BOOL found := FALSE; FOR i FROM 1 UPTO 3 DO IF lista[i] = 2 THEN found := TRUE FI OD;

@@ -1,1 +1,1 @@
-// Exercício 10 para EQ
+lista.contains(2);

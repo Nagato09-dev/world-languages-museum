@@ -1,1 +1,1 @@
-// Exercício 4 para ELAN
+FOR i FROM 10 DOWNTO 1 DO putline(text(i)) OD;

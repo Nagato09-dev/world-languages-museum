@@ -1,1 +1,1 @@
-// Exercício 5 para ECL
+mult(INTEGER a, INTEGER b) := a * b;

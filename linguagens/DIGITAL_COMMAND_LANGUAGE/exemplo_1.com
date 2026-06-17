@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Olá Mundo - O básico de qualquer linguagem.
-@echo off
-    echo Olá Mundo - O básico de qualquer linguagem.
+// Exemplo 1 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

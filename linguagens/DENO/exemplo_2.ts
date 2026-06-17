@@ -1,1 +1,2 @@
-// Exemplo 2 em DENO
+const nome: string = "Deno";
+console.log(`Olá ${nome}`);

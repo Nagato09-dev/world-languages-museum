@@ -1,5 +1,5 @@
-// D - Manipulação de Strings - Trabalhando com textos.
-int main() {
-    printf("Manipulação de Strings - Trabalhando com textos.\n");
-    return 0;
+import std.stdio, std.string;
+void main() {
+    string s = "D Language";
+    writeln(s.toUpper());
 }

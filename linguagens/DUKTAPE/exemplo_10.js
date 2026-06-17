@@ -1,2 +1,2 @@
-# DUKTAPE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para DUKTAPE
+// Sintaxe autêntica sendo preparada

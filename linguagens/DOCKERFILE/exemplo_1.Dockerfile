@@ -1,2 +1,2 @@
-# DOCKERFILE - Olá Mundo - O básico de qualquer linguagem.
-echo "Olá Mundo - O básico de qualquer linguagem."
+FROM alpine
+CMD ["echo", "Olá Mundo"]

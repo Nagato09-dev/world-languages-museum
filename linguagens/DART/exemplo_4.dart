@@ -1,2 +1,5 @@
-// DART - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+void main() {
+  for (int i = 0; i < 5; i++) {
+    print("Contagem: $i");
+  }
+}

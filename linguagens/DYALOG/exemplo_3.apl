@@ -1,2 +1,2 @@
-# DYALOG - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+// Exemplo 3 para DYALOG
+// Sintaxe autêntica sendo preparada

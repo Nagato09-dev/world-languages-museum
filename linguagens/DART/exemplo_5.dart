@@ -1,2 +1,4 @@
-// DART - Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+int soma(int a, int b) => a + b;
+void main() {
+  print("Soma: ${soma(10, 5)}");
+}

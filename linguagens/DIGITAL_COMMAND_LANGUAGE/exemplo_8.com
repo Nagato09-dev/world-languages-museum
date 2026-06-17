@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Manipulação de Strings - Trabalhando com textos.
-@echo off
-    echo Manipulação de Strings - Trabalhando com textos.
+// Exemplo 8 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

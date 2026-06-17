@@ -1,2 +1,3 @@
-# DOCKERFILE - Funções - Criando blocos de código reutilizáveis.
-echo "Funções - Criando blocos de código reutilizáveis."
+FROM alpine
+COPY script.sh /usr/local/bin/
+RUN chmod +x /usr/local/bin/script.sh

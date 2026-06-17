@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Funções - Criando blocos de código reutilizáveis.
-@echo off
-    echo Funções - Criando blocos de código reutilizáveis.
+// Exemplo 5 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

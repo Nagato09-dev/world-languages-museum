@@ -1,2 +1,2 @@
-# DOCKERFILE - Tratamento de Erros - Lidando com exceções e falhas.
-echo "Tratamento de Erros - Lidando com exceções e falhas."
+FROM alpine
+HEALTHCHECK --interval=5m --timeout=3s CMD curl -f http://localhost/ || exit 1

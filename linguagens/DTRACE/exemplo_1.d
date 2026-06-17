@@ -1,2 +1,2 @@
-# DTRACE - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para DTRACE
+// Sintaxe autêntica sendo preparada

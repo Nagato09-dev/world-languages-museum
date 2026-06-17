@@ -1,2 +1,4 @@
-// DART - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+import "dart:math";
+void main() {
+  print(sqrt(25));
+}

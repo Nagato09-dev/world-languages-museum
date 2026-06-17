@@ -1,2 +1,7 @@
-// DART - Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+void main() {
+  try {
+    int res = 12 ~/ 0;
+  } catch (e) {
+    print("Erro: $e");
+  }
+}

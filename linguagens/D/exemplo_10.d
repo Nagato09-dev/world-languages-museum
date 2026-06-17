@@ -1,5 +1,6 @@
-// D - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-int main() {
-    printf("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).\n");
-    return 0;
+import std.stdio, std.algorithm;
+void main() {
+    auto list = [3, 1, 4, 1, 5];
+    list.sort();
+    writeln(list);
 }

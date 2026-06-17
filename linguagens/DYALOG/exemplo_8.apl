@@ -1,2 +1,2 @@
-# DYALOG - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para DYALOG
+// Sintaxe autêntica sendo preparada

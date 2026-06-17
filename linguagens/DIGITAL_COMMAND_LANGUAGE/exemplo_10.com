@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-@echo off
-    echo Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
+// Exemplo 10 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

@@ -1,5 +1,4 @@
-// D - Matemática - Operações aritméticas básicas.
-int main() {
-    printf("Matemática - Operações aritméticas básicas.\n");
-    return 0;
+import std.stdio, std.math;
+void main() {
+    writeln(sqrt(16.0));
 }

@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Tratamento de Erros - Lidando com exceções e falhas.
-@echo off
-    echo Tratamento de Erros - Lidando com exceções e falhas.
+// Exemplo 7 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

@@ -1,2 +1,3 @@
-# DOCKERFILE - Variáveis e Tipos - Como armazenar dados.
-echo "Variáveis e Tipos - Como armazenar dados."
+FROM ubuntu
+ENV APP_NAME="MeuApp"
+RUN echo $APP_NAME

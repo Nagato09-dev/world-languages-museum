@@ -1,2 +1,2 @@
-# DTRACE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para DTRACE
+// Sintaxe autêntica sendo preparada

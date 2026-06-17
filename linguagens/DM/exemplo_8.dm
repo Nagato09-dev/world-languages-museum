@@ -1,2 +1,2 @@
-# DM - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para DM
+// Sintaxe autêntica sendo preparada

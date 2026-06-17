@@ -1,1 +1,1 @@
-// Solução do exercício 7 em DENO
+// Exercício 7 para DENO

@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Controle de Fluxo - Estruturas condicionais (se/então).
-@echo off
-    echo Controle de Fluxo - Estruturas condicionais (se/então).
+// Exemplo 3 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

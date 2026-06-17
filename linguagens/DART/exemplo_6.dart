@@ -1,2 +1,5 @@
-// DART - Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+void main() {
+  var lista = ["Maçã", "Banana", "Uva"];
+  lista.add("Laranja");
+  print(lista);
+}

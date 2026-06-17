@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Estruturas de Dados - Listas, Vetores ou Mapas.
-@echo off
-    echo Estruturas de Dados - Listas, Vetores ou Mapas.
+// Exemplo 6 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

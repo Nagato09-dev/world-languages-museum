@@ -1,5 +1,6 @@
-// D - Controle de Fluxo - Estruturas condicionais (se/então).
-int main() {
-    printf("Controle de Fluxo - Estruturas condicionais (se/então).\n");
-    return 0;
+import std.stdio;
+void main() {
+    int x = 5;
+    if (x > 0) writeln("Positivo");
+    else writeln("Negativo");
 }

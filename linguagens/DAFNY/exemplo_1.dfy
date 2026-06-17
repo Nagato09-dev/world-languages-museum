@@ -1,2 +1,2 @@
-# DAFNY - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para DAFNY
+// Sintaxe autêntica sendo preparada

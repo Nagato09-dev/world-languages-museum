@@ -1,2 +1,2 @@
-# DYLAN - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+// Exemplo 2 para DYLAN
+// Sintaxe autêntica sendo preparada

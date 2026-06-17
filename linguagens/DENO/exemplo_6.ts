@@ -1,1 +1,2 @@
-// Exemplo 6 em DENO
+// Exemplo 6 para DENO
+// Sintaxe autêntica sendo preparada

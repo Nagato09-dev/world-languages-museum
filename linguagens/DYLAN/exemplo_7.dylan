@@ -1,2 +1,2 @@
-# DYLAN - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+// Exemplo 7 para DYLAN
+// Sintaxe autêntica sendo preparada

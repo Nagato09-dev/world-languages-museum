@@ -1,2 +1,3 @@
-# DOCKERFILE - Estruturas de Dados - Listas, Vetores ou Mapas.
-echo "Estruturas de Dados - Listas, Vetores ou Mapas."
+FROM alpine
+WORKDIR /app
+COPY . .

@@ -1,2 +1,2 @@
-# DHALL - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para DHALL
+// Sintaxe autêntica sendo preparada

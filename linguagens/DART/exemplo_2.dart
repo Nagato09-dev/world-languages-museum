@@ -1,2 +1,6 @@
-// DART - Variáveis e Tipos - Como armazenar dados.
-console.log("Variáveis e Tipos - Como armazenar dados.");
+void main() {
+  int idade = 25;
+  double altura = 1.75;
+  String nome = "Dart";
+  print("$nome tem $idade anos e $altura de altura");
+}

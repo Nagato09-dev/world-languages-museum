@@ -1,5 +1,5 @@
-// D - Funções - Criando blocos de código reutilizáveis.
-int main() {
-    printf("Funções - Criando blocos de código reutilizáveis.\n");
-    return 0;
+import std.stdio;
+int soma(int a, int b) { return a + b; }
+void main() {
+    writeln("Soma: ", soma(5, 3));
 }

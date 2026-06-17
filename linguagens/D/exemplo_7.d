@@ -1,5 +1,8 @@
-// D - Tratamento de Erros - Lidando com exceções e falhas.
-int main() {
-    printf("Tratamento de Erros - Lidando com exceções e falhas.\n");
-    return 0;
+import std.stdio;
+void main() {
+    try {
+        throw new Exception("Erro");
+    } catch (Exception e) {
+        writeln(e.msg);
+    }
 }

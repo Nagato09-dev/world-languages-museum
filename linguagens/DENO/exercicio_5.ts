@@ -1,1 +1,1 @@
-// Solução do exercício 5 em DENO
+// Exercício 5 para DENO

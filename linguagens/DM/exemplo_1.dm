@@ -1,2 +1,2 @@
-# DM - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para DM
+// Sintaxe autêntica sendo preparada

@@ -1,2 +1,2 @@
-# DTRACE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para DTRACE
+// Sintaxe autêntica sendo preparada

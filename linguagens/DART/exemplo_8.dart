@@ -1,2 +1,4 @@
-// DART - Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+void main() {
+  String texto = "Dart is cool";
+  print(texto.toUpperCase());
+}

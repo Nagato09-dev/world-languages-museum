@@ -1,1 +1,1 @@
-// Exemplo 1 em DENO
+console.log("Olá Mundo via Deno");

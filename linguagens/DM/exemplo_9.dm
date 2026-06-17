@@ -1,2 +1,2 @@
-# DM - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para DM
+// Sintaxe autêntica sendo preparada

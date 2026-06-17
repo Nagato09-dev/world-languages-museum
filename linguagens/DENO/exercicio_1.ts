@@ -1,1 +1,1 @@
-console.log("Olá, Mundo!");
+// Exercício 1 para DENO

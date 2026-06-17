@@ -1,2 +1,2 @@
-# DAFNY - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+// Exemplo 8 para DAFNY
+// Sintaxe autêntica sendo preparada

@@ -1,3 +1,4 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+// Crie um programa que imprima seu nome
+void main() {
+    import std.stdio; writeln("Seu Nome");
+}

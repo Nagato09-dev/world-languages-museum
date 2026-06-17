@@ -1,2 +1,2 @@
-# DAFNY - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para DAFNY
+// Sintaxe autêntica sendo preparada

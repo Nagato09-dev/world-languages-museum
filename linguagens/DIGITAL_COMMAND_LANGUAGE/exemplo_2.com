@@ -1,3 +1,2 @@
-REM DIGITAL_COMMAND_LANGUAGE - Variáveis e Tipos - Como armazenar dados.
-@echo off
-    echo Variáveis e Tipos - Como armazenar dados.
+// Exemplo 2 para DIGITAL_COMMAND_LANGUAGE
+// Sintaxe autêntica sendo preparada

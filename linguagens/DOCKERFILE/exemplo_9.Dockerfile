@@ -1,2 +1,2 @@
-# DOCKERFILE - Matemática - Operações aritméticas básicas.
-echo "Matemática - Operações aritméticas básicas."
+FROM alpine
+EXPOSE 8080

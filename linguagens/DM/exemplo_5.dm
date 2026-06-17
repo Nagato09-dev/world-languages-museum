@@ -1,2 +1,2 @@
-# DM - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+// Exemplo 5 para DM
+// Sintaxe autêntica sendo preparada

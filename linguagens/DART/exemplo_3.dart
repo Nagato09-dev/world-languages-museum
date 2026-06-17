@@ -1,2 +1,5 @@
-// DART - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+void main() {
+  var hora = 12;
+  if (hora < 12) print("Bom dia");
+  else print("Boa tarde");
+}

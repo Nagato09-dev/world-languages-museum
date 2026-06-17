@@ -1,2 +1,2 @@
-# DYALOG - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+// Exemplo 6 para DYALOG
+// Sintaxe autêntica sendo preparada

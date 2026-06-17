@@ -25,3 +25,7 @@ Os exemplos cobrem os seguintes tópicos, adaptados para o contexto de uma lingu
 
 Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de Zap.
 Cada arquivo contém comentários explicativos em português e demonstra a sintaxe concisa da linguagem.
+
+## Nota de Auditoria
+
+Este README e os exemplos/exercícios desta linguagem estão atualmente sob auditoria para garantir a autenticidade e correção da sintaxe. Correções estão sendo aplicadas progressivamente.

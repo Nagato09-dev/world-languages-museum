@@ -49,3 +49,14 @@ Este projeto é uma celebração da diversidade e da evolução das linguagens d
 500 READMEs: Documentação individual com história e curiosidades.
 Interface Visual: Arquivo index.html pronto para o GitHub Pages.
 README Principal: Atualizado com o link do projeto e estatísticas.
+
+## ⚠️ Nota Importante: Auditoria em Andamento ⚠️
+
+Este repositório está atualmente passando por uma auditoria rigorosa para garantir a autenticidade e correção da sintaxe de *todas* as linguagens de programação. Identificamos que muitas linguagens continham código genérico, placeholders ou sintaxe incorreta. Estamos trabalhando para substituir todo o conteúdo inadequado por exemplos **reais e autênticos** de cada linguagem.
+
+**O que isso significa para você:**
+*   O conteúdo está sendo revisado e corrigido progressivamente, letra por letra.
+*   Pode haver inconsistências temporárias em algumas linguagens até que a auditoria seja concluída.
+*   A qualidade e a autenticidade são nossa prioridade máxima.
+
+Agradecemos a sua paciência e compreensão enquanto melhoramos a qualidade deste museu digital.

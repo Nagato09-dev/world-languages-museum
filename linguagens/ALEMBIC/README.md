@@ -24,3 +24,4 @@ Os exemplos cobrem os seguintes tópicos, adaptados para o contexto de migraçõ
 ## Como Usar
 
 Navegue pelos exemplos em ordem para aprender os conceitos fundamentais de Alembic. Cada arquivo contém comentários explicativos em português e utiliza sintaxe Python para as operações de migração.
+\n## Nota de Auditoria\n\nEste README e os exemplos/exercícios desta linguagem estão atualmente sob auditoria para garantir a autenticidade e correção da sintaxe. Correções estão sendo aplicadas progressivamente.\n

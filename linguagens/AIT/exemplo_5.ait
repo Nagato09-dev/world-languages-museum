@@ -1,2 +1,1 @@
-# AIT - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+[ dup * ] define square

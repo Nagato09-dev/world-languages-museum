@@ -1,2 +1,1 @@
-# ALEMBIC - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+let s = "Olá" + " Mundo"

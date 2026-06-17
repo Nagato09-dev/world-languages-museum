@@ -1,5 +1,1 @@
-// ALGOL - Controle de Fluxo - Estruturas condicionais (se/então).
-program Main;
-begin
-    writeln('Controle de Fluxo - Estruturas condicionais (se/então).');
-end.
+IF x > 5 THEN DISPLAY("Maior") ELSE DISPLAY("Menor");

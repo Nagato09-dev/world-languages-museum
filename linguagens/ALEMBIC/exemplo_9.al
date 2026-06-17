@@ -1,2 +1,1 @@
-# ALEMBIC - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+let r = Math.sqrt(16)

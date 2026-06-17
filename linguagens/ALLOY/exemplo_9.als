@@ -1,2 +1,1 @@
-# ALLOY - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+fun add[a, b: Int]: Int { plus[a, b] }

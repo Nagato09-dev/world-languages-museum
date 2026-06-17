@@ -1,2 +1,1 @@
-# ALLOY - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+-- Alloy foca em relações, não strings

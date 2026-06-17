@@ -1,5 +1,1 @@
-// ALGOL - Tratamento de Erros - Lidando com exceções e falhas.
-program Main;
-begin
-    writeln('Tratamento de Erros - Lidando com exceções e falhas.');
-end.
+COMMENT Tratamento de erros em Algol 60 era limitado;

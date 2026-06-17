@@ -1,2 +1,1 @@
-# ALDOR - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try { x := 1/0 } catch { stdout << "Erro" }

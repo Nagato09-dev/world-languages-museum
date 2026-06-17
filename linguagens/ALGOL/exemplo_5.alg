@@ -1,5 +1,1 @@
-// ALGOL - Funções - Criando blocos de código reutilizáveis.
-program Main;
-begin
-    writeln('Funções - Criando blocos de código reutilizáveis.');
-end.
+INTEGER PROCEDURE square(n); INTEGER n; square := n * n;

@@ -1,5 +1,1 @@
-// ALGOL - Matemática - Operações aritméticas básicas.
-program Main;
-begin
-    writeln('Matemática - Operações aritméticas básicas.');
-end.
+x := SQRT(16);

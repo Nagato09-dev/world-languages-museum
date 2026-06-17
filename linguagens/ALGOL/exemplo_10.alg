@@ -1,5 +1,1 @@
-// ALGOL - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-program Main;
-begin
-    writeln('Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).');
-end.
+OWN INTEGER i; COMMENT Variável estática;

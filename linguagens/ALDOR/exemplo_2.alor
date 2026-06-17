@@ -1,2 +1,1 @@
-# ALDOR - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+local x: Integer := 10

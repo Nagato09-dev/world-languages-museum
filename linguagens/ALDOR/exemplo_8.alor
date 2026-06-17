@@ -1,2 +1,1 @@
-# ALDOR - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+local s: String := "Olá" + " Mundo"

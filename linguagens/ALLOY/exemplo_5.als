@@ -1,2 +1,1 @@
-# ALLOY - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fun square[n: Int]: Int { mul[n, n] }

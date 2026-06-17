@@ -1,2 +1,1 @@
-# ALDOR - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+local r: SingleFloat := sqrt(16.0)

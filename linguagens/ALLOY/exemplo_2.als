@@ -1,2 +1,1 @@
-# ALLOY - Variáveis e Tipos - Como armazenar dados.
-print("Variáveis e Tipos - Como armazenar dados.")
+sig Node { value: one Int }

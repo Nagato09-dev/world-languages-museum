@@ -1,5 +1,1 @@
-// ALGOL - Variáveis e Tipos - Como armazenar dados.
-program Main;
-begin
-    writeln('Variáveis e Tipos - Como armazenar dados.');
-end.
+INTEGER x; x := 10;

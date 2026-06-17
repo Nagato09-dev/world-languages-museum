@@ -1,2 +1,1 @@
-# ALLOY - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+pred isGreater[n: Node] { n.value > 5 }

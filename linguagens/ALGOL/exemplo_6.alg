@@ -1,5 +1,1 @@
-// ALGOL - Estruturas de Dados - Listas, Vetores ou Mapas.
-program Main;
-begin
-    writeln('Estruturas de Dados - Listas, Vetores ou Mapas.');
-end.
+INTEGER ARRAY a(1:10);

@@ -1,2 +1,1 @@
-# ALICE - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+signature S = sig val x : int end;

@@ -1,2 +1,2 @@
-# ALLOY - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+-- Alloy não tem loops, usa quantificadores
+fact { all n: Node | n.value > 0 }

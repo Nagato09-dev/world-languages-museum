@@ -1,2 +1,2 @@
-# ALLOY - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+-- Alloy usa asserções para erros
+assert NoDivisionByZero { all n: Int | n != 0 }

@@ -1,5 +1,1 @@
-// ALGOL - Loops - Repetindo tarefas com para/enquanto.
-program Main;
-begin
-    writeln('Loops - Repetindo tarefas com para/enquanto.');
-end.
+FOR i := 1 STEP 1 UNTIL 10 DO DISPLAY(i);

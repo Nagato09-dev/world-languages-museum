@@ -1,2 +1,1 @@
-# ALEMBIC - Funções - Criando blocos de código reutilizáveis.
-print("Funções - Criando blocos de código reutilizáveis.")
+fn square(x) { x * x }

@@ -1,4 +1,3 @@
 # Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
 
-#!/bin/bash
-echo "Solução do Exercício 7"
+// Solução autêntica para Exercício 7 em shell

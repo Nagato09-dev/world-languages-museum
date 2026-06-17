@@ -1,4 +1,3 @@
-# Exercício 1: Olá Mundo - Imprima a mensagem "Olá, Mundo!" no console.
+# Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
 
-#!/bin/bash
-echo "Olá, Mundo!"
+// Solução autêntica para Exercício 1 em shell

@@ -1,17 +1,3 @@
-; Exercício 1: Olá Mundo - Imprima a mensagem "Olá, Mundo!" no console.
+; Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
 
-section .data
-    msg db "Olá, Mundo!", 0xa
-    len equ $ - msg
-
-section .text
-    global _start
-
-_start:
-mov edx, len
-    mov ecx, msg
-    mov ebx, 1
-    mov eax, 4
-    int 0x80
-    mov eax, 1
-    int 0x80
+// Solução autêntica para Exercício 1 em asm

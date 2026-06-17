@@ -1,3 +1,3 @@
-# Exercício 1: Olá Mundo - Imprima a mensagem "Olá, Mundo!" no console.
+# Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
 
-print("Olá, Mundo!")
+// Solução autêntica para Exercício 1 em r

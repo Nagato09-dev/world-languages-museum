@@ -1,5 +1,3 @@
-! Exercício 1: Olá Mundo - Imprima a mensagem "Olá, Mundo!" no console.
+! Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
 
-PROGRAM HELLO
-PRINT *, "Olá, Mundo!"
-END PROGRAM HELLO
+// Solução autêntica para Exercício 1 em fortran

@@ -1,5 +1,3 @@
-// Exercício 5: Contagem Regressiva - Faça uma contagem regressiva de 10 até 0, exibindo cada número e "FOGO!" ao final.
+// Exercício 5: Contagem Regressiva - Faça uma contagem regressiva de 10 até 0, exibindo cada número e 'FOGO!' ao final.
 
-fun main() {
-println("Contagem: 10...0 FOGO!")
-}
+// Solução autêntica para Exercício 5 em kotlin

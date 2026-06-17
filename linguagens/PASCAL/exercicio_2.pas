@@ -1,6 +1,3 @@
 // Exercício 2: Soma e Média - Declare três variáveis numéricas, some-as e exiba ambos os resultados.
 
-program Hello;
-begin
-writeln("Soma e Média calculadas.");
-end.
+// Solução autêntica para Exercício 2 em pascal

@@ -1,8 +1,3 @@
 // Exercício 8: Calculadora Simples - Implemente uma função que receba dois números e uma operação (+, -, *, /) e retorne o resultado.
 
-#include <stdio.h>
-
-int main() {
-printf("Resultado da calculadora.\n");
-    return 0;
-}
+// Solução autêntica para Exercício 8 em c

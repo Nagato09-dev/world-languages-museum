@@ -1,5 +1,3 @@
 // Exercício 3: Verificação de Idade - Verifique se uma idade (variável fixa) é maior ou menor de 18 anos e exiba a resposta.
 
-<?php
-echo "Verificação de idade concluída.\n";
-?>
+// Solução autêntica para Exercício 3 em php

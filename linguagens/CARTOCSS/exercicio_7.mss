@@ -1,3 +1,6 @@
-// Exercício 7: Busca em Texto - Verifique se uma palavra está presente em uma frase e exiba a resposta.
-
-// Solução autêntica para Exercício 7 em js
+#exercicio_layer {
+  // Em CartoCSS, o tratamento de erros é mais sobre sintaxe válida.
+  // Certifique-se de que todas as propriedades e valores são válidos.
+  line-color: #000;
+  line-width: 1.5;
+}

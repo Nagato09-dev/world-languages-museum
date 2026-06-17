@@ -1,6 +1,4 @@
-// Exercício 5: Contagem Regressiva - Faça uma contagem regressiva de 10 até 0, exibindo cada número e 'FOGO!' ao final.
-
-for (let i = 10; i >= 0; i--) {
-    console.log(i);
+#exercicio_layer {
+  polygon-fill: rgba(255, 0, 0, 0.5);
+  line-color: rgb(0, 0, 255);
 }
-console.log('FOGO!');

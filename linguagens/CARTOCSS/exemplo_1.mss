@@ -1,4 +1,5 @@
-/* CARTOCSS - Olá Mundo - O básico de qualquer linguagem. */
-.example {
-    content: 'Olá Mundo - O básico de qualquer linguagem.';
+#layer {
+  polygon-fill: #FFF;
+  line-color: #AAA;
+  line-width: 0.5;
 }

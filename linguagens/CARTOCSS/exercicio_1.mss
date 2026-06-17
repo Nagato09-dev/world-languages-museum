@@ -1,3 +1,5 @@
-// Exercício 1: Olá Mundo - Imprima a mensagem 'Olá, Mundo!' no console.
-
-console.log('Olá, Mundo!');
+#exercicio_layer {
+  polygon-fill: #EEE;
+  line-color: #CCC;
+  line-width: 1;
+}

@@ -1,3 +1,8 @@
-// Exercício 6: Inversão de Palavra - Pegue uma string fixa e exiba-a invertida.
-
-// Solução autêntica para Exercício 6 em js
+#exercicio_layer {
+  [status='active'], [status='pending'] {
+    marker-fill: #00FF00;
+  }
+  [status='inactive'] {
+    marker-fill: #FF0000;
+  }
+}

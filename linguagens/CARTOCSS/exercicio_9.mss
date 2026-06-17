@@ -1,3 +1,4 @@
-// Exercício 9: Geração de Senha - Gere uma senha aleatória de 8 caracteres (letras e números).
-
-// Solução autêntica para Exercício 9 em js
+#exercicio_layer {
+  line-width: 1 + ([scale_factor] * 0.2);
+  polygon-opacity: 0.8 - ([density] / 1000);
+}

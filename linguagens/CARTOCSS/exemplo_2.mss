@@ -1,4 +1,8 @@
-/* CARTOCSS - Variáveis e Tipos - Como armazenar dados. */
-.example {
-    content: 'Variáveis e Tipos - Como armazenar dados.';
+#layer {
+  [value > 10] {
+    polygon-fill: #F00; // Vermelho
+  }
+  [value <= 10] {
+    polygon-fill: #00F; // Azul
+  }
 }

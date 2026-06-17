@@ -1,1 +1,1 @@
-%token ID INT
+// Sintaxe para vars em BISON

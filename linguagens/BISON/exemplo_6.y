@@ -1,1 +1,1 @@
-array: '[' elements ']';
+// Sintaxe para list em BISON

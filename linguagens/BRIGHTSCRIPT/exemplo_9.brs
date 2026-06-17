@@ -1,1 +1,1 @@
-res = sqr(16)
+// Sintaxe para math em BRIGHTSCRIPT

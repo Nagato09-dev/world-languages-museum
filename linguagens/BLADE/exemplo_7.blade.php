@@ -1,5 +1,1 @@
-try {
-  1 / 0
-} catch e {
-  echo e.message
-}
+// Sintaxe para error em BLADE

@@ -1,1 +1,1 @@
-full = "Olá " + "Mundo"
+// Sintaxe para string em BRIGHTSCRIPT

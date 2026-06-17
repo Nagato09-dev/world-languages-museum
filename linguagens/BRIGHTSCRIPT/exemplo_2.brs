@@ -1,2 +1,2 @@
-x = 10
-s = "Olá"
+x = 42
+s = "BrightScript"

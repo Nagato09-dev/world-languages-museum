@@ -1,1 +1,3 @@
-obj = { id: 1 }
+sub Main()
+    print "Olá, Mundo!"
+end sub

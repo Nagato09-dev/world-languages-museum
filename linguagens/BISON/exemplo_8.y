@@ -1,1 +1,1 @@
-STRING: '"' chars '"';
+// Sintaxe para string em BISON

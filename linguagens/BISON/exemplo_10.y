@@ -1,1 +1,1 @@
-%start program
+// Sintaxe para sort em BISON

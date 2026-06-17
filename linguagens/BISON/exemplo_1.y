@@ -1,5 +1,9 @@
 %{
 #include <stdio.h>
+int yylex();
+void yyerror(const char *s);
 %}
+%token HELLO
 %%
-start: 'a' { printf("Olá Mundo\n"); };
+start: HELLO { printf("Olá, Mundo!\n"); };
+%%

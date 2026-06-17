@@ -1,1 +1,3 @@
-while x > 0 : x = x - 1 : end while
+sub Main()
+    print "Olá, Mundo!"
+end sub

@@ -1,1 +1,1 @@
-screen = CreateObject("roSGScreen")
+// Sintaxe para sort em BRIGHTSCRIPT

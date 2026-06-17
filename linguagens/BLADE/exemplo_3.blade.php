@@ -1,3 +1,5 @@
-if x > 5 {
-  echo "Maior"
-}
+@if($x > 10)
+    Maior
+@else
+    Menor
+@endif

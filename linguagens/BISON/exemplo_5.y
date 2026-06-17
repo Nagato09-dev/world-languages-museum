@@ -1,1 +1,1 @@
-func: DEF ID '(' args ')' block;
+// Sintaxe para func em BISON

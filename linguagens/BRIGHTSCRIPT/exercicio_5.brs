@@ -1,1 +1,3 @@
-sub init() : end sub
+sub Main()
+    print "Olá, Mundo!"
+end sub

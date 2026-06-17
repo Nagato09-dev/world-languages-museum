@@ -1,3 +1,3 @@
-for i = 1 to 10
-  print i
-end for
+for i = 1 to 5
+    print i
+next

@@ -1,1 +1,1 @@
-%error-verbose
+// Sintaxe para error em BISON

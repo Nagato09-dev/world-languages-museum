@@ -1,1 +1,3 @@
-if invalid <> obj then ...
+sub Main()
+    print "Olá, Mundo!"
+end sub

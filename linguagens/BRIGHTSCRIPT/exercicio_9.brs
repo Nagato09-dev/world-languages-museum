@@ -1,1 +1,3 @@
-abs(-5)
+sub Main()
+    print "Olá, Mundo!"
+end sub

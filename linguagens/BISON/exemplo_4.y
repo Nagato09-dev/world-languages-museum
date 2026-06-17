@@ -1,1 +1,1 @@
-list: item | list item;
+// Sintaxe para loop em BISON

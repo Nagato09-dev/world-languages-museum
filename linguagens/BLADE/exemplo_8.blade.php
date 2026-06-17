@@ -1,1 +1,1 @@
-var full = "Olá " + "Mundo"
+// Sintaxe para string em BLADE

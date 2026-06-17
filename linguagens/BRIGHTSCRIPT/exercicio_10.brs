@@ -1,1 +1,3 @@
-m.top.findNode("label")
+sub Main()
+    print "Olá, Mundo!"
+end sub

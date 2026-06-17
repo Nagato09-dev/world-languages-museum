@@ -1,3 +1,3 @@
-function Square(n as integer) as integer
-  return n * n
+function Soma(a, b)
+    return a + b
 end function

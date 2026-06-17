@@ -1,3 +1,3 @@
 sub Main()
-  print "Olá Mundo"
+    print "Olá, Mundo!"
 end sub

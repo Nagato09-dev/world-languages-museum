@@ -1,1 +1,1 @@
-stat: IF expr THEN stat;
+// Sintaxe para if em BISON

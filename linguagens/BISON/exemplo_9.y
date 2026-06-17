@@ -1,1 +1,1 @@
-expr: expr '+' expr;
+// Sintaxe para math em BISON

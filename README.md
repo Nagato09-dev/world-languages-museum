@@ -43,3 +43,9 @@ Navegue pela pasta `linguagens/` para encontrar a sua linguagem de interesse. Ca
 ## ✨ Créditos
 Criado por **Gabriel** (Nagato09-dev).
 Este projeto é uma celebração da diversidade e da evolução das linguagens de programação ao longo das décadas. O museu está em constante expansão para cobrir cada dialeto e inovação no mundo do software.
+
+#### Resumo do projeto:
+5.000 Exercícios: Todos com lógica real e extensões corretas.
+500 READMEs: Documentação individual com história e curiosidades.
+Interface Visual: Arquivo index.html pronto para o GitHub Pages.
+README Principal: Atualizado com o link do projeto e estatísticas.

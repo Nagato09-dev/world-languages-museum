@@ -1,2 +1,2 @@
-// Exemplo 5 para DM
-// Sintaxe autêntica sendo preparada
+proc/soma(a, b)
+    return a + b

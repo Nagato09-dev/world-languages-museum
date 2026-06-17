@@ -1,2 +1,4 @@
-// Exemplo 2 para DM
-// Sintaxe autêntica sendo preparada
+var/idade = 25
+var/nome = "DM"
+/mob/Login()
+    world << "[nome] tem [idade] anos"

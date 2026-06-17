@@ -1,1 +1,1 @@
-// Exercício 5 para DM
+proc/mult(a, b) return a * b

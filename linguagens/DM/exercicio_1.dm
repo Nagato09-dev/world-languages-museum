@@ -1,1 +1,2 @@
-// Exercício 1 para DM
+/mob/Login()
+    world << "Seu Nome"

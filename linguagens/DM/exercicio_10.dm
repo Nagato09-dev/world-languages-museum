@@ -1,1 +1,1 @@
-// Exercício 10 para DM
+if(lista.Find(2)) return 1

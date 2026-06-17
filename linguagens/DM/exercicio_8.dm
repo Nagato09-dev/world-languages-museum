@@ -1,1 +1,1 @@
-// Exercício 8 para DM
+proc/inverter(t) return reverse(t)

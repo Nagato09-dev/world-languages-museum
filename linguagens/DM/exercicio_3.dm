@@ -1,1 +1,1 @@
-// Exercício 3 para DM
+if(n % 2 == 0) world << "Par"

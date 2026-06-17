@@ -1,1 +1,1 @@
-// Exercício 4 para DM
+for(var/i=10, i>=1, i--) world << i

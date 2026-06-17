@@ -1,1 +1,1 @@
-// Exercício 7 para DM
+if(!ref) return

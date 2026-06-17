@@ -1,2 +1,1 @@
-// Exemplo 6 para DM
-// Sintaxe autêntica sendo preparada
+var/list/lista = list(1, 2, 3)

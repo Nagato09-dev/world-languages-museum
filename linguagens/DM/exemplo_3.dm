@@ -1,2 +1,5 @@
-// Exemplo 3 para DM
-// Sintaxe autêntica sendo preparada
+proc/check(x)
+    if(x > 0)
+        return "Positivo"
+    else
+        return "Negativo"

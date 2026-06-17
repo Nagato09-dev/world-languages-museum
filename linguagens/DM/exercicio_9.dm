@@ -1,1 +1,1 @@
-// Exercício 9 para DM
+var/area = 3.14 * (r**2)

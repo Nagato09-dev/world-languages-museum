@@ -1,2 +1,2 @@
-// Exemplo 9 para DM
-// Sintaxe autêntica sendo preparada
+proc/raiz(n)
+    return sqrt(n)

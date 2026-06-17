@@ -1,2 +1,1 @@
-// Exemplo 7 para DM
-// Sintaxe autêntica sendo preparada
+# DM usa verificações manuais ou o operador de segurança ?.

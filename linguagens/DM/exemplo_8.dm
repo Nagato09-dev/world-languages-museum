@@ -1,2 +1,2 @@
-// Exemplo 8 para DM
-// Sintaxe autêntica sendo preparada
+proc/maiusculo(t)
+    return uppertext(t)

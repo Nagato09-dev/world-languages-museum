@@ -1,1 +1,1 @@
-// Exercício 6 para DM
+lista.Add(3)

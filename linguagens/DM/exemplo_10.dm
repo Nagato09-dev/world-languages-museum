@@ -1,2 +1,3 @@
-// Exemplo 10 para DM
-// Sintaxe autêntica sendo preparada
+/obj/item/apple
+    name = "Apple"
+    icon = 'food.dmi'

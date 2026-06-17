@@ -1,13 +1,13 @@
 # Museu de Linguagens do Mundo 🌍💻
 
-Bem-vindo ao **Museu das Linguagens do Mundo**! Este repositório é uma das coleções mais massivas e completas do GitHub, contendo exemplos educativos de mais de **450 linguagens de programação** diferentes, totalmente em Português.
+Bem-vindo ao **Museu das Linguagens do Mundo**! Este repositório é uma das coleções mais massivas e completas do GitHub, contendo exemplos educativos de exatamente **500 linguagens de programação** diferentes, totalmente em Português.
 
 ## 📂 Estrutura do Museu
 O museu está organizado em pastas individuais para cada linguagem, com exemplos que funcionam como pequenos tutoriais progressivos para facilitar o aprendizado e a comparação entre sintaxes.
 
 ### Estatísticas Atuais
-- **Total de Linguagens:** 452
-- **Total de Arquivos de Exemplo:** 4.520+
+- **Total de Linguagens:** 500
+- **Total de Arquivos de Exemplo:** 5.000
 - **Idioma:** 100% em Português (comentários e explicações)
 
 ## 🚀 Como Explorar

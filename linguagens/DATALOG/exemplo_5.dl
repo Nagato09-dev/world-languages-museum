@@ -1,2 +1,1 @@
-// Exemplo 5 para DATALOG
-// Sintaxe autêntica sendo preparada
+soma(A, B, C) :- C = A + B.

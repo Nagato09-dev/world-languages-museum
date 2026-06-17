@@ -1,2 +1,1 @@
-// Exemplo 4 para DHALL
-// Sintaxe autêntica sendo preparada
+List/generate 5 Natural (λ(i : Natural) → i)

@@ -1,1 +1,1 @@
-// Exercício 10 para DATALOG
+membro(X, Lista).

@@ -1,1 +1,1 @@
-// Exercício 7 para DATALOG
+falha :- 1 = 0.

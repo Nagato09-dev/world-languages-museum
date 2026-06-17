@@ -1,1 +1,1 @@
-// Exercício 8 para DATALOG
+reverso(S, R).

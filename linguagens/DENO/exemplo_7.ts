@@ -1,2 +1,5 @@
-// Exemplo 7 para DENO
-// Sintaxe autêntica sendo preparada
+try {
+  throw new Error("Erro Deno");
+} catch (e) {
+  console.error(e.message);
+}

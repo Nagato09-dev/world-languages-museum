@@ -1,0 +1,3 @@
+dtrace:::BEGIN {
+  trace("Olá Mundo");
+}

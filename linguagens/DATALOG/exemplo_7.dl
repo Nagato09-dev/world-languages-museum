@@ -1,2 +1,1 @@
-// Exemplo 7 para DATALOG
-// Sintaxe autêntica sendo preparada
+% Datalog é declarativa, erros são falhas de unificação

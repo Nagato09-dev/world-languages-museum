@@ -1,2 +1,3 @@
-// Exemplo 3 para DENO
-// Sintaxe autêntica sendo preparada
+if (Deno.args.length > 0) {
+  console.log("Argumentos presentes");
+}

@@ -1,2 +1,1 @@
-// Exemplo 5 para DHALL
-// Sintaxe autêntica sendo preparada
+let soma = λ(a : Natural) → λ(b : Natural) → a + b in soma 5 3

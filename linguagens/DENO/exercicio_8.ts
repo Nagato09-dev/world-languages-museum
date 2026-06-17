@@ -1,1 +1,1 @@
-// Exercício 8 para DENO
+console.log("deno".split("").reverse().join(""));

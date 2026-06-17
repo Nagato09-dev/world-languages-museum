@@ -1,1 +1,1 @@
-// Exercício 6 para DHALL
+[ 1, 2 ] # [ 3 ]

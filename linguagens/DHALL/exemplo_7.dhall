@@ -1,2 +1,1 @@
-// Exemplo 7 para DHALL
-// Sintaxe autêntica sendo preparada
+-- Dhall é total e não tem erros de runtime

@@ -1,2 +1,1 @@
-// Exemplo 9 para DATALOG
-// Sintaxe autêntica sendo preparada
+raiz(X, Y) :- Y = sqrt(X).

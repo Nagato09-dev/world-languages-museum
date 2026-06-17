@@ -1,1 +1,1 @@
-// Exercício 9 para DENO
+Math.PI * Math.pow(r, 2)

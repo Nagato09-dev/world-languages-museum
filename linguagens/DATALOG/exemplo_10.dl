@@ -1,2 +1,2 @@
-// Exemplo 10 para DATALOG
-// Sintaxe autêntica sendo preparada
+ancestral(X, Y) :- pai(X, Y).
+ancestral(X, Y) :- pai(X, Z), ancestral(Z, Y).

@@ -1,1 +1,1 @@
-// Exercício 9 para DHALL
+3.14 * 5.0 * 5.0

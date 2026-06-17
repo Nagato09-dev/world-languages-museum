@@ -1,1 +1,1 @@
-// Exercício 1 para DENO
+console.log("Seu Nome");

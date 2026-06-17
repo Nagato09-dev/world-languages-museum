@@ -1,1 +1,1 @@
-// Exercício 4 para DENO
+for (let i = 10; i >= 1; i--) console.log(i);

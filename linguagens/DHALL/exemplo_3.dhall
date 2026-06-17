@@ -1,2 +1,1 @@
-// Exemplo 3 para DHALL
-// Sintaxe autêntica sendo preparada
+if Natural/isZero 0 then "Zero" else "Não Zero"

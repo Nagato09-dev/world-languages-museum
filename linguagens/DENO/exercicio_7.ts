@@ -1,1 +1,1 @@
-// Exercício 7 para DENO
+try { Deno.readTextFileSync("nonexistent.txt"); } catch (e) { console.log("Erro"); }

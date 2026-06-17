@@ -1,1 +1,1 @@
-// Exercício 10 para DENO
+lista.includes(2)

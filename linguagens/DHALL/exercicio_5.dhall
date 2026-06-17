@@ -1,1 +1,1 @@
-// Exercício 5 para DHALL
+λ(a : Natural) → λ(b : Natural) → a * b

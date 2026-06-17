@@ -1,2 +1,1 @@
-// Exemplo 2 para DHALL
-// Sintaxe autêntica sendo preparada
+let idade = 25 let nome = "Dhall" in "${nome} tem ${Natural/show idade} anos"

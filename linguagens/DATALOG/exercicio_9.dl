@@ -1,1 +1,1 @@
-// Exercício 9 para DATALOG
+area(R, A) :- A = 3.14 * R * R.

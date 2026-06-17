@@ -1,2 +1,3 @@
-// Exemplo 4 para DENO
-// Sintaxe autêntica sendo preparada
+for (const i of [0, 1, 2, 3, 4]) {
+  console.log(i);
+}

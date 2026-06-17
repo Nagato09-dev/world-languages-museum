@@ -1,1 +1,1 @@
-// Exercício 3 para DATALOG
+par(X) :- X % 2 = 0.

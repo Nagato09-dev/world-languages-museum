@@ -1,1 +1,1 @@
-// Exercício 5 para DENO
+const mult = (a: number, b: number) => a * b;

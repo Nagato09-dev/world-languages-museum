@@ -1,1 +1,1 @@
-// Exercício 2 para DENO
+const f: number = 3.14;

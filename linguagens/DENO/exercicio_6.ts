@@ -1,1 +1,1 @@
-// Exercício 6 para DENO
+lista.push(3);

@@ -1,2 +1,2 @@
-// Exemplo 4 para DATALOG
-// Sintaxe autêntica sendo preparada
+item(1). item(2). item(3).
+?- item(X).

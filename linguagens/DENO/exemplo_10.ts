@@ -1,2 +1,1 @@
-// Exemplo 10 para DENO
-// Sintaxe autêntica sendo preparada
+const data = await Deno.readFile("hello.txt");

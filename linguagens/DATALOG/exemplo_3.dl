@@ -1,2 +1,2 @@
-// Exemplo 3 para DATALOG
-// Sintaxe autêntica sendo preparada
+positivo(X) :- X > 0.
+?- positivo(5).

@@ -1,1 +1,1 @@
-// Exercício 4 para DATALOG
+?- entre(1, 10, X).

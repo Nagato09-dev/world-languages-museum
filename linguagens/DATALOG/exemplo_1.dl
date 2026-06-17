@@ -1,2 +1,2 @@
-// Exemplo 1 para DATALOG
-// Sintaxe autêntica sendo preparada
+hello("Olá Mundo").
+?- hello(X).

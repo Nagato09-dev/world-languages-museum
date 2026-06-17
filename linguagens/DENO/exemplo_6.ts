@@ -1,2 +1,2 @@
-// Exemplo 6 para DENO
-// Sintaxe autêntica sendo preparada
+const lista = new Array(1, 2, 3);
+console.log(lista);

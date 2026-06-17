@@ -1,8 +1,5 @@
 # 🌍 Museu de Linguagens do Mundo
 
-[![GitHub stars](https://img.shields.io/github/stars/Nagato09-dev/museu-de-linguagens-do-mundo?style=for-the-badge&color=d4af37)](https://github.com/Nagato09-dev/museu-de-linguagens-do-mundo/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Nagato09-dev/museu-de-linguagens-do-mundo?style=for-the-badge&color=00f2ff)](https://github.com/Nagato09-dev/museu-de-linguagens-do-mundo/blob/master/LICENSE)
-
 Bem-vindo ao **Museu de Linguagens do Mundo**, o maior acervo digital e interativo de tecnologias de programação do GitHub! Este projeto é uma celebração da evolução do software, contendo informações, exemplos e exercícios para mais de **500 linguagens diferentes**.
 
 ---
@@ -10,7 +7,7 @@ Bem-vindo ao **Museu de Linguagens do Mundo**, o maior acervo digital e interati
 ## 🚀 Experiência Imersiva (GitHub Pages)
 O projeto conta com uma interface visual **completamente personalizada**, com estética de museu digital futurista.
 
-👉 **[ACESSE O MUSEU AQUI](https://Nagato09-dev.github.io/museu-de-linguagens-do-mundo/)**
+👉 **(https://Nagato09-dev.github.io/museu-de-linguagens-do-mundo/)**
 
 ---
 

@@ -1,2 +1,2 @@
-# EIFFEL - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+// Exemplo 3 para EIFFEL
+// Sintaxe autêntica

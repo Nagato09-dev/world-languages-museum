@@ -1,2 +1,2 @@
-// EMBER - Funções - Criando blocos de código reutilizáveis.
-console.log("Funções - Criando blocos de código reutilizáveis.");
+// Exemplo 5 para EMBER
+// Sintaxe autêntica

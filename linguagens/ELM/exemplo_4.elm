@@ -1,4 +1,1 @@
--- ELM - Loops - Repetindo tarefas com para/enquanto.
-main :: IO ()
-main = do
-    putStrLn "Loops - Repetindo tarefas com para/enquanto."
+List.range 0 4 |> List.map String.fromInt |> String.join ", "

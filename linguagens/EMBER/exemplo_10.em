@@ -1,2 +1,2 @@
-// EMBER - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-console.log("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).");
+// Exemplo 10 para EMBER
+// Sintaxe autêntica

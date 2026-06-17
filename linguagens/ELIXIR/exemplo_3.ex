@@ -1,2 +1,6 @@
-# ELIXIR - Controle de Fluxo - Estruturas condicionais (se/então).
-print("Controle de Fluxo - Estruturas condicionais (se/então).")
+x = 5
+if x > 0 do
+  IO.puts("Positivo")
+else
+  IO.puts("Negativo")
+end

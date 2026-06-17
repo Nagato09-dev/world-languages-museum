@@ -1,5 +1,1 @@
-% ERLANG - Variáveis e Tipos - Como armazenar dados.
--module(main).
--export([start/0]).
-start() ->
-    io:format("Variáveis e Tipos - Como armazenar dados.~n").
+A = 10, S = "Erlang", io:format("A: ~p, S: ~s~n", [A, S]).

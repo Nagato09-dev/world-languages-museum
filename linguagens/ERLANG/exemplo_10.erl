@@ -1,5 +1,1 @@
-% ERLANG - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
--module(main).
--export([start/0]).
-start() ->
-    io:format("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).~n").
+lists:sort([3, 1, 4, 1, 5]).

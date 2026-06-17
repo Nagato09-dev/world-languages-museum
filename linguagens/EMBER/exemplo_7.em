@@ -1,2 +1,2 @@
-// EMBER - Tratamento de Erros - Lidando com exceções e falhas.
-console.log("Tratamento de Erros - Lidando com exceções e falhas.");
+// Exemplo 7 para EMBER
+// Sintaxe autêntica

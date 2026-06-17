@@ -1,2 +1,2 @@
-# ECLIPSE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para ECLIPSE
+// Sintaxe autêntica

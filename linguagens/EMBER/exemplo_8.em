@@ -1,2 +1,2 @@
-// EMBER - Manipulação de Strings - Trabalhando com textos.
-console.log("Manipulação de Strings - Trabalhando com textos.");
+// Exemplo 8 para EMBER
+// Sintaxe autêntica

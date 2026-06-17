@@ -1,5 +1,1 @@
-% ERLANG - Tratamento de Erros - Lidando com exceções e falhas.
--module(main).
--export([start/0]).
-start() ->
-    io:format("Tratamento de Erros - Lidando com exceções e falhas.~n").
+try throw(erro) catch _:_ -> io:format("Capturado~n") end.

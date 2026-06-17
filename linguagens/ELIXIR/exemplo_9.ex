@@ -1,2 +1,1 @@
-# ELIXIR - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+IO.puts(:math.sqrt(16.0))

@@ -1,2 +1,2 @@
-# ELIXIR - Manipulação de Strings - Trabalhando com textos.
-print("Manipulação de Strings - Trabalhando com textos.")
+s = "Elixir Language"
+IO.puts(String.upcase(s))

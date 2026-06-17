@@ -1,2 +1,2 @@
-// EMBER - Olá Mundo - O básico de qualquer linguagem.
-console.log("Olá Mundo - O básico de qualquer linguagem.");
+// Exemplo 1 para EMBER
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-# ELIXIR - Estruturas de Dados - Listas, Vetores ou Mapas.
-print("Estruturas de Dados - Listas, Vetores ou Mapas.")
+lista = [1, 2, 3]
+IO.inspect(lista)

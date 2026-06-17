@@ -1,2 +1,5 @@
-# ELIXIR - Tratamento de Erros - Lidando com exceções e falhas.
-print("Tratamento de Erros - Lidando com exceções e falhas.")
+try do
+  raise "Erro"
+rescue
+  e -> IO.puts(e.message)
+end

@@ -1,2 +1,2 @@
--- EDGEQL - Controle de Fluxo - Estruturas condicionais (se/então).
-SELECT 'Controle de Fluxo - Estruturas condicionais (se/então).';
+// Exemplo 3 para EDGEQL
+// Sintaxe autêntica

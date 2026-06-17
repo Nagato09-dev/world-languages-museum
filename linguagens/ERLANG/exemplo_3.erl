@@ -1,5 +1,1 @@
-% ERLANG - Controle de Fluxo - Estruturas condicionais (se/então).
--module(main).
--export([start/0]).
-start() ->
-    io:format("Controle de Fluxo - Estruturas condicionais (se/então).~n").
+X = 5, if X > 0 -> io:format("Positivo~n"); true -> io:format("Negativo~n") end.

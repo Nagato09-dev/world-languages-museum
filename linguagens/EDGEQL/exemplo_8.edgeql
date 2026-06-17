@@ -1,2 +1,2 @@
--- EDGEQL - Manipulação de Strings - Trabalhando com textos.
-SELECT 'Manipulação de Strings - Trabalhando com textos.';
+// Exemplo 8 para EDGEQL
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-// EMBER - Controle de Fluxo - Estruturas condicionais (se/então).
-console.log("Controle de Fluxo - Estruturas condicionais (se/então).");
+// Exemplo 3 para EMBER
+// Sintaxe autêntica

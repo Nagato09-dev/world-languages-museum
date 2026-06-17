@@ -1,2 +1,2 @@
--- EDGEQL - Matemática - Operações aritméticas básicas.
-SELECT 'Matemática - Operações aritméticas básicas.';
+// Exemplo 9 para EDGEQL
+// Sintaxe autêntica

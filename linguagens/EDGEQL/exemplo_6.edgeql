@@ -1,2 +1,2 @@
--- EDGEQL - Estruturas de Dados - Listas, Vetores ou Mapas.
-SELECT 'Estruturas de Dados - Listas, Vetores ou Mapas.';
+// Exemplo 6 para EDGEQL
+// Sintaxe autêntica

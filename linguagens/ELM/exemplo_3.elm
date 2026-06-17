@@ -1,4 +1,1 @@
--- ELM - Controle de Fluxo - Estruturas condicionais (se/então).
-main :: IO ()
-main = do
-    putStrLn "Controle de Fluxo - Estruturas condicionais (se/então)."
+check x = if x > 0 then "Positivo" else "Negativo"

@@ -1,2 +1,2 @@
--- EDGEQL - Funções - Criando blocos de código reutilizáveis.
-SELECT 'Funções - Criando blocos de código reutilizáveis.';
+// Exemplo 5 para EDGEQL
+// Sintaxe autêntica

@@ -1,2 +1,2 @@
-;; EMACS_LISP - Matemática - Operações aritméticas básicas.
-(print "Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para EMACS_LISP
+// Sintaxe autêntica

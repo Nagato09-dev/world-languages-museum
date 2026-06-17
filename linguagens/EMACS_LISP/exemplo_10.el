@@ -1,2 +1,2 @@
-;; EMACS_LISP - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-(print "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+// Exemplo 10 para EMACS_LISP
+// Sintaxe autêntica

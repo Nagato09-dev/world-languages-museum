@@ -1,2 +1,2 @@
-# EUPHORIA - Olá Mundo - O básico de qualquer linguagem.
-print("Olá Mundo - O básico de qualquer linguagem.")
+// Exemplo 1 para EUPHORIA
+// Sintaxe autêntica

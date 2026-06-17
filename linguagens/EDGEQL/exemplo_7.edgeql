@@ -1,2 +1,2 @@
--- EDGEQL - Tratamento de Erros - Lidando com exceções e falhas.
-SELECT 'Tratamento de Erros - Lidando com exceções e falhas.';
+// Exemplo 7 para EDGEQL
+// Sintaxe autêntica

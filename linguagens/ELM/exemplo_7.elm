@@ -1,4 +1,4 @@
--- ELM - Tratamento de Erros - Lidando com exceções e falhas.
-main :: IO ()
-main = do
-    putStrLn "Tratamento de Erros - Lidando com exceções e falhas."
+-- Elm usa types como Result para erros
+checkResult res = case res of
+    Ok val -> val
+    Err msg -> msg

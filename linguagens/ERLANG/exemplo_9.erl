@@ -1,5 +1,1 @@
-% ERLANG - Matemática - Operações aritméticas básicas.
--module(main).
--export([start/0]).
-start() ->
-    io:format("Matemática - Operações aritméticas básicas.~n").
+math:sqrt(16.0).

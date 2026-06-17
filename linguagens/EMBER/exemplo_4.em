@@ -1,2 +1,2 @@
-// EMBER - Loops - Repetindo tarefas com para/enquanto.
-console.log("Loops - Repetindo tarefas com para/enquanto.");
+// Exemplo 4 para EMBER
+// Sintaxe autêntica

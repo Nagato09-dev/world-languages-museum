@@ -1,2 +1,2 @@
-# ELIXIR - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-print("Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).")
+list = [3, 1, 4, 1, 5]
+IO.inspect(Enum.sort(list))

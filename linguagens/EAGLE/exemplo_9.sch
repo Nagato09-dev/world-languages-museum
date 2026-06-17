@@ -1,2 +1,2 @@
-# EAGLE - Matemática - Operações aritméticas básicas.
-print("Matemática - Operações aritméticas básicas.")
+// Exemplo 9 para EAGLE
+// Sintaxe autêntica

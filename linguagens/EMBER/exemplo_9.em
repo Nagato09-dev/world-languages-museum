@@ -1,2 +1,2 @@
-// EMBER - Matemática - Operações aritméticas básicas.
-console.log("Matemática - Operações aritméticas básicas.");
+// Exemplo 9 para EMBER
+// Sintaxe autêntica

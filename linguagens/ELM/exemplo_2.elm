@@ -1,4 +1,3 @@
--- ELM - Variáveis e Tipos - Como armazenar dados.
-main :: IO ()
-main = do
-    putStrLn "Variáveis e Tipos - Como armazenar dados."
+idade = 25
+nome = "Elm"
+main = text (nome ++ " tem " ++ String.fromInt idade)

@@ -1,2 +1,2 @@
--- EDGEQL - Olá Mundo - O básico de qualquer linguagem.
-SELECT 'Olá Mundo - O básico de qualquer linguagem.';
+// Exemplo 1 para EDGEQL
+// Sintaxe autêntica

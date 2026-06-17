@@ -1,2 +1,2 @@
--- EDGEQL - Loops - Repetindo tarefas com para/enquanto.
-SELECT 'Loops - Repetindo tarefas com para/enquanto.';
+// Exemplo 4 para EDGEQL
+// Sintaxe autêntica

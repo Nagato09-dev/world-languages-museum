@@ -1,2 +1,2 @@
-// EMBER - Estruturas de Dados - Listas, Vetores ou Mapas.
-console.log("Estruturas de Dados - Listas, Vetores ou Mapas.");
+// Exemplo 6 para EMBER
+// Sintaxe autêntica

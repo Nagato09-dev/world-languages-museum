@@ -1,4 +1,3 @@
--- ELM - Olá Mundo - O básico de qualquer linguagem.
-main :: IO ()
-main = do
-    putStrLn "Olá Mundo - O básico de qualquer linguagem."
+module Main exposing (main)
+import Html exposing (text)
+main = text "Olá Mundo"

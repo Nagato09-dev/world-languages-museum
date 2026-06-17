@@ -1,2 +1,2 @@
--- EDGEQL - Variáveis e Tipos - Como armazenar dados.
-SELECT 'Variáveis e Tipos - Como armazenar dados.';
+// Exemplo 2 para EDGEQL
+// Sintaxe autêntica

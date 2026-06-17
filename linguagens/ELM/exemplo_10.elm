@@ -1,4 +1,1 @@
--- ELM - Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci).
-main :: IO ()
-main = do
-    putStrLn "Conceito Avançado - Um pequeno algoritmo (ex: Fibonacci)."
+List.sort [3, 1, 4, 1, 5]

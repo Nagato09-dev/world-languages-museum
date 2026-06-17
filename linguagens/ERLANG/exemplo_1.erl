@@ -1,5 +1,3 @@
-% ERLANG - Olá Mundo - O básico de qualquer linguagem.
--module(main).
--export([start/0]).
-start() ->
-    io:format("Olá Mundo - O básico de qualquer linguagem.~n").
+-module(hello).
+-export([hello_world/0]).
+hello_world() -> io:fwrite("Olá Mundo\n").

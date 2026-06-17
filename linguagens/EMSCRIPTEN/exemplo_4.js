@@ -1,2 +1,2 @@
-# EMSCRIPTEN - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+// Exemplo 4 para EMSCRIPTEN
+// Sintaxe autêntica

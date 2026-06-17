@@ -1,2 +1,1 @@
-# ELIXIR - Loops - Repetindo tarefas com para/enquanto.
-print("Loops - Repetindo tarefas com para/enquanto.")
+Enum.each(0..4, fn i -> IO.puts(i) end)

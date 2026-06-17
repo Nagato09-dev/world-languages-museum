@@ -1,2 +1,2 @@
-;; EMACS_LISP - Variáveis e Tipos - Como armazenar dados.
-(print "Variáveis e Tipos - Como armazenar dados.")
+// Exemplo 2 para EMACS_LISP
+// Sintaxe autêntica

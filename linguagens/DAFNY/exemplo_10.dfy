@@ -1,2 +1,3 @@
-// Exemplo 10 para DAFNY
-// Sintaxe autêntica sendo preparada
+method Sort(a: array<int>)
+  modifies a
+  // Especificações de ordenação

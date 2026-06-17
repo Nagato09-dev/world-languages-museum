@@ -1,1 +1,1 @@
-// Exercício 7 para DAFNY
+assert b != 0;

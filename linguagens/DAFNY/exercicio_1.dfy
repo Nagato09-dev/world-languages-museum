@@ -1,1 +1,1 @@
-// Exercício 1 para DAFNY
+method Main() { print "Seu Nome"; }

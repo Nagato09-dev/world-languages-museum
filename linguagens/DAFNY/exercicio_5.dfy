@@ -1,1 +1,1 @@
-// Exercício 5 para DAFNY
+function method Mult(a: int, b: int): int { a * b }

@@ -1,2 +1,7 @@
-// Exemplo 3 para DAFNY
-// Sintaxe autêntica sendo preparada
+method Check(x: int) {
+  if x > 0 {
+    print "Positivo\n";
+  } else {
+    print "Negativo\n";
+  }
+}

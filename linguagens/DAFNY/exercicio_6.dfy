@@ -1,1 +1,1 @@
-// Exercício 6 para DAFNY
+a[3] := 10;

@@ -1,2 +1,3 @@
-// Exemplo 1 para DAFNY
-// Sintaxe autêntica sendo preparada
+method Main() {
+  print "Olá Mundo\n";
+}

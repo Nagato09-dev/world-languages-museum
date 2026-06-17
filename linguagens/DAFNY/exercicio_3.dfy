@@ -1,1 +1,1 @@
-// Exercício 3 para DAFNY
+if n % 2 == 0 { print "Par"; }

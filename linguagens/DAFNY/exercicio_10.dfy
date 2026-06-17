@@ -1,1 +1,1 @@
-// Exercício 10 para DAFNY
+exists i :: 0 <= i < a.Length && a[i] == x

@@ -1,2 +1,4 @@
-// Exemplo 8 para DAFNY
-// Sintaxe autêntica sendo preparada
+method Main() {
+  var s := "dafny";
+  // Manipulação de strings via sequências
+}

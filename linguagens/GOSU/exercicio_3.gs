@@ -1,1 +1,1 @@
-// Exercício 3 para GOSU
+print("Olá, Mundo!")

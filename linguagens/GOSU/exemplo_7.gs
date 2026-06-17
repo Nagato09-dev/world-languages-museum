@@ -1,2 +1,1 @@
-// Exemplo 7 para GOSU
-// Sintaxe autêntica
+// Sintaxe para error em GOSU

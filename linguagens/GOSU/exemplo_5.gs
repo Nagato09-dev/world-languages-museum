@@ -1,2 +1,3 @@
-// Exemplo 5 para GOSU
-// Sintaxe autêntica
+function soma(a : int, b : int) : int {
+  return a + b
+}

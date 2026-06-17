@@ -1,2 +1,3 @@
-// Exemplo 1 para GRAPHVIZ_DOT
-// Sintaxe autêntica
+digraph G {
+  Hello -> World;
+}

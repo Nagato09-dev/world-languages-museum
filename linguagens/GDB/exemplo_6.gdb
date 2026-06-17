@@ -1,2 +1,1 @@
-// Exemplo 6 para GDB
-// Sintaxe autêntica
+// Sintaxe para list em GDB

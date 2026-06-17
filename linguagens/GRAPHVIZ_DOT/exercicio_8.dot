@@ -1,1 +1,3 @@
-// Exercício 8 para GRAPHVIZ_DOT
+digraph G {
+  Hello -> World;
+}

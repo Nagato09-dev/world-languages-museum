@@ -1,2 +1,1 @@
-// Exemplo 6 para GOSU
-// Sintaxe autêntica
+// Sintaxe para list em GOSU

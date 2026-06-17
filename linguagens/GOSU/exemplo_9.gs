@@ -1,2 +1,1 @@
-// Exemplo 9 para GOSU
-// Sintaxe autêntica
+// Sintaxe para math em GOSU

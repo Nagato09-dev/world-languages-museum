@@ -1,1 +1,1 @@
-// Exercício 2 para FILEBENCH_WML
+print "Olá, Mundo!"

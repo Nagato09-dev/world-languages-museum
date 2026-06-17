@@ -1,2 +1,1 @@
-// Exemplo 8 para GOSU
-// Sintaxe autêntica
+// Sintaxe para string em GOSU

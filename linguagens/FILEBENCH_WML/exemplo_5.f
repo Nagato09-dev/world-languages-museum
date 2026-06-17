@@ -1,2 +1,1 @@
-// Exemplo 5 para FILEBENCH_WML
-// Sintaxe autêntica
+define flowop name=myop, filename=/tmp/test

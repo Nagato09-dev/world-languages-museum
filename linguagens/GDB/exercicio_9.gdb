@@ -1,1 +1,1 @@
-// Exercício 9 para GDB
+echo Olá, Mundo!\n

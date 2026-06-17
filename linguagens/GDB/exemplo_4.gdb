@@ -1,2 +1,1 @@
-// Exemplo 4 para GDB
-// Sintaxe autêntica
+// Sintaxe para loop em GDB

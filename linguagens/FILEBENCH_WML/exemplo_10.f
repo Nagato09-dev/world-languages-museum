@@ -1,2 +1,1 @@
-// Exemplo 10 para FILEBENCH_WML
-// Sintaxe autêntica
+// Sintaxe para sort em FILEBENCH_WML

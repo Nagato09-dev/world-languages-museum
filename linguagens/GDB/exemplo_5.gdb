@@ -1,2 +1,1 @@
-// Exemplo 5 para GDB
-// Sintaxe autêntica
+// Sintaxe para func em GDB

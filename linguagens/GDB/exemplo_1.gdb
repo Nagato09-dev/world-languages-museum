@@ -1,2 +1,1 @@
-// Exemplo 1 para GDB
-// Sintaxe autêntica
+echo Olá, Mundo!\n

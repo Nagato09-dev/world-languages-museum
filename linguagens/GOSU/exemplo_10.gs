@@ -1,2 +1,1 @@
-// Exemplo 10 para GOSU
-// Sintaxe autêntica
+// Sintaxe para sort em GOSU

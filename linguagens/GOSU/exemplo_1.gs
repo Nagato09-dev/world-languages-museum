@@ -1,2 +1,1 @@
-// Exemplo 1 para GOSU
-// Sintaxe autêntica
+print("Olá, Mundo!")

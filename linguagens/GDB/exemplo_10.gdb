@@ -1,2 +1,1 @@
-// Exemplo 10 para GDB
-// Sintaxe autêntica
+// Sintaxe para sort em GDB

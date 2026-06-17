@@ -1,2 +1,1 @@
-// Exemplo 8 para GDB
-// Sintaxe autêntica
+// Sintaxe para string em GDB

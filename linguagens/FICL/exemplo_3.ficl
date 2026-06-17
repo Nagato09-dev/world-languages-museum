@@ -1,2 +1,1 @@
-// Exemplo 3 para FICL
-// Sintaxe autêntica
+x @ 10 > if ." Maior" else ." Menor" then

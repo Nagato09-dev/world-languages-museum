@@ -1,2 +1,1 @@
-// Exemplo 9 para FILEBENCH_WML
-// Sintaxe autêntica
+// Sintaxe para math em FILEBENCH_WML

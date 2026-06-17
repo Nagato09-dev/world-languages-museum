@@ -1,2 +1,3 @@
-// Exemplo 3 para GOSU
-// Sintaxe autêntica
+if (x > 10) {
+  print("Maior")
+}

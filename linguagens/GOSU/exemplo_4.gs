@@ -1,2 +1,3 @@
-// Exemplo 4 para GOSU
-// Sintaxe autêntica
+for (i in 1..5) {
+  print(i)
+}

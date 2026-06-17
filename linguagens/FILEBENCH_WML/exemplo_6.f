@@ -1,2 +1,1 @@
-// Exemplo 6 para FILEBENCH_WML
-// Sintaxe autêntica
+// Sintaxe para list em FILEBENCH_WML

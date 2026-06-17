@@ -1,2 +1,1 @@
-// Exemplo 9 para GDB
-// Sintaxe autêntica
+// Sintaxe para math em GDB

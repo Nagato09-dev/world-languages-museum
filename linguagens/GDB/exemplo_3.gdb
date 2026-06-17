@@ -1,2 +1,3 @@
-// Exemplo 3 para GDB
-// Sintaxe autêntica
+if $x > 10
+  echo Maior\n
+end

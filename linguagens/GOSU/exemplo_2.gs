@@ -1,2 +1,2 @@
-// Exemplo 2 para GOSU
-// Sintaxe autêntica
+var x = 42
+var s = "Gosu"

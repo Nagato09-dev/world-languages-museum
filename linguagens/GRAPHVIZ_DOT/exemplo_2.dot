@@ -1,2 +1,1 @@
-// Exemplo 2 para GRAPHVIZ_DOT
-// Sintaxe autêntica
+node [shape=box, color=blue];

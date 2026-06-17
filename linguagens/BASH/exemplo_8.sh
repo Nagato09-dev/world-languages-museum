@@ -1,1 +1,1 @@
-full="Olá $name"
+-- Sintaxe para string em BASH

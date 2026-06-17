@@ -1,1 +1,4 @@
-int n = (10 + 5);
+import ballerina/io;
+public function main() {
+    io:println("Olá, Mundo!");
+}

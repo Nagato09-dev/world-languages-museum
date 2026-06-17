@@ -1,1 +1,2 @@
-case $val in 1) ;; esac
+#!/bin/bash
+echo "Olá, Mundo!"

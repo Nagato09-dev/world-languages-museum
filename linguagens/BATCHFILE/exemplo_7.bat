@@ -1,1 +1,1 @@
-if errorlevel 1 echo Erro
+-- Sintaxe para error em BATCHFILE

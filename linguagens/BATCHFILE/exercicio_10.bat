@@ -1,1 +1,3 @@
-shutdown /s
+@echo off
+echo Olá, Mundo!
+pause

@@ -1,2 +1,2 @@
-10 LET X = 10
-20 LET S$ = "Olá"
+10 LET X = 42
+20 LET S$ = "BASIC"

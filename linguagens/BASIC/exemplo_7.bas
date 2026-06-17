@@ -1,1 +1,1 @@
-10 ON ERROR GOTO 100
+-- Sintaxe para error em BASIC

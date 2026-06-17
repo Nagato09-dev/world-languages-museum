@@ -1,1 +1,3 @@
-exit /b 0
+@echo off
+echo Olá, Mundo!
+pause

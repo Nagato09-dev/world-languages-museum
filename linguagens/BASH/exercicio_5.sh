@@ -1,1 +1,2 @@
-function add() { return $(( $1 + $2 )); }
+#!/bin/bash
+echo "Olá, Mundo!"

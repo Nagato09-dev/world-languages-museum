@@ -1,2 +1,3 @@
 @echo off
-echo Olá Mundo
+echo Olá, Mundo!
+pause

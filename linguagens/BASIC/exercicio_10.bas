@@ -1,1 +1,2 @@
-10 POKE 1024, 1
+10 PRINT "Olá, Mundo!"
+20 END

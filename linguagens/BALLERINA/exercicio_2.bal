@@ -1,1 +1,4 @@
-boolean active = true;
+import ballerina/io;
+public function main() {
+    io:println("Olá, Mundo!");
+}

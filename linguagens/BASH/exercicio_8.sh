@@ -1,1 +1,2 @@
-${s,,} # Lowercase
+#!/bin/bash
+echo "Olá, Mundo!"

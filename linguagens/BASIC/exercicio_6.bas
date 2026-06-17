@@ -1,2 +1,2 @@
-10 DATA 1, 2, 3
-20 READ X
+10 PRINT "Olá, Mundo!"
+20 END

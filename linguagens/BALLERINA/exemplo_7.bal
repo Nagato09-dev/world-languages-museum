@@ -1,1 +1,1 @@
-check panic functionWithErr();
+-- Sintaxe para error em BALLERINA

@@ -1,1 +1,2 @@
-10 PRINT "Hello BASIC"
+10 PRINT "Olá, Mundo!"
+20 END

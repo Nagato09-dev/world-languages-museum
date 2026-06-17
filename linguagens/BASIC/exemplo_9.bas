@@ -1,1 +1,1 @@
-10 LET R = SQR(16)
+-- Sintaxe para math em BASIC

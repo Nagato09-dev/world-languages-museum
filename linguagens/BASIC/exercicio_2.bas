@@ -1,1 +1,2 @@
-10 INPUT "N: ", N
+10 PRINT "Olá, Mundo!"
+20 END

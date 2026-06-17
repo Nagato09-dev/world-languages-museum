@@ -1,1 +1,1 @@
-res=$(echo "scale=2; sqrt(16)" | bc)
+-- Sintaxe para math em BASH

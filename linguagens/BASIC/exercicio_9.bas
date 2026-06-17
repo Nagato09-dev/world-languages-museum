@@ -1,1 +1,2 @@
-10 LET Z = X / Y
+10 PRINT "Olá, Mundo!"
+20 END

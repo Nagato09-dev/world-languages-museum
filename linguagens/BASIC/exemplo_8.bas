@@ -1,1 +1,1 @@
-10 LET A$ = "Olá" + " Mundo"
+-- Sintaxe para string em BASIC

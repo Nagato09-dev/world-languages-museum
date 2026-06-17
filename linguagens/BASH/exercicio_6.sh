@@ -1,1 +1,2 @@
-echo ${list[0]}
+#!/bin/bash
+echo "Olá, Mundo!"

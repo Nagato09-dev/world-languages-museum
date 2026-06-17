@@ -1,1 +1,2 @@
-read -p "Nome: " name
+#!/bin/bash
+echo "Olá, Mundo!"

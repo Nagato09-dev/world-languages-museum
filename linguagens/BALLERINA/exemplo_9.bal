@@ -1,1 +1,1 @@
-float r = 16.0.sqrt();
+-- Sintaxe para math em BALLERINA

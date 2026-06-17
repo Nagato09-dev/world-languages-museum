@@ -1,1 +1,1 @@
-set full=%s% Mundo
+-- Sintaxe para string em BATCHFILE

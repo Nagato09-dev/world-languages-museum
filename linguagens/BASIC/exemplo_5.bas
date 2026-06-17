@@ -1,1 +1,1 @@
-10 DEF FN SQR(N) = N * N
+10 DEF FNADD(A, B) = A + B

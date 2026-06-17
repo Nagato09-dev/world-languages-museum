@@ -1,3 +1,3 @@
-foreach int i in 1...10 {
-    io:println(i);
+foreach int x in 1...5 {
+    io:println(x);
 }

@@ -1,3 +1,3 @@
-for i in {1..10}; do
-  echo $i
+for i in {1..5}; do
+    echo $i
 done

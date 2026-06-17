@@ -1,1 +1,3 @@
-if exist file.txt ( )
+@echo off
+echo Olá, Mundo!
+pause

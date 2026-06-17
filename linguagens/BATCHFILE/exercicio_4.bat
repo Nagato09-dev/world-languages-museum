@@ -1,1 +1,3 @@
-while logic using goto
+@echo off
+echo Olá, Mundo!
+pause

@@ -1,1 +1,3 @@
-set /a x+=1
+@echo off
+echo Olá, Mundo!
+pause

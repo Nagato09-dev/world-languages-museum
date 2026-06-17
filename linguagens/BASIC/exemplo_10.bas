@@ -1,1 +1,1 @@
-10 GOSUB 500
+-- Sintaxe para sort em BASIC

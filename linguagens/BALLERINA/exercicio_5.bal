@@ -1,1 +1,4 @@
-function add(int a, int b) returns int => a + b;
+import ballerina/io;
+public function main() {
+    io:println("Olá, Mundo!");
+}

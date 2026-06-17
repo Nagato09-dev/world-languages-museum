@@ -1,1 +1,2 @@
-(( x = a + b ))
+#!/bin/bash
+echo "Olá, Mundo!"

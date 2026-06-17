@@ -1,1 +1,2 @@
-10 IF A=B THEN 50
+10 PRINT "Olá, Mundo!"
+20 END

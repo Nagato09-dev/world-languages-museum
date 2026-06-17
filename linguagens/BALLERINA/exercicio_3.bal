@@ -1,1 +1,4 @@
-match val { 1 => { } }
+import ballerina/io;
+public function main() {
+    io:println("Olá, Mundo!");
+}

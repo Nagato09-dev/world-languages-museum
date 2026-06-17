@@ -1,1 +1,3 @@
-set /p name=Nome: 
+@echo off
+echo Olá, Mundo!
+pause

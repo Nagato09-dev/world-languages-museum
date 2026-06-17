@@ -1,1 +1,1 @@
-trap 'echo Erro' ERR
+-- Sintaxe para sort em BASH

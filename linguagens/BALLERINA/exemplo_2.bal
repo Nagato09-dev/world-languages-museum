@@ -1,2 +1,2 @@
-int x = 10;
-string s = "Olá";
+string s = "Ballerina";
+int i = 42;

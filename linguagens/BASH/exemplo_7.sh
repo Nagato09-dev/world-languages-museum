@@ -1,1 +1,1 @@
-command || { echo "Erro"; exit 1; }
+-- Sintaxe para error em BASH

@@ -1,1 +1,1 @@
-call :label
+-- Sintaxe para sort em BATCHFILE

@@ -1,1 +1,1 @@
-string full = string `Olá ${name}`;
+-- Sintaxe para string em BALLERINA

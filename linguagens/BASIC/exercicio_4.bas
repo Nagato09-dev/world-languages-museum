@@ -1,3 +1,2 @@
-10 WHILE X > 0
-20 X = X - 1
-30 WEND
+10 PRINT "Olá, Mundo!"
+20 END

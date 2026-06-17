@@ -1,1 +1,2 @@
-set -e
+#!/bin/bash
+echo "Olá, Mundo!"

@@ -1,1 +1,2 @@
-find . -name "*.txt"
+#!/bin/bash
+echo "Olá, Mundo!"

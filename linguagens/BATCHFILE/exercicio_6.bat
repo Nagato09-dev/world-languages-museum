@@ -1,1 +1,3 @@
-dir /b
+@echo off
+echo Olá, Mundo!
+pause

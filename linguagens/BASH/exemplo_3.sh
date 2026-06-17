@@ -1,3 +1,5 @@
-if [ $x -gt 5 ]; then
-  echo "Maior"
+if [ $x -gt 10 ]; then
+    echo "Maior"
+else
+    echo "Menor"
 fi

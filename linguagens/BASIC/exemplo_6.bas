@@ -1,1 +1,1 @@
-10 DIM A(10)
+-- Sintaxe para list em BASIC

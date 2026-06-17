@@ -1,1 +1,3 @@
-func square(n) { return n * n }
+paraan soma(a, b)
+    ibalik a + b
+wakas

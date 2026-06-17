@@ -1,1 +1,2 @@
-while [ $x -gt 0 ]; do ((x--)); done
+#!/bin/bash
+echo "Olá, Mundo!"

@@ -1,1 +1,4 @@
-io:println("Hello Ballerina");
+import ballerina/io;
+public function main() {
+    io:println("Olá, Mundo!");
+}

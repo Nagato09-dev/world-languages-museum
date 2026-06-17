@@ -1,1 +1,1 @@
-set /a res=10 + 5
+-- Sintaxe para math em BATCHFILE

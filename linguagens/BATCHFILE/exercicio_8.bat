@@ -1,1 +1,3 @@
-set s=%s:old=new%
+@echo off
+echo Olá, Mundo!
+pause

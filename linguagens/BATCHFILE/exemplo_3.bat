@@ -1,1 +1,5 @@
-if %x% GTR 5 echo Maior
+if %x% GTR 10 (
+    echo Maior
+) else (
+    echo Menor
+)
